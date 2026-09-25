@@ -1,0 +1,108 @@
+{
+  "company": "Santana Minerals Limited",
+  "tickers": [
+    "SMI"
+  ],
+  "exchange": "ASX",
+  "headquarters": "Brisbane, Queensland",
+  "fiscal_year": 2025,
+  "report_title": null,
+  "report_url": null,
+  "pdf_path": null,
+  "data_status": "FY2026 annual report not yet published as of 2026-09-25 (full-year earnings release expected ~30 Sep 2026); FY2025 (y/e 30 Jun 2025) used as base report. Mine entry and reserves/resources reflect the post-FY2025 Updated PFS (1 Jul 2025) and subsequent FY2026 developments (Fast-Track timetable, placement, land acquisitions, drilling). Costs in AUD (flagged); no USD conversion applied.",
+  "total_gold_production_oz": 0,
+  "total_silver_production_oz": null,
+  "notes": "FY2025 (y/e 30 Jun 2025) annual report used as base; FY2026 AR not yet published (expected ~30 Sep 2026). Exec Director & CEO Damian Spring; Exec Director & CDO Sam Smith. Registered office: Level 1, 371 Queen Street, Brisbane QLD 4000 (ABN 37 161 946 989); T: +61 7 3221 7501. FY2025: no revenue; net loss A$1.69M; operating cash flow -A$2.73M; capex -A$16.3M; financing +A$36.2M; cash ~A$50.5M and equity ~A$103M at 30 Jun 2025. Feb 2026: A$130M placement at A$0.90 (second tranche completed June 2026) + A$4.1M SPP to fund BOGP consenting, development and FID preparation; net cash ~A$188M at 30 Jun 2026. Early infrastructure civil works and long-lead plant/infrastructure procurement underway. fiscal_year_end: 2025-06-30 | primary_commodity_focus: Gold | currency: AUD | company_overview: ASX/NZX-listed gold developer (dual-listed ASX/NZX: SMI) focused on the 100%-owned Bendigo-Ophir Gold Project (BOGP) in Central Otago, New Zealand. Updated PFS (1 Jul 2025): 1.2 Mtpa plant, 1.25 Moz over 13.8 years, peak 120 kozpa, after-tax NPV6.5 A$1.5B and IRR 65% at A$4,950/oz, AISC A$1,842/oz, pre-production capex A$277M. Advancing through New Zealand's Fast-Track Approvals process (final consent decision scheduled 16 Dec 2026; development activities targeted early 2027). Well funded: A$130M placement (Feb 2026) + A$4.1M SPP; net cash ~A$188M at 30 Jun 2026. | sources: ['Santana Minerals Ltd FY2025 Annual Report (y/e 30 Jun 2025): no revenue; net loss A$1.69M; cash ~A$50.5M; equity ~A$103M at 30 Jun 2025', 'Updated Pre-Feasibility Study - Bendigo-Ophir Gold Project (1 Jul 2025, via June 2025 quarterly report 24 Jul 2025): 1.2 Mtpa plant, 1.25 Moz over 13.8 years, peak 120 kozpa; @ A$4,950/oz: after-tax NPV6.5 A$1.5B, IRR 65%, cash cost A$1,741/oz, AISC A$1,842/oz, pre-production capex A$277M incl. 10% contingency; LOM sustaining capex A$53M; payback ~1.7 yrs; maiden Probable OR 15.5 Mt @ 2.4 g/t = 1,181 koz; MRE total 35.2 Mt @ 2.0 = 2,306 koz (RAS: Ind 18.9 Mt @ 2.5 = 1,538 koz; Inf 7.6 Mt @ 2.2 = 542 koz; CIT/SHR/SRE: Ind 3.0 Mt @ 0.7 = 69 koz; Inf 5.7 Mt @ 0.9 = 157 koz)', 'Bendigo-Ophir PFS (15 Nov 2024): 147 kozpa first 3 yrs, ~125 kozpa avg from 9.2 yrs of reserves (RAS + SRX); Probable Reserve 15.5 Mt @ 2.37 = 1.18 Moz; total production 1.15 Moz @ avg AISC A$1,416/oz; 1.5 Mtpa CIL @ 92.4% recovery; capex A$340M; @ A$4,000/oz: after-tax NPV8 A$1.06B, IRR 68%', 'Company Fast-Track updates (Jun-Sep 2026): expert conferencing completed; final consent decision 16 Dec 2026; NZ$17.7M in process costs; OIO approval for 3,680 ha freehold (Bendigo/Ardgour stations) incl. royalty buybacks; mineralisation extended 900 m beyond underground design (Jul 2026)', 'Feb 2026: A$130M placement at A$0.90 + SPP A$4.1M; net cash ~A$188M at 30 Jun 2026']",
+  "mines": [
+    {
+      "mine": "Bendigo-Ophir Gold Project",
+      "country": "New Zealand",
+      "ownership_pct": 100,
+      "status": "Development (Updated PFS completed 1 Jul 2025; Fast-Track consent decision due 16 Dec 2026)",
+      "mine_type": null,
+      "processing": null,
+      "gold_oz": 0,
+      "silver_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": null,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": null,
+      "reserve_au_oz": null,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": null,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "100%-owned flagship gold development in Central Otago, New Zealand, centred on the Rise and Shine (RAS) deposit within the Rise and Shine Shear Zone. Updated PFS (1 Jul 2025, incorporating March 2025 MRE): 1.2 Mtpa plant producing 1.25 Moz over 13.8 years (avg ~90 kozpa, peak 120 kozpa), targeting the redefined high-grade (HG1) domain; staged underground development from ~year seven. Conventional CIL plant with ~92.4% average recovery. Permitting: 30-year Mining Permit held; assessment under NZ Fast-Track Approvals Act - hearings June 2026, statutory decision date 16 Dec 2026 (~NZ$17.7M invested in process costs); development activities targeted early 2027. Land: OIO approval to acquire 3,680 ha freehold at Bendigo and Ardgour Stations incl. royalty buybacks. Drilling July 2026: mineralisation extended 900 m beyond current underground mine design. Rise and Shine Mining Permit under evaluation (100%); Ardgour Prospecting Permit (100%); Snoul, Cambodia (34%). [production_notes: No production (developer). FID pending Fast-Track consent decision (16 Dec 2026).] [primary_commodity: Gold] [cost_breakdown_notes: Updated PFS economics at A$4,950/oz gold: after-tax NPV6.5 A$1.5B, IRR 65%, total cash cost A$1,741/oz, AISC A$1,842/oz (AUD, flagged); pre-production capex A$277M incl. 10% contingency; LOM sustaining capex A$53M; payback ~1.7 years. (Original Nov 2024 PFS at A$4,000/oz: 1.5 Mtpa CIL, ~125 kozpa avg over 9.2 yrs of reserves, AISC A$1,416/oz, capex A$340M drawdown, after-tax NPV8 A$1.06B, IRR 68%.)]"
+    }
+  ],
+  "reserves_resources": [
+    {
+      "mine": "Bendigo-Ophir (RAS deposit)",
+      "classification": "Mineral Resource (Indicated; March 2025 MRE)",
+      "tonnes_mt": 18.9,
+      "au_gpt": 2.5,
+      "ag_gpt": null,
+      "contained_au_oz": 1538000,
+      "contained_ag_oz": null,
+      "effective_date": "2025-07-01",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Bendigo-Ophir (RAS deposit)",
+      "classification": "Mineral Resource (Inferred; March 2025 MRE)",
+      "tonnes_mt": 7.6,
+      "au_gpt": 2.2,
+      "ag_gpt": null,
+      "contained_au_oz": 542000,
+      "contained_ag_oz": null,
+      "effective_date": "2025-07-01",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Bendigo-Ophir (CIT, SHR, SRE deposits)",
+      "classification": "Mineral Resource (Indicated)",
+      "tonnes_mt": 3.0,
+      "au_gpt": 0.7,
+      "ag_gpt": null,
+      "contained_au_oz": 69000,
+      "contained_ag_oz": null,
+      "effective_date": "2025-07-01",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Bendigo-Ophir (CIT, SHR, SRE deposits)",
+      "classification": "Mineral Resource (Inferred)",
+      "tonnes_mt": 5.7,
+      "au_gpt": 0.9,
+      "ag_gpt": null,
+      "contained_au_oz": 157000,
+      "contained_ag_oz": null,
+      "effective_date": "2025-07-01",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Bendigo-Ophir (total)",
+      "classification": "Mineral Resource (Total, per Updated PFS)",
+      "tonnes_mt": 35.2,
+      "au_gpt": 2.0,
+      "ag_gpt": null,
+      "contained_au_oz": 2306000,
+      "contained_ag_oz": null,
+      "effective_date": "2025-07-01",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Bendigo-Ophir (RAS open pit + underground)",
+      "classification": "Ore Reserve (Probable; maiden)",
+      "tonnes_mt": 15.5,
+      "au_gpt": 2.4,
+      "ag_gpt": null,
+      "contained_au_oz": 1181000,
+      "contained_ag_oz": null,
+      "effective_date": "2025-07-01",
+      "notes": "material: Gold"
+    }
+  ]
+}

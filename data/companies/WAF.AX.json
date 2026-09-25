@@ -1,0 +1,75 @@
+{
+ "company": "West African Resources Limited",
+ "tickers": [
+  "WAF"
+ ],
+ "exchange": "ASX",
+ "headquarters": "Subiaco, Western Australia, Australia",
+ "fiscal_year": 2025,
+ "report_title": "2025 Annual Report (web-derived)",
+ "report_url": "https://www.fool.com.au/2026/03/17/west-african-resources-posts-567m-profit-as-gold-production-grows/",
+ "pdf_path": null,
+ "data_status": "complete",
+ "total_gold_production_oz": 300383,
+ "total_silver_production_oz": null,
+ "notes": "Fiscal year is calendar year: most recent annual report is year ended 31 Dec 2025 (fiscal_year 2025). Costs already in USD (no conversion). Exec Chairman & CEO Richard Hyde. 2025: revenue A$1.54B, NPAT A$567M, op cash flow A$790M, A$584M cash + 27,095 oz bullion, unhedged. AISC per mine not disclosed (group only). Burkina Faso state's free-carried interest in Sanbrado/Kiaka/Toega increased from 10% to 15% in 2025; decree for state to acquire 25% of Kiaka SA for A$175M via SOPAMIB expected to settle 2026. H1 2026: 232,905 oz @ US$1,823/oz; 2026 guidance 430,000-490,000 oz @ AISC <US$1,900/oz. Ore Reserves 6.5 Moz, Mineral Resources 11.8 Moz; 10-year target ~496 koz pa 2026-2034, mine plan to 2035.",
+ "mines": [
+  {
+   "mine": "Sanbrado",
+   "country": "Burkina Faso",
+   "ownership_pct": 85,
+   "status": "Operating",
+   "mine_type": "Underground + Open pit",
+   "processing": "Sanbrado CIL plant (745 kt @ 2.2 g/t, 93.2% recovery in Q4 2025)",
+   "gold_oz": 205228,
+   "silver_oz": null,
+   "byproduct": null,
+   "byproduct_qty": null,
+   "byproduct_unit": null,
+   "head_grade_au_gpt": 2.2,
+   "head_grade_ag_gpt": null,
+   "reserve_tonnes_mt": null,
+   "reserve_au_oz": null,
+   "reserve_ag_oz": null,
+   "cash_cost_usd_per_oz": null,
+   "aisc_usd_per_oz": null,
+   "sustaining_capex_usd_m": null,
+   "mine_notes": "WAF 85% (Burkina Faso 15% free-carried). 2025: UG 587 kt @ 7.7 g/t (145,894 oz), OP 2,253 kt @ 0.8 g/t (60,510 oz). Head grade shown is Q4 2025 mill head grade. Toega UG (near Sanbrado) scoping: potential 515 koz over 7-year life."
+  },
+  {
+   "mine": "Kiaka",
+   "country": "Burkina Faso",
+   "ownership_pct": 85,
+   "status": "Operating",
+   "mine_type": "Open pit",
+   "processing": "Kiaka plant (ramping; exceptional plant performance noted)",
+   "gold_oz": 95155,
+   "silver_oz": null,
+   "byproduct": null,
+   "byproduct_qty": null,
+   "byproduct_unit": null,
+   "head_grade_au_gpt": null,
+   "head_grade_ag_gpt": null,
+   "reserve_tonnes_mt": null,
+   "reserve_au_oz": null,
+   "reserve_ag_oz": null,
+   "cash_cost_usd_per_oz": null,
+   "aisc_usd_per_oz": null,
+   "sustaining_capex_usd_m": null,
+   "mine_notes": "WAF 85% (Burkina Faso 15% free-carried; decree for state to acquire 25% of Kiaka SA for A$175M expected to settle 2026). First gold mid-2025; 2025 = first 5-7 months of operation/ramp-up (62,287 oz in first full quarter Q4). Burkina Faso's largest gold mine. 2026 guidance 240,000-280,000 oz."
+  }
+ ],
+ "reserves_resources": [
+  {
+   "mine": "Sanbrado + Kiaka (group)",
+   "classification": "Proven + Probable",
+   "tonnes_mt": null,
+   "au_gpt": null,
+   "ag_gpt": null,
+   "contained_au_oz": 6500000,
+   "contained_ag_oz": null,
+   "effective_date": "2025-12-31",
+   "notes": "Split by mine not disclosed. Mineral Resources 11.8 Moz. Updated 31 Mar 2026 statement: Ore Reserves 7 Moz, Mineral Resources 13.7 Moz, 10-year target 5.3 Moz 2026-2035."
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "portfolio_id": "GROY-FY2025",
+ "owner": "Gold Royalty Corp.",
+ "as_of": "2025-12-31",
+ "source": "FY2025 Management's Discussion and Analysis (filed Feb 2026)",
+ "data_status": "complete",
+ "stats": {
+  "total_interests": 258,
+  "cash_flowing": 8,
+  "interests_detailed_here": 15
+ },
+ "interests": [
+  {
+   "asset": "Borborema",
+   "counterparty": null,
+   "country": "Brazil",
+   "interest_type": "royalty",
+   "interest_rate": 2.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Two interests (operator: Aura Minerals subsidiary). (1) Pre-existing 2.0% NSR (decreases to 0.5% after 725,000 oz Au production; operator buyback of 0.5% for $2.5M after earlier of 2,250,000 oz or 2050); first production Mar 2025, commercial production expected Q3 2025; FY2025 revenue $5.228M (2024: $3.540M) = pre-production royalty payments + interest on gold-linked loan. (2) Acquired Jan 21, 2026 from Dundee (post-year-end, $45M = $30M cash + 3,571,429 shares; Taurus to take half for $22.5M): 1.5% NSR on first 1.5 Moz payable Au, 1.0% to 2.0 Moz, then extinguished."
+  },
+  {
+   "asset": "Côté",
+   "counterparty": null,
+   "country": "Canada",
+   "interest_type": "royalty",
+   "interest_rate": 0.75,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: 0.75% NSR on southern portion of mine (operator: IAMGOLD). FY2025: GEOs 1,270 (2024: 411); revenue $4.232M (2024: $1.145M). Main revenue growth driver in 2025."
+  },
+  {
+   "asset": "Vareš",
+   "counterparty": null,
+   "country": "Bosnia and Herzegovina",
+   "interest_type": "stream",
+   "interest_rate": 100.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Copper stream: 100% of payable Cu from Rupice mine, 24.5% payability, ongoing 30% of spot Cu price. Operator: DPM Metals (from Sept 12, 2025). FY2025: GEOs 1,046 (2024: 345); revenue $3.224M (2024: $0.893M)."
+  },
+  {
+   "asset": "Borden",
+   "counterparty": null,
+   "country": "Canada",
+   "interest_type": "royalty",
+   "interest_rate": 0.5,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: 0.5% NSR on southern portion (operator: Discovery Silver). FY2025: GEOs 288 (2024: 236); revenue $0.989M (2024: $0.636M)."
+  },
+  {
+   "asset": "Pedra Branca",
+   "counterparty": null,
+   "country": "Brazil",
+   "interest_type": "royalty",
+   "interest_rate": 25.0,
+   "commodity": null,
+   "stage": "development",
+   "notes": "Acquired Dec 12, 2025 from BlackRock World Mining Trust for $70M cash: 25% NSR on gold + 2% NSR on copper; project owned by a BHP subsidiary. Copper project in Pará."
+  },
+  {
+   "asset": "Canadian Malartic",
+   "counterparty": null,
+   "country": "Canada",
+   "interest_type": "royalty",
+   "interest_rate": 3.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Legacy Abitibi Royalties assets (operator: Agnico Eagle): 3.0% NSR on portions of Canadian Malartic open pit, Odyssey mine, East Malartic, Sladen, Sheehan and Jeffrey (royalty applies only where coverage overlaps resources/production); 2.0% NSR on Charlie Zone + eastern Gouldie deposit; 1.5% NSR on Midway project (1.0% buyback right for $1M); 15% NPI on Radium property. FY2025 revenue $0.218M (2024: $1.855M; 2024 included one-time items)."
+  },
+  {
+   "asset": "Cozamin",
+   "counterparty": null,
+   "country": "Mexico",
+   "interest_type": "royalty",
+   "interest_rate": 1.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: 1.0% NSR on southeastern portion of mine (operator: Capstone). FY2025 revenue $1.349M (2024: $1.159M)."
+  },
+  {
+   "asset": "Granite Creek",
+   "counterparty": null,
+   "country": "USA",
+   "interest_type": "royalty",
+   "interest_rate": 10.0,
+   "commodity": null,
+   "stage": "development",
+   "notes": "Royalty: 10.0% NPI; 120,000 oz Au payment hurdle before royalty payable. Operator: i-80 Gold."
+  },
+  {
+   "asset": "Ren",
+   "counterparty": null,
+   "country": "USA",
+   "interest_type": "royalty",
+   "interest_rate": 1.5,
+   "commodity": null,
+   "stage": "development",
+   "notes": "Royalties: 1.5% NSR + 3.5% NPI. Operator: Nevada Gold Mines."
+  },
+  {
+   "asset": "South Railroad",
+   "counterparty": null,
+   "country": "USA",
+   "interest_type": "royalty",
+   "interest_rate": 0.44,
+   "commodity": null,
+   "stage": "development",
+   "notes": "Royalty: 0.44% NSR. Operator: Orla Mining."
+  },
+  {
+   "asset": "Tonopah West",
+   "counterparty": null,
+   "country": "USA",
+   "interest_type": "royalty",
+   "interest_rate": 3.0,
+   "commodity": null,
+   "stage": "exploration",
+   "notes": "Royalty: 3.0% NSR (received 2024 from Blackrock Silver option exercise, plus $1.0M cash). Operator: Blackrock Silver."
+  },
+  {
+   "asset": "Whistler",
+   "counterparty": null,
+   "country": "USA",
+   "interest_type": "royalty",
+   "interest_rate": 1.0,
+   "commodity": null,
+   "stage": "exploration",
+   "notes": "Royalty: 1.0% NSR. Operator: U.S. GoldMining."
+  },
+  {
+   "asset": "Garrison",
+   "counterparty": null,
+   "country": "Canada",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "exploration",
+   "notes": "Royalty acquired 2025 (terms not itemized in FY2025 MD&A)."
+  },
+  {
+   "asset": "Jerritt Canyon",
+   "counterparty": null,
+   "country": "USA",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "care and maintenance",
+   "notes": "Per-tonne royalty interest; $0.3M prior-period revenue recognized in 2025 after favourable judgement in dispute with operator."
+  },
+  {
+   "asset": "Pilot Mountain",
+   "counterparty": null,
+   "country": "USA",
+   "interest_type": "royalty",
+   "interest_rate": 2.0,
+   "commodity": null,
+   "stage": "disposed",
+   "notes": "2% GRR disposed Oct 23, 2025 for $4.8M."
+  }
+ ]
+}

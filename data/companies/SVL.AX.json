@@ -1,0 +1,64 @@
+{
+  "company": "Silver Mines Limited",
+  "tickers": [
+    "SVL"
+  ],
+  "exchange": "ASX",
+  "headquarters": "Sydney, New South Wales (ACN 107452942)",
+  "fiscal_year": 2025,
+  "report_title": null,
+  "report_url": null,
+  "pdf_path": null,
+  "data_status": "FY2026 annual report (y/e 30 Jun 2026) scheduled 29 September 2026 - not published as of 25 Sep 2026; FY2025 (y/e 30 Jun 2025) used as base (operating cash flow -A$2.55M; capex -A$11.6M; financing +A$23.4M; net cash change +A$8.49M, per Stockopedia FY-end-30-Jun data). Study figures use the post-AR December 2024 Bowdens Optimisation Study. Silver-focused; grades in g/t Ag.",
+  "total_gold_production_oz": null,
+  "total_silver_production_oz": null,
+  "notes": "Silver Mines Limited (ASX: SVL; ACN 107452942). Bowdens AgEq = Ag + Pb*0.002612 + Zn*0.003569 + Au*74.25 (metals in g/t; US$27.50/oz Ag, US$2,950/t Zn, US$2,350/t Pb, US$2,200/oz Au; recoveries 86.2% Ag, 92.2% Zn, 84.7% Pb, 80% Au). Base-case NPV: pre-tax A$359M / post-tax A$253M @ US$29/oz; spot scenarios up to US$75.01/oz Ag @ FX 0.71. FY2026 annual report scheduled 29 September 2026 (not published as of 25 Sep 2026). Company Secretary Trent Franklin. fiscal_year_end: 2025-06-30 | primary_commodity_focus: Silver | currency: AUD | company_overview: Australian silver developer (ASX: SVL) - strategy is to consolidate silver deposits in NSW to form Australia's pre-eminent silver company. Flagship is the Bowdens Silver Project (largest undeveloped silver project in Australia): Ore Reserve 32.8 Mt for 71.7 Moz Ag, M&I Resource 164 Moz Ag. December 2024 Optimisation Study: 16.5-yr mine life at 2.0 Mtpa, LOM ~72 Moz silver, avg 4.25 Mozpa first 10 yrs, LOM AISC A$24.81/oz (~US$16/oz), post-tax NPV5 A$253M (pre-tax A$359M), IRR 18%, payback 3.9 yrs, pre-production capex A$331M, >85% revenue from silver. Permitting ongoing. Developer - no production. | sources: ['Silver Mines optimisation study highlights (via aspecthuntley.com.au, Feb 2026 presentation): Ore Reserves 32.8 Mt; LOM ~72 Moz silver; 16.5-yr life; pre-prod capex A$331M (US$216M); NPV5 A$359M pre-tax; LOM AISC <A$25/oz; operating margin A$948M; >85% revenue from silver; base prices US$29/oz Ag, FX 0.67', 'simplywall.st narrative Aug 2026: 2.0 Mtpa plant; LOM AISC A$24.81/oz (~US$16/oz); post-tax NPV5 A$253M; IRR 18%; payback 3.9 yrs; post-tax FCF A$469M; total capital A$346M incl. mining pre-prod', 'Silver Mines AGM presentation 2025 (via listcorp.com): M&I 164 Moz Ag, Reserve 71.7 Moz Ag; 16.5 yr life at 2 Mtpa; 4.25 Mozpa first 10 yrs; AISC A$24.81/oz; permitting ongoing; exploration open at depth', \"Silver Mines ASX release 'Bowdens Silver Project Ore Reserves Increased to 71.7Moz Silver' 20 Dec 2024 (amended 10 Jan 2025): 32.8 Mt OR, 71.7 Moz Ag; bulk sampling 43% above block model\", 'Stockopedia SVL cashflow (Sept 2026): FY2025 op cash -A$2.55M, capex -A$11.6M, financing +A$23.4M, net cash change +A$8.49M; FY2026 AR due 29 Sep 2026', 'marketindex.com.au ASX:SVL: FY2026 AR scheduled 29/09/2026; company strategy to consolidate NSW silver deposits']",
+  "mines": [
+    {
+      "mine": "Bowdens Silver Project",
+      "country": "Australia",
+      "ownership_pct": 100,
+      "status": "Development",
+      "mine_type": null,
+      "processing": null,
+      "gold_oz": null,
+      "silver_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": null,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": null,
+      "reserve_au_oz": null,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": 16,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "Flagship silver development project near Mudgee, NSW. Conventional open-pit mining and processing (2.0 Mtpa plant, 16.5-yr life); simplified flowsheet producing a single high-grade precious-metal bulk concentrate (improved Ag payability/recovery; no cyanide); dry-stack tailings (world's best practice). Ore Reserve 32.8 Mt for 71.7 Moz Ag (28.1 Mt in Optimisation); M&I Resource 164 Moz Ag. Production schedule: avg 4.2-4.25 Mozpa first 10 yrs @ ~83 g/t Ag; LOM avg 2.7 Mozpa @ 53 g/t; LOM total ~72 Moz silver (plus minor Zn/Pb credits). >85% of revenue from silver. Permitting activities ongoing. Exploration upside: mineralised system open beneath pit design (e.g. 58 m @ 121 g/t Ag from surface; 18.3 m @ 443 g/t AgEq); potential high-grade underground option; bulk-sample grades averaged 43% above block model. Company Secretary Trent Franklin; silvermines.com.au. [production_notes: No production - development stage; permitting ongoing.] [primary_commodity: Silver] [cost_breakdown_notes: Optimisation Study (Dec 2024): LOM AISC A$24.81/oz (~US$16/oz); pre-production capex A$331M (US$216M); total capital A$346M incl. mining pre-production; payback 3.9 yrs; LOM operating margin A$948M; post-tax undiscounted cash flow A$469M. Study prices: US$29/oz Ag, Zn US$1.35/lb, Pb US$1.05/lb, AUDUSD 0.67.]"
+    }
+  ],
+  "reserves_resources": [
+    {
+      "mine": "Bowdens",
+      "classification": "Ore Reserve (Total; 32.8 Mt; derived grade ~68 g/t Ag)",
+      "tonnes_mt": 32.8,
+      "au_gpt": null,
+      "ag_gpt": 68,
+      "contained_au_oz": null,
+      "contained_ag_oz": 71700000,
+      "effective_date": "2024-12-20",
+      "notes": "material: Silver"
+    },
+    {
+      "mine": "Bowdens",
+      "classification": "Mineral Resource (Measured & Indicated, 164 Moz Ag)",
+      "tonnes_mt": null,
+      "au_gpt": null,
+      "ag_gpt": null,
+      "contained_au_oz": null,
+      "contained_ag_oz": 164000000,
+      "effective_date": "2024-12-20",
+      "notes": "material: Silver"
+    }
+  ]
+}

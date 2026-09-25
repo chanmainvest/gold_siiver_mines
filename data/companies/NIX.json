@@ -1,0 +1,41 @@
+{
+  "company": "NorthX Nickel Corp.",
+  "data_status": "complete",
+  "exchange": "CSE",
+  "fiscal_year": 2025,
+  "headquarters": "Vancouver, British Columbia, Canada",
+  "mines": [
+    {
+      "aisc_usd_per_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "cash_cost_usd_per_oz": null,
+      "country": "Canada",
+      "gold_oz": null,
+      "head_grade_ag_gpt": null,
+      "head_grade_au_gpt": null,
+      "mine": "Grasset",
+      "mine_notes": "100%-owned Grasset nickel project, Quebec. Exploration-stage nickel asset; entire property covered by airborne magneto-telluric/magnetic/VLF-EM survey (2023); mineralization in disseminated, net-textured and massive sulphides. No production, no revenue; no gold or silver content disclosed.",
+      "mine_type": "Underground",
+      "ownership_pct": 100,
+      "processing": null,
+      "reserve_ag_oz": null,
+      "reserve_au_oz": null,
+      "reserve_tonnes_mt": null,
+      "silver_oz": null,
+      "status": "Exploration",
+      "sustaining_capex_usd_m": null
+    }
+  ],
+  "notes": "Nickel explorer; no gold or silver production or reserves disclosed in FY2025. CSE:NIX, OTCQB:NXNIF, Frankfurt:6YR. Formerly Archer Exploration Corp. (CSE:RCHR); renamed NorthX Nickel Corp. effective May 1, 2024 (ticker NIX); VanEck GDXJ still shows the stale name 'Archer Exploration Corp'. Executive Chairman Simon Marcotte. Sold its entire Sudbury Basin nickel/base-metal portfolio to Magna Mining Inc. on July 21, 2025 (definitive agreement Dec 18, 2024); company paid $500,000 to Magna in connection with the Broken Hammer mine closure plan; Ontario Ministry of Mines letter of credit ($481,629) released July 31, 2025. Now focused solely on the Grasset nickel property. Raised $1.3M via 26M subscription receipts at $0.05 (Feb 2025). No mineral reserves or current NI 43-101 resource figures disclosed. All figures in CAD unless noted.",
+  "pdf_path": null,
+  "report_title": "NorthX Nickel Announces Closing of Sudbury Portfolio Sale, Conversion of Subscription Receipts and Leadership Transition (news release, July 21, 2025)",
+  "report_url": "https://northxnickel.com/news/northx-nickel-announces-closing-of-sudbury-portfolio-sale-conversion-of-subscription-receipts-and-leadership-transition/",
+  "reserves_resources": [],
+  "tickers": [
+    "NIX"
+  ],
+  "total_gold_production_oz": null,
+  "total_silver_production_oz": null
+}

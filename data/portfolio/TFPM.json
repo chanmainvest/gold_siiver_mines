@@ -1,0 +1,367 @@
+{
+ "portfolio_id": "TFPM-FY2025",
+ "owner": "Triple Flag Precious Metals Corp.",
+ "as_of": "2025-12-31",
+ "source": "2025 Annual Report (MD&A dated February 18, 2026)",
+ "data_status": "complete",
+ "stats": {
+  "total_interests": 239,
+  "royalties": 223,
+  "streams": 16,
+  "producing": 34,
+  "development_exploration": 205,
+  "interests_detailed_here": 35
+ },
+ "interests": [
+  {
+   "asset": "Northparkes",
+   "counterparty": null,
+   "country": "Australia",
+   "interest_type": "stream",
+   "interest_rate": 54.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Stream: 54% of payable Au until 630,000 oz delivered (96,993 oz delivered at Dec 31, 2025), then 27%; 80% of payable Ag until 9 Moz delivered (1,266,839 oz), then 40%; LOM. E44 deposit: separate Feb 2026 agreement - $83.4M for 20% payable Au + 30% payable Ag, 10% of spot ongoing, 7-yr minimum guaranteed deliveries (funding Q4 2026). Operator: Evolution Mining. FY2025: revenue $109.7M; GEOs sold 32,996 (2025: 29,793 oz Au + 250,622 oz Ag sold)."
+  },
+  {
+   "asset": "Cerro Lindo",
+   "counterparty": null,
+   "country": "Peru",
+   "interest_type": "stream",
+   "interest_rate": 65.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Stream: 65% of payable Ag until 19.5 Moz delivered (18.9 Moz at Dec 31, 2025), then 25% (step-down expected Q2 2026). Operator: Nexa Resources. FY2025: revenue $92.6M; GEOs 26,213."
+  },
+  {
+   "asset": "Impala Bafokeng",
+   "counterparty": null,
+   "country": "South Africa",
+   "interest_type": "stream",
+   "interest_rate": 70.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Stream: 70% of payable Au until 261,000 oz delivered (40,150 oz at Dec 31, 2025), then 42%; LOM. Operator: Implats. FY2025: revenue $18.6M; GEOs 5,520."
+  },
+  {
+   "asset": "Buriticá",
+   "counterparty": null,
+   "country": "Colombia",
+   "interest_type": "stream",
+   "interest_rate": 100.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Stream: 100% of payable Ag on fixed Ag:Au ratio of 1.84; no step-down; LOM (2.4 Moz Ag delivered at Dec 31, 2025). Operator: Zijin Mining. FY2025: revenue $21.8M; GEOs 6,225 (513,512 oz Ag sold)."
+  },
+  {
+   "asset": "Agbaou",
+   "counterparty": null,
+   "country": "Côte d'Ivoire",
+   "interest_type": "stream",
+   "interest_rate": 3.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Stream: 3% payable Au until 29,000 oz delivered (4,829 oz at Dec 31, 2025), then 2%; annual minimum 2,500-2,750 oz (2024-2027); ongoing 10% of spot Au; Allied parent guarantee. Also separate 2.5% NSR royalty (see royalty row). Acquired Aug 2024 ($53M for Agbaou+Bonikro streams). Operator: Allied Gold. FY2025 stream: revenue $9.5M; GEOs 2,845. Royalty: revenue $6.8M; GEOs 1,960."
+  },
+  {
+   "asset": "Bonikro",
+   "counterparty": null,
+   "country": "Côte d'Ivoire",
+   "interest_type": "stream",
+   "interest_rate": 3.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Stream: 3% payable Au until 39,300 oz delivered (6,494 oz at Dec 31, 2025), then 2%; annual minimum 3,500-4,200 oz (2024-2027); ongoing 10% of spot Au; Allied parent guarantee. Acquired Aug 2024. Operator: Allied Gold. FY2025: revenue $10.8M; GEOs 3,319."
+  },
+  {
+   "asset": "La Colorada",
+   "counterparty": null,
+   "country": "Mexico",
+   "interest_type": "stream",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Stream: gold stream (operator: Pan American Silver). FY2025: revenue $4.5M; GEOs 1,397."
+  },
+  {
+   "asset": "ATO",
+   "counterparty": null,
+   "country": "Mongolia",
+   "interest_type": "stream",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Stream: gold and silver stream (Steppe Gold Stream Agreement; operator: Steppe Gold). Sep 2025 demand letter for outstanding ounces; Oct 2025 ICC arbitration filed for specific performance. FY2025: revenue $2.7M; GEOs 941 (2024: $10.7M / 4,593)."
+  },
+  {
+   "asset": "El Mochito",
+   "counterparty": null,
+   "country": "Honduras",
+   "interest_type": "stream",
+   "interest_rate": 25.0,
+   "commodity": null,
+   "stage": "terminated",
+   "notes": "Stream: 25% silver stream terminated Oct 30, 2025 via settlement with Kirungu/Ocean Partners: 350,000 oz Ag received on closing + 20 monthly deliveries of 25,000 oz Ag (first Dec 15, 2025); $5.4M gain on disposal. FY2025: revenue $19.7M; GEOs 4,781."
+  },
+  {
+   "asset": "Auramet",
+   "counterparty": null,
+   "country": "United States",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Prepaid gold interest (financial asset at FVTPL). FY2025: revenue $17.8M; GEOs 5,190."
+  },
+  {
+   "asset": "Arcata",
+   "counterparty": null,
+   "country": "Peru",
+   "interest_type": "stream",
+   "interest_rate": 5.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Streams: 5% Au and Ag streams (Sierra Sun Streams), ongoing 10% of spot; LOM; no step-downs. Acquired Feb 2025 for $35M (Arcata + Azuca). Operator: Sierra Precious Metals."
+  },
+  {
+   "asset": "Azuca",
+   "counterparty": null,
+   "country": "Peru",
+   "interest_type": "stream",
+   "interest_rate": 5.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Streams: 5% Au and Ag streams (Sierra Sun Streams), ongoing 10% of spot; LOM; no step-downs. Acquired Feb 2025 for $35M (Arcata + Azuca). Operator: Sierra Precious Metals."
+  },
+  {
+   "asset": "Kemess",
+   "counterparty": null,
+   "country": "Canada",
+   "interest_type": "stream",
+   "interest_rate": 100.0,
+   "commodity": null,
+   "stage": "development",
+   "notes": "Stream: 100% of payable Ag (fixed floor ratio 5.5755 oz Ag per 1,000 lb Cu); upfront staged deposit $45M; ongoing 10% of 5-day avg Ag price. Operator: Centerra Gold."
+  },
+  {
+   "asset": "Johnson Camp Mine",
+   "counterparty": null,
+   "country": "United States",
+   "interest_type": "stream",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "development",
+   "notes": "Copper stream and royalties: 1.5% GR royalty acquired Jun 2025 for $4.0M (now 3.0% GR total incl. pre-existing 1.5%); operator: Gunnison Copper."
+  },
+  {
+   "asset": "Other streams",
+   "counterparty": null,
+   "country": "Various",
+   "interest_type": "stream",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "",
+   "notes": "Remaining stream interests within 'Other' stream revenue: FY2025 revenue $1.5M; GEOs 427."
+  },
+  {
+   "asset": "Beta Hunt",
+   "counterparty": null,
+   "country": "Australia",
+   "interest_type": "royalty",
+   "interest_rate": 3.25,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalties: 3.25% GRR + 1.5% NSR on Au; 1.0% GRR + 0.5% NSR on Ni (operator: Westgold Resources, eff. Aug 2024). Expansion to 2 Mtpa throughput expected end 2025. FY2025: revenue $17.7M; GEOs 5,267."
+  },
+  {
+   "asset": "Fosterville",
+   "counterparty": null,
+   "country": "Australia",
+   "interest_type": "royalty",
+   "interest_rate": 2.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: 2% NSR (operator: Agnico Eagle). Operator guidance 140-160k oz Au/yr 2026-27, 170-190k oz from 2028. FY2025: revenue $11.4M; GEOs 3,361."
+  },
+  {
+   "asset": "Young-Davidson",
+   "counterparty": null,
+   "country": "Canada",
+   "interest_type": "royalty",
+   "interest_rate": 1.5,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: 1.5% NSR (operator: Alamos Gold). Alamos 3-yr guidance 155-175k oz/yr 2026-28. FY2025: revenue $8.4M; GEOs 2,455."
+  },
+  {
+   "asset": "Camino Rojo",
+   "counterparty": null,
+   "country": "Mexico",
+   "interest_type": "royalty",
+   "interest_rate": 2.0,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: 2% NSR on oxide material (operator: Orla Mining). 2025 production 96,764 oz Au; 2026 guidance 110-120k oz. FY2025: revenue $7.7M; GEOs 2,272."
+  },
+  {
+   "asset": "Florida Canyon",
+   "counterparty": null,
+   "country": "United States",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: gold royalty (operator: Argonaut Gold). FY2025: revenue $7.1M; GEOs 2,105."
+  },
+  {
+   "asset": "Kensington",
+   "counterparty": null,
+   "country": "United States",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: gold royalty (operator: Coeur Mining); litigation settled Mar 2024 ($6.75M Coeur shares for arrears + costs). FY2025: revenue $4.5M; GEOs 1,299."
+  },
+  {
+   "asset": "Stawell",
+   "counterparty": null,
+   "country": "Australia",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: gold royalty (operator: Stawell Gold Mines). FY2025: revenue $4.1M; GEOs 1,187."
+  },
+  {
+   "asset": "Henty",
+   "counterparty": null,
+   "country": "Australia",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: gold royalty (operator: Catalyst Metals). FY2025: revenue $3.2M; GEOs 931."
+  },
+  {
+   "asset": "Eagle River",
+   "counterparty": null,
+   "country": "Canada",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: gold royalty (operator: Wesdome). FY2025: revenue $1.9M; GEOs 600."
+  },
+  {
+   "asset": "Agbaou",
+   "counterparty": null,
+   "country": "Côte d'Ivoire",
+   "interest_type": "royalty",
+   "interest_rate": 2.5,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: 2.5% NSR on all Au production (operator: Allied Gold); separate from 3% Au stream above. FY2025 royalty: revenue $6.8M; GEOs 1,960."
+  },
+  {
+   "asset": "Minera Florida",
+   "counterparty": null,
+   "country": "Chile",
+   "interest_type": "royalty",
+   "interest_rate": 1.5,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalties: 1.5% NSR (Mila, Los Moscos, Piche) + 0.8% NSR (Agua Fria); acquired Aug 2025 for $23M (operator: Pan American Silver). FY2025: revenue $1.0M; GEOs 290."
+  },
+  {
+   "asset": "Koné",
+   "counterparty": null,
+   "country": "Côte d'Ivoire",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: gold royalty (operator: Montage Gold). Ramping up / advancing toward production."
+  },
+  {
+   "asset": "Hemlo",
+   "counterparty": null,
+   "country": "Canada",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "operating",
+   "notes": "Royalty: gold royalty (operator: Barrick)."
+  },
+  {
+   "asset": "Arthur (Expanded Silicon)",
+   "counterparty": null,
+   "country": "United States",
+   "interest_type": "royalty",
+   "interest_rate": 1.0,
+   "commodity": null,
+   "stage": "development",
+   "notes": "Royalty: 1.0% NSR on Arthur gold project (formerly Expanded Silicon), Nevada; acquired via Orogen Royalties Jul 2025 (C$171.5M cash + 5,633,629 shares; other Orogen assets spun to Orogen Spinco). Operator: AngloGold Ashanti. Key 2030+ growth asset."
+  },
+  {
+   "asset": "Hope Bay",
+   "counterparty": null,
+   "country": "Canada",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "development",
+   "notes": "Royalty: gold royalty (operator: Agnico Eagle). Key 2030+ growth asset."
+  },
+  {
+   "asset": "Eskay Creek",
+   "counterparty": null,
+   "country": "Canada",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "development",
+   "notes": "Royalties: gold and silver royalties (operator: Skeena Resources). Advancing toward production."
+  },
+  {
+   "asset": "DeLamar",
+   "counterparty": null,
+   "country": "United States",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "development",
+   "notes": "Royalty interest (operator: Integra Resources). Advancing toward production."
+  },
+  {
+   "asset": "Tres Quebradas",
+   "counterparty": null,
+   "country": "Argentina",
+   "interest_type": "royalty",
+   "interest_rate": 0.5,
+   "commodity": null,
+   "stage": "development",
+   "notes": "Royalty: 0.5% GR on all mineral properties; lithium project (operator: Zijin Mining via Liex SA). Acquired Mar 2025 for $28M from Lithium Royalty Corp."
+  },
+  {
+   "asset": "Tamarack",
+   "counterparty": null,
+   "country": "United States",
+   "interest_type": "royalty",
+   "interest_rate": 2.11,
+   "commodity": null,
+   "stage": "development",
+   "notes": "Royalties: 1.11% NSR + additional 1.0% NSR (acquired Jul 2024 for $8M; buydown to 0.6% for $5M exercisable 2 yrs) on Talon's participating interest; nickel-copper-PGE project (operator: Talon Metals)."
+  },
+  {
+   "asset": "Other royalties",
+   "counterparty": null,
+   "country": "Various",
+   "interest_type": "royalty",
+   "interest_rate": null,
+   "commodity": null,
+   "stage": "",
+   "notes": "Remaining royalty interests within 'Other' royalty revenue: FY2025 revenue $5.9M; GEOs 1,656."
+  }
+ ]
+}

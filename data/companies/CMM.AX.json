@@ -1,0 +1,97 @@
+{
+ "company": "Capricorn Metals Ltd",
+ "tickers": [
+  "CMM"
+ ],
+ "exchange": "ASX",
+ "headquarters": "West Perth, Western Australia, Australia",
+ "fiscal_year": 2026,
+ "report_title": "FY26 Annual Results (web-derived; Appendix 4E / annual report PDF not retrieved)",
+ "report_url": "https://www.marketindex.com.au/asx/cmm/announcements",
+ "pdf_path": "/home/hatch/workspace/miners-research/reports/CMM.AX/cmm-ore-update-2026.pdf",
+ "data_status": "complete",
+ "total_gold_production_oz": 123589,
+ "total_silver_production_oz": null,
+ "notes": "Production from Karlawinda only. AISC in AUD converted to USD at assumed FY26 average AUD:USD 0.65 (approximate; FX rate not stated in sourced material). Executive Chairman Mark Clark. FY26: sales revenue A$769.3M (123,096 oz @ A$6,241/oz), underlying EBITDA A$483.6M, NPAT A$282.2M, debt-free and unhedged, net cash A$504.8M, maiden dividend A$0.10/share. Range 500 aspiration: 500 koz pa within 5 years. FY27 guidance: 137,000-147,000 oz @ A$1,900-2,100/oz AISC.",
+ "mines": [
+  {
+   "mine": "Karlawinda",
+   "country": "Australia",
+   "ownership_pct": 100,
+   "status": "Operating",
+   "mine_type": "Open pit",
+   "processing": "Karlawinda processing plant (4 Mtpa, expanding to 6.5 Mtpa via Karlawinda Expansion Project; commissioning Q1 FY27, expansion completed on schedule Sep 2026)",
+   "gold_oz": 123589,
+   "silver_oz": null,
+   "byproduct": null,
+   "byproduct_qty": null,
+   "byproduct_unit": null,
+   "head_grade_au_gpt": null,
+   "head_grade_ag_gpt": null,
+   "reserve_tonnes_mt": null,
+   "reserve_au_oz": 1570000,
+   "reserve_ag_oz": null,
+   "cash_cost_usd_per_oz": null,
+   "aisc_usd_per_oz": 1059,
+   "sustaining_capex_usd_m": null,
+   "mine_notes": "WA. Record FY26 production at top end of 115,000-125,000 oz guidance; FY26 AISC A$1,629/oz converted at 0.65. Karlawinda ORE 1.57 Moz (+32% YoY net of depletion, 27 Jul 2026 announcement). Expansion to 150 koz pa run rate."
+  },
+  {
+   "mine": "Mt Gibson",
+   "country": "Australia",
+   "ownership_pct": 100,
+   "status": "Development",
+   "mine_type": "Open pit + Underground",
+   "processing": null,
+   "gold_oz": null,
+   "silver_oz": null,
+   "byproduct": null,
+   "byproduct_qty": null,
+   "byproduct_unit": null,
+   "head_grade_au_gpt": null,
+   "head_grade_ag_gpt": null,
+   "reserve_tonnes_mt": null,
+   "reserve_au_oz": 3670000,
+   "reserve_ag_oz": null,
+   "cash_cost_usd_per_oz": null,
+   "aisc_usd_per_oz": 1216,
+   "sustaining_capex_usd_m": null,
+   "mine_notes": "WA. Acquired Nov 2025 from Avoca Resources. Updated PFS (Jul 2026): steady-state 260 koz pa from concurrent UG+OP mining, 19.25-year mine life, avg 190 koz pa over 18 years, LOM AISC A$1,870/oz (USD shown at 0.65; PFS-stage AISC estimate), 14-month pretax payback. Maiden UG reserve 0.37 Moz. Federal environmental approval Jun 2026; state environmental review in progress. ORE 3.31 Moz (OP) + 0.37 Moz (UG). No FY26 production."
+  }
+ ],
+ "reserves_resources": [
+  {
+   "mine": "Karlawinda",
+   "classification": "Proven + Probable",
+   "tonnes_mt": null,
+   "au_gpt": null,
+   "ag_gpt": null,
+   "contained_au_oz": 1570000,
+   "contained_ag_oz": null,
+   "effective_date": "2026-07-27",
+   "notes": "27 Jul 2026 ORE update; +32% YoY net of depletion"
+  },
+  {
+   "mine": "Mt Gibson Open Pit",
+   "classification": "Proven + Probable",
+   "tonnes_mt": null,
+   "au_gpt": null,
+   "ag_gpt": null,
+   "contained_au_oz": 3310000,
+   "contained_ag_oz": null,
+   "effective_date": "2026-07-27",
+   "notes": "Updated PFS; +21% YoY"
+  },
+  {
+   "mine": "Mt Gibson Underground",
+   "classification": "Proven + Probable",
+   "tonnes_mt": null,
+   "au_gpt": null,
+   "ag_gpt": null,
+   "contained_au_oz": 370000,
+   "contained_ag_oz": null,
+   "effective_date": "2026-07-27",
+   "notes": "Maiden UG reserve per updated PFS"
+  }
+ ]
+}

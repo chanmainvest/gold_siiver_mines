@@ -1,0 +1,108 @@
+{
+  "company": "Manuka Resources Limited",
+  "tickers": [
+    "MKR"
+  ],
+  "exchange": "ASX",
+  "headquarters": "Cobar Basin assets, New South Wales (ASX and NZX: MKR)",
+  "fiscal_year": 2025,
+  "report_title": null,
+  "report_url": null,
+  "pdf_path": null,
+  "data_status": "FY2026 annual report (y/e 30 Jun 2026) not published as of 25 Sep 2026; FY2025 (y/e 30 Jun 2025) used as base (net loss A$16.9M; revenue A$0; operating cash flow -A$5.2M; capex -A$0.26M; financing +A$4.13M; cash A$0.97M at 30 Jun 2025; borrowings ~A$40.3M). Production restart occurred post-AR in August 2026; figures below use January 2026 production plan and July/September 2026 presentations.",
+  "total_gold_production_oz": null,
+  "total_silver_production_oz": null,
+  "notes": "Manuka Resources Limited (ASX/NZX: MKR). Spent most of 2024 on care and maintenance; five-month refurbishment program ended 9 Mar 2026, followed by plant recommissioning and gold restart 21 Aug 2026. Half-year ended 31 Dec 2025: loss A$12.88M; cash A$2.44M at 31 Dec 2025. Also holds the Taranaki VTM iron-sands project offshore New Zealand (via Trans-Tasman Resources Limited; long-term, no reliable production date assigned pending rebuilt approval pathway). FY2026 annual report not published as of 25 Sep 2026. fiscal_year_end: 2025-06-30 | primary_commodity_focus: Silver | currency: AUD | company_overview: Australian precious-metals producer and developer (ASX/NZX: MKR) with 100%-owned Cobar Basin assets: the Wonawinta Silver Mine and the Mt Boppy Gold Project, sharing the existing ~1 Mtpa Wonawinta processing facility. Spent most of 2024 on care and maintenance; recommissioning program completed Mar-Aug 2026 (five-month refurbishment, ~A$18.9M). Gold production recommenced 21 Aug 2026 (Mt Boppy ore processed at Wonawinta; ~60,000 t stockpiled); silver processing targeted Q4 2026 after new de-slime circuit installation. 10-year production plan: 10.9 Mt, ~19 Moz Ag from Wonawinta, ~46 koz Au from Mt Boppy + stockpiles; restart capex ~A$26.6M, NPV8 ~A$805M @ A$135.50/oz Ag, avg EBITDA ~A$127M. Also owns the offshore New Zealand Taranaki VTM (iron-sands) project via wholly owned subsidiary Trans-Tasman Resources Limited. No royalties or streaming. | sources: ['Simply Wall St MKR narrative (Sep 2026): ASX:MKR/NZX:MKR; gold restart 21 Aug 2026; ~60 kt stockpiled; silver targeted Q4 2026; 1 Mtpa plant; 10-yr plan 19 Moz Ag + 46 koz Au; NPV8 A$805M @ A$135.50/oz Ag; avg EBITDA A$127M; restart capex A$26.6M', 'ainvest.com (Sep 2026): care & maintenance most of 2024; recommissioning ended 9 Mar 2026, ~A$18.9M; cash A$7.8M vs borrowings A$52.5M; FY2025 net loss A$16.9M; Nebari US$22.5M facility; Dennis Karp chairman since 2016; Alan Eggers director since Nov 2022', 'Manuka corporate presentation (via listcorp.com, Sep 2026): 12.8 Moz Ag OR; 51 Moz Ag resource; Mt Boppy 2.6 Mt @ 1.32 g/t resource, 290 kt @ 4.2 g/t = 39 koz OR; >50,000 t stockpiled; ~500 koz historic @ 15 g/t; board & management', 'Manuka corporate presentation (via cdn-api.markitdigital.com, Mar 2026): 100% owner; 10.9 Mt/10 yr plan; A$26.6M restart costs; NPV8 A$805M, IRR ~1092% @ A$135.50/oz; no royalties/streaming', 'HotCopper MKR thread (Aug 2026): gold production recommences at Wonawinta; Mt Boppy ore; >50,000 t stockpiled (125-140,000 t over 3 months); silver transition Q4 2026', 'Manuka half-year accounts to 31 Dec 2025 (via announcements.asx.com.au): cash A$2.44M at 31 Dec 2025 vs A$0.97M at 30 Jun 2025; loss A$12.88M', 'Stockopedia MKR cashflow (Sept 2026): FY2025 op cash -A$5.2M, capex -A$0.26M, financing +A$4.13M, net cash -A$1.16M; Simply Wall St: FY2025 revenue A$0, earnings -A$17M']",
+  "mines": [
+    {
+      "mine": "Wonawinta Silver Mine",
+      "country": "Australia",
+      "ownership_pct": 100,
+      "status": "Operating",
+      "mine_type": null,
+      "processing": null,
+      "gold_oz": null,
+      "silver_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": null,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": null,
+      "reserve_au_oz": null,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": null,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "100%-owned primary silver mine near Cobar, NSW. Built, permitted ~1 Mtpa processing facility with camp (expanding to 118 persons), power, water and infrastructure. Ore Reserve 12.8 Moz Ag underpinning initial production plan (per 13 Jul 2026 announcement); Mineral Resource 51 Moz Ag (per 1 Apr 2021) with growth/mine-life extension potential. 10-year mine plan: ~19 Moz Ag from Wonawinta (average EBITDA ~A$127M, NPV8 ~A$805M at very high A$135.50/oz silver assumption; IRR ~1092% - note exceptional price assumption). Gold processing (Mt Boppy ore) recommenced 21 Aug 2026; silver production targeted Q4 2026 after de-slime circuit installation; ramp-up >1 Mtpa comprising 65-70,000 t Ag/mth + 20-25,000 t Au/mth. Executive Chairman Dennis Karp (since 2016); Exec Director Alan Eggers; NE Director John Seton; Executive GM Rod Griffith. [production_notes: No production in FY2025 (care and maintenance, recommissioning began after period). Gold processing recommenced 21 Aug 2026; silver restart targeted Q4 2026.] [primary_commodity: Silver] [cost_breakdown_notes: No operating cost disclosure; recommissioning cost ~A$18.9M (power generation, lab upgrades, processing components). Restart capital ~A$26.6M per Jan 2026 plan. US$22.5M senior secured loan facility with Nebari (technical due diligence completed) to fund restart through to first silver output.]"
+    },
+    {
+      "mine": "Mt Boppy Gold Project",
+      "country": "Australia",
+      "ownership_pct": 100,
+      "status": "Development",
+      "mine_type": null,
+      "processing": null,
+      "gold_oz": null,
+      "silver_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": null,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": null,
+      "reserve_au_oz": null,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": null,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "100%-owned gold mine near Canbelego, NSW (one of NSW's historically richest gold mines: ~500,000 oz Au @ ~15 g/t produced historically). Total resource 2.6 Mt @ 1.32 g/t Au; open-pit Probable Ore Reserve 290 kt @ 4.2 g/t = 39 koz Au. >50,000 t of gold-bearing ore stockpiled at Wonawinta for processing. Feeding the initial gold restart; ~46 koz Au expected from Mt Boppy + stockpiles over 10-yr plan. Open-pit drilling program targeting ~40,000 oz Au resource addition; deeps drilling underway targeting additional high-grade pods. Mt Boppy deeps have strong potential as typical Cobar Basin style Pb-Zn-Ag project. No royalties or streaming. [production_notes: Ore supplied to Wonawinta for gold processing from 21 Aug 2026; ~50-60,000 t stockpiled initially, targeting 125-140,000 t processed over three months.] [primary_commodity: Gold] [cost_breakdown_notes: Ore hauled ~150 km by road to Wonawinta for processing; no standalone cost disclosure.]"
+    }
+  ],
+  "reserves_resources": [
+    {
+      "mine": "Wonawinta",
+      "classification": "Ore Reserve (12.8 Moz Ag underpinning initial production plan)",
+      "tonnes_mt": null,
+      "au_gpt": null,
+      "ag_gpt": null,
+      "contained_au_oz": null,
+      "contained_ag_oz": 12800000,
+      "effective_date": "2026-07-13",
+      "notes": "material: Silver"
+    },
+    {
+      "mine": "Wonawinta",
+      "classification": "Mineral Resource (Total, 51 Moz Ag)",
+      "tonnes_mt": null,
+      "au_gpt": null,
+      "ag_gpt": null,
+      "contained_au_oz": null,
+      "contained_ag_oz": 51000000,
+      "effective_date": "2021-04-01",
+      "notes": "material: Silver"
+    },
+    {
+      "mine": "Mt Boppy",
+      "classification": "Mineral Resource (Total; 2.6 Mt @ 1.32 g/t Au)",
+      "tonnes_mt": 2.6,
+      "au_gpt": 1.32,
+      "ag_gpt": null,
+      "contained_au_oz": null,
+      "contained_ag_oz": null,
+      "effective_date": "2026-09-01",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Mt Boppy",
+      "classification": "Ore Reserve (Probable, Open Pit; 290 kt @ 4.2 g/t = 39 koz)",
+      "tonnes_mt": 0.29,
+      "au_gpt": 4.2,
+      "ag_gpt": null,
+      "contained_au_oz": 39000,
+      "contained_ag_oz": null,
+      "effective_date": "2026-09-01",
+      "notes": "material: Gold"
+    }
+  ]
+}

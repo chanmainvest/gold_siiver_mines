@@ -1,0 +1,75 @@
+{
+  "company": "Antipa Minerals Limited",
+  "tickers": [
+    "AZY"
+  ],
+  "exchange": "ASX",
+  "headquarters": "West Perth, Western Australia",
+  "fiscal_year": 2026,
+  "report_title": null,
+  "report_url": null,
+  "pdf_path": null,
+  "data_status": "FY2026 (y/e 30 Jun 2026) figures from market data (Stockopedia, fiscal-year-end June 30, Sept 2026 snapshot): pre-tax loss ~A$5.95M; capital expenditure A$36.8M; financing cash inflow A$41.2M; cash at bank A$39.1M at 30 Jun 2026 (per Aug 2026 Diggers & Dealers presentation). Resource/study figures use the April 2026 post-AR Mineral Resource update and October 2024 Scoping Study. No production; pure explorer-developer.",
+  "total_gold_production_oz": null,
+  "total_silver_production_oz": null,
+  "notes": "AZY is a pure gold-copper explorer/developer with no production or reserves. FY2026 (y/e 30 Jun 2026) annual report was scheduled for 25 September 2026; figures above from market financial data (Stockopedia Sept 2026): pre-tax loss ~A$5.95M (FY2025: $5.34M loss), no revenue, capex A$36.8M, financing A$41.2M, cash A$39.1M at 30 Jun 2026 (Aug 2026 presentation). Corporate: early FY2025 sold 32% Citadel JV interest to Rio Tinto for A$17M cash; March 2025 regained 100% of Wilki at no cost following Newmont-Newcrest completion; IGO withdrew from Paterson, restoring Antipa's wholly-owned tenement holding to ~4,100 km2 (~A$37M partner-funded exploration at Wilki/Paterson projects). Minyari Dome MRE prepared by Snowden Optiro; RPS maiden MRE by Antipa. fiscal_year_end: 2026-06-30 | primary_commodity_focus: Gold | currency: AUD | company_overview: Australian gold-copper explorer/developer (ASX: AZY; OTC: ATPMF) advancing one of the larger wholly-owned gold-copper development and exploration positions in Western Australia's Paterson Province (>4,500 km2; >40% of tenements under <20 m cover). Flagship 100%-owned Minyari Gold-Copper-Silver Project ~35 km from the Telfer operation. No production or revenue (explorer). April 2026 Mineral Resource update: 69 Mt @ 1.33 g/t gold = 2.9 Moz gold, or 3.6 Moz @ 1.62 g/t AuEq (91 kt Cu, 880 koz Ag, 13 kt Co), 76% Indicated; Minyari Dome group (PFS basis) 2.5 Moz gold / 3.2 Moz AuEq. Pre-Feasibility Study for a standalone Minyari development scheduled for completion Q3 2026 (following Oct 2024 Scoping Study: NPV7% A$1.8B post-tax at A$5,000/oz). Early FY2025: sold 32% Citadel JV interest to Rio Tinto for A$17M; March 2025 returned to 100% of Wilki at no cost. | sources: [\"Antipa Minerals MRE update announcement 'Minyari Project Resource Grows to 3.6 Moz Gold Equivalent' 2 Apr 2026 (via listcorp.com): total 69 Mt @ 1.33 g/t = 2.9 Moz Au / 3.6 Moz AuEq @ 1.62 g/t; 91 kt Cu, 880 koz Ag, 13 kt Co; Minyari Dome 51 Mt @ 1.54 g/t = 2.5 Moz Au / 3.2 Moz AuEq; 76% Indicated (2.2 Moz); Minyari deposit 1.9 Moz (66%)\", 'Antipa quarterly report to March 2026 (via files.quartr.com): cash A$47.7M at 31 Mar 2026; quarterly exploration spend A$2.7M; 662.7M shares on issue; Minyari Dome Indicated up 70%->85%; RPS maiden 230 koz Au', 'Antipa Diggers & Dealers presentation Aug 2026 (via listcorp.com): 2024 Scoping Study NPV7% A$1.8B post-tax at A$5,000/oz (base case A$3,000/oz, ±35%); cash A$39.1M at 30 Jun 2026; >4,500 km2 landholding; PFS scheduled Q3 2026', 'Stockopedia AZY cashflow/income statement snapshots (Sept 2026, FY end 30 Jun): FY2026 net income before tax -A$5.95M; capex -A$36.8M; financing inflow A$41.2M; operating cash outflow -A$1.79M', \"Kalkine 31 Aug 2026 drilling update: Tim's Dome mineralisation extended across >1 km strike\"]",
+  "mines": [
+    {
+      "mine": "Minyari Gold-Copper-Silver Project",
+      "country": "Australia",
+      "ownership_pct": 100,
+      "status": "Exploration",
+      "mine_type": null,
+      "processing": null,
+      "gold_oz": null,
+      "silver_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": null,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": null,
+      "reserve_au_oz": null,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": null,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "100%-owned flagship development project in the Paterson Province, ~35 km from Greatland's Telfer gold-copper-silver mine and ~54 km along strike from Havieron. Twelve deposits at Minyari Dome distributed along a 3.5 km strike corridor plus satellite deposits (WACA, WACA West, Sundown, RPS). GEO-01 area continues to offer strong resource growth potential (H1 CY2026 follow-up). August 2026: drilling expanded Tim's Dome gold-copper-lead-silver mineralisation across >1 km strike; diamond drilling testing 1.2 km-long AEM conductor. PFS (standalone development opportunity) targeted Q3 2026; FID to follow. Metallurgical recoveries (Antipa 2017-2018 testwork): Au 88%, Cu 85%, Ag 85%, Co 68%; AuEq = Au + Ag*0.012 + Cu%*1.32 + Co%*5.88. Managing Director and CEO Roger Mason; Executive Chairperson Mark Rodda; Level 2, 16 Ord Street, West Perth WA 6005; T +61 8 9481 1103; admin@antipaminerals.com.au; ABN 79 147 133 364. [production_notes: No production - exploration/development stage. FY2025 expenditure: exploration A$36.8M; operating cash outflow A$1.79M; financing inflow A$41.2M. Drilling: 35,158 m (305 holes) Phase 1 CY2025 programme; 18,340 m of Resource Definition drilling for the PFS.] [primary_commodity: Gold] [cost_breakdown_notes: Exploration-stage; no operating costs disclosed. October 2024 Scoping Study update (±35% accuracy): NPV7% A$1.8B post-tax at A$5,000/oz gold; base case A$3,000/oz. PFS for a standalone Minyari development scheduled for completion Q3 2026; costs to be published there.]"
+    }
+  ],
+  "reserves_resources": [
+    {
+      "mine": "Minyari Project",
+      "classification": "Mineral Resource (Total, incl. satellite deposits; 76% Indicated; AuEq 3.6 Moz @ 1.62 g/t with 91 kt Cu, 880 koz Ag, 13 kt Co)",
+      "tonnes_mt": 69.0,
+      "au_gpt": 1.33,
+      "ag_gpt": null,
+      "contained_au_oz": 2900000,
+      "contained_ag_oz": null,
+      "effective_date": "2026-04-02",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Minyari Dome",
+      "classification": "Mineral Resource (PFS basis; 85% Indicated; 3.2 Moz AuEq incl. 87 kt Cu, 730 koz Ag, 13 kt Co); Minyari deposit alone 1.9 Moz (66%)",
+      "tonnes_mt": 51.0,
+      "au_gpt": 1.54,
+      "ag_gpt": null,
+      "contained_au_oz": 2500000,
+      "contained_ag_oz": null,
+      "effective_date": "2026-04-02",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "RPS (Reaper-Poblano-Serrano)",
+      "classification": "Maiden Mineral Resource (240 koz AuEq incl. 3,600 t Cu, 150 koz Ag)",
+      "tonnes_mt": null,
+      "au_gpt": null,
+      "ag_gpt": null,
+      "contained_au_oz": 230000,
+      "contained_ag_oz": null,
+      "effective_date": "2026-04-02",
+      "notes": "material: Gold"
+    }
+  ]
+}

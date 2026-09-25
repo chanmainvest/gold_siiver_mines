@@ -1,0 +1,108 @@
+{
+  "company": "Unico Silver Limited",
+  "tickers": [
+    "USL"
+  ],
+  "exchange": "ASX",
+  "headquarters": "Melbourne, Australia",
+  "fiscal_year": 2025,
+  "report_title": null,
+  "report_url": null,
+  "pdf_path": null,
+  "data_status": "FY2026 annual report (y/e 30 Jun 2026) scheduled 29 September 2026 - not published as of 25 Sep 2026; FY2025 (y/e 30 Jun 2025) used as base (financial figures not verified from available sources; explorer with no revenue). Resource figures use the post-AR March 2026 ASX announcement (Joaquin MRE update) and September 2025 Cerro Leon MRE. Grades for silver in g/t Ag (silver is the primary commodity focus here); AgEq uses company formulae noted below.",
+  "total_gold_production_oz": null,
+  "total_silver_production_oz": null,
+  "notes": "Unico Silver Limited (ASX: USL), Melbourne. Managing Director Todd Williams; unicosilver.com.au. Corporate strategy: 'BEYOND 300' (achieved: 330 Moz AgEq combined) and 'PLUS 150' (150 Moz pit-constrained oxide mineralisation for maiden feasibility; now 212 Moz AgEq). Maiden PFS on track Q3 2026 covering metallurgy, pit optimisation, geotechnics, flowsheet, environmental baseline. FY2026 annual report scheduled 29 September 2026 (not published as of 25 Sep 2026); base fiscal year shown is FY2025. Silver-gold exposure: combined resources 185 Moz Ag + 1,084 koz Au (+364 Mlb Pb, 779 Mlb Zn). fiscal_year_end: 2025-06-30 | primary_commodity_focus: Silver | currency: AUD | company_overview: Australian silver exploration/developer company (ASX: USL; listed 19 April 2017; major shareholder Austral Gold Limited 9.11%). Two flagship assets in Argentina's Deseado Massif, Santa Cruz Province: the Joaquin Silver-Gold Project (100%, 35,000 ha) and Cerro Leon Silver-Gold-Lead-Zinc Project. Combined Mineral Resources 76.3 Mt @ 135 g/t AgEq for 330 Moz AgEq ('BEYOND 300' milestone achieved Mar 2026). PLUS 150 development strategy: 212 Moz AgEq pit-constrained free-milling (oxide) resources targeting conventional open-pit mining + whole-ore cyanidation (Merrill-Crowe); maiden Pre-Feasibility Study on track for Q3 2026. Pure explorer-developer - no production or revenue. | sources: [\"Unico Silver ASX announcement 'Significant growth in Joaquin Mineral Resources' 17 Mar 2026 (via weblink.com.au): Joaquin 45.3 Mt @ 115 g/t AgEq = 167 Moz AgEq (+143%), 123 Moz Ag, 521 koz Au, 78% Indicated; combined 76.3 Mt @ 135 g/t = 330 Moz AgEq (185 Moz Ag, 1,084 koz Au, +43% since Sep 2025); free-milling 53.4 Mt @ 124 g/t = 212 Moz AgEq; maiden PFS on track Q3 2026\", 'Unico Silver September 2025 quarterly (via cdn.prod.nntech.io): Cerro Leon MRE 31 Mt @ 161 g/t AgEq = 162 Moz AgEq (+73% on May 2023), 62 Moz Ag, 548 koz Au, 778 Mlb Zn, 364 Mlb Pb; oxide 8.1 Mt @ 171 g/t = 45 Moz AgEq (67% Indicated)', 'Unico Silver Mar 2026 announcement (via aspecthuntley.com.au): Cerro Leon MRE category breakdown (Indicated 9.4 Mt @ 190 g/t = 57.8 Moz AgEq; Inferred 21.3 Mt @ 154 g/t = 104 Moz AgEq); AgEq formula details; Joaquin historical foreign estimate 16.7 Mt @ 137 g/t = 73.8 Moz AgEq', 'Panorama-minero.com Sep 2025: Cerro Leon MRE 162 Moz AgEq milestone; MD Todd Williams on district-scale system, PLUS 150 target, Joaquin MRE due, BEYOND 300 strategy', 'Canary Capital research note 30 Jan 2026: USL overview; Joaquin 100% 35,000 ha; Deseado Massif; five acquisitions since late 2022; Sep 2025 Cerro Leon MRE 62 Moz Ag', 'Intelligent Investor ASX:USL: Austral Gold 9.11% holder; FY2026 AR scheduled 29 Sep 2026; market price A$0.85 (Sep 2026)']",
+  "mines": [
+    {
+      "mine": "Joaquin Silver-Gold Project",
+      "country": "Argentina",
+      "ownership_pct": 100,
+      "status": "Exploration",
+      "mine_type": null,
+      "processing": null,
+      "gold_oz": null,
+      "silver_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": null,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": null,
+      "reserve_au_oz": null,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": null,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "100%-owned flagship silver-gold project in the central Deseado Massif, Santa Cruz, Argentina (~60 km west of Cerro Leon, connected via Provincial Route 12). Covers a single epithermal vein system extending 10 km N-S and 12 km E-W. Acquired October 2024. MRE update (Mar 2026): 45.3 Mt @ 115 g/t AgEq = 167 Moz AgEq (143% increase since acquisition), incl. 123 Moz Ag and 521 koz Au; 78% Indicated; underpinned by 27,723 m drilling since Apr 2025. Historical PAAS production 4.3 Moz Ag (2019-2021). New discoveries at La Morocha SE; extensional drilling at La Negra/La Negra SE. Phase 1 'Oxide First' strategy: free-milling pit-constrained resources as basis of maiden PFS (Q3 2026) - open-pit mining + whole-ore cyanidation (Merrill-Crowe). Joaquin AgEq = Ag + Au*84.9 (@ $40/oz Ag 82% rec; $3,200/oz Au 87% rec). [production_notes: No production - exploration/development stage. 30,000 m drill program at Joaquin/Cerro Leon (reported 91 holes, 14,594 m assays since Sep 2025); drilling capacity 3->5 rigs after Nov 2025 A$40M placement.] [primary_commodity: Silver] [cost_breakdown_notes: Exploration/development stage; no operating costs. Joaquin all-in discovery cost US$11c per AgEq oz; Cerro Leon discovery cost US$10c per AgEq oz. Maiden PFS on track for Q3 2026.]"
+    },
+    {
+      "mine": "Cerro Leon Silver-Gold-Lead-Zinc Project",
+      "country": "Argentina",
+      "ownership_pct": 100,
+      "status": "Exploration",
+      "mine_type": null,
+      "processing": null,
+      "gold_oz": null,
+      "silver_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": null,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": null,
+      "reserve_au_oz": null,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": null,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "Flagship polymetallic project in the Deseado Massif, Santa Cruz, Argentina. MRE (Sep 2025): 31 Mt @ 161 g/t AgEq = 162 Moz AgEq (73% increase on May 2023 MRE), incl. 62 Moz Ag, 548 koz Au, 778 Mlb Zn, 364 Mlb Pb; Indicated 9.4 Mt @ 190 g/t AgEq = 57.8 Moz AgEq; Inferred 21.3 Mt @ 154 g/t = 104 Moz AgEq. Oxide free-milling resources: 8.1 Mt @ 171 g/t AgEq = 45 Moz AgEq (67% Indicated) supporting PLUS 150 oxide strategy. High-grade mineralisation open at depth and along strike at all prospects. Shallow oxide Ag-Au mineralisation has satellite-feed potential to a centralised Joaquin processing facility. Cerro Leon AgEq = Ag + 96.76*Au + 20.99*Pb% + 32.48*Zn% (@ $30/oz Ag 90% rec; $2,750/oz Au 95% rec; $0.95/lb Pb 87% rec; $1.39/lb Zn 92% rec). [production_notes: No production - exploration/development stage.] [primary_commodity: Silver] [cost_breakdown_notes: Exploration/development stage; no operating costs.]"
+    }
+  ],
+  "reserves_resources": [
+    {
+      "mine": "Joaquin",
+      "classification": "Mineral Resource (Total AgEq 167 Moz @ 115 g/t incl. 123 Moz Ag, 521 koz Au; 78% Indicated)",
+      "tonnes_mt": 45.3,
+      "au_gpt": null,
+      "ag_gpt": 115,
+      "contained_au_oz": null,
+      "contained_ag_oz": 123000000,
+      "effective_date": "2026-03-17",
+      "notes": "material: Silver"
+    },
+    {
+      "mine": "Cerro Leon",
+      "classification": "Mineral Resource (Total AgEq 162 Moz @ 161 g/t incl. 62 Moz Ag, 548 koz Au, 778 Mlb Zn, 364 Mlb Pb)",
+      "tonnes_mt": 31.0,
+      "au_gpt": null,
+      "ag_gpt": 161,
+      "contained_au_oz": null,
+      "contained_ag_oz": 62000000,
+      "effective_date": "2025-09-23",
+      "notes": "material: Silver"
+    },
+    {
+      "mine": "Joaquin + Cerro Leon",
+      "classification": "Mineral Resource (Total combined; AgEq 330 Moz @ 135 g/t incl. 185 Moz Ag, 1,084 koz Au)",
+      "tonnes_mt": 76.3,
+      "au_gpt": null,
+      "ag_gpt": 135,
+      "contained_au_oz": null,
+      "contained_ag_oz": 185000000,
+      "effective_date": "2026-03-17",
+      "notes": "material: Silver"
+    },
+    {
+      "mine": "Joaquin + Cerro Leon",
+      "classification": "Mineral Resource (PLUS 150 free-milling oxide; AgEq 212 Moz @ 124 g/t incl. 153 Moz Ag, 673 koz Au)",
+      "tonnes_mt": 53.4,
+      "au_gpt": null,
+      "ag_gpt": 124,
+      "contained_au_oz": null,
+      "contained_ag_oz": 153000000,
+      "effective_date": "2026-03-17",
+      "notes": "material: Silver"
+    }
+  ]
+}

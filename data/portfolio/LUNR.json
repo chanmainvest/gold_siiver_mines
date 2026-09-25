@@ -1,0 +1,47 @@
+{
+ "company": "LunR Royalties Corp.",
+ "ticker": "LUNR",
+ "report_year": 2025,
+ "report_url": "https://www.lunrroyalties.com/_resources/financials/FS_20251231.pdf",
+ "interests": [
+  {
+   "asset": "Fruta del Norte",
+   "operator": "Lundin Gold",
+   "country": "Ecuador",
+   "commodity": "Ag",
+   "interest_type": "stream",
+   "interest_detail": "Life-of-mine silver stream on Lundin Gold's operating FDN gold mine, Zamora-Chinchipe, Ecuador.",
+   "attributable_production": null,
+   "production_unit": null,
+   "revenue_usd": null,
+   "effective_date": null,
+   "notes": "Life-of-mine silver stream on Lundin Gold's operating FDN gold mine, Zamora-Chinchipe, Ecuador. Announced Feb 2026; definitive agreements with Lundin Gold entered April 2, 2026 (post-FY2025). Terms not yet disclosed in company filings."
+  },
+  {
+   "asset": "Lunahuasi",
+   "operator": "NGEx Minerals",
+   "country": "Argentina",
+   "commodity": "Au/Ag/Cu",
+   "interest_type": "NSR royalty",
+   "interest_detail": "1% NSR royalty on the Nacimiento I concession (San Juan Province), host to NGEx Minerals' 100%-owned Lunahuasi copper-gold-silver project.",
+   "attributable_production": null,
+   "production_unit": null,
+   "revenue_usd": null,
+   "effective_date": null,
+   "notes": "1% NSR royalty on the Nacimiento I concession (San Juan Province), host to NGEx Minerals' 100%-owned Lunahuasi copper-gold-silver project. Acquired July 21, 2025 from an NGEx subsidiary for US$700,000 cash. Exploration-stage; no production."
+  },
+  {
+   "asset": "Los Helados",
+   "operator": "NGEx Minerals/JX Nippon (JV)",
+   "country": "Chile",
+   "commodity": "Au/Ag/Cu",
+   "interest_type": "NSR royalty",
+   "interest_detail": "1.",
+   "attributable_production": null,
+   "production_unit": null,
+   "revenue_usd": null,
+   "effective_date": null,
+   "notes": "1.38% NSR royalty on the concessions underlying the Los Helados copper-gold deposit, Atacama Region, Chile. Acquired Aug 5, 2025 (from MFDO) for cash. Development-stage; no production."
+  }
+ ]
+}

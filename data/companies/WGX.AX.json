@@ -1,0 +1,86 @@
+{
+ "company": "Westgold Resources Limited",
+ "tickers": [
+  "WGX"
+ ],
+ "exchange": "ASX",
+ "headquarters": "Perth, Western Australia, Australia",
+ "fiscal_year": 2026,
+ "report_title": "June 2026 Quarterly Report (FY26 results, web-derived)",
+ "report_url": "https://announcements.asx.com.au/asxpdf/20260722/pdf/071xxc7d05q0w0.pdf",
+ "pdf_path": "/home/hatch/workspace/miners-research/reports/WGX.AX/wgx-june2026-quarterly.pdf",
+ "data_status": "complete",
+ "total_gold_production_oz": 387354,
+ "total_silver_production_oz": null,
+ "notes": "AISC in AUD converted to USD at assumed FY26 average AUD:USD 0.65 (approximate). MD Wayne Bramwell. FY26: revenue A$2.44B (390,358 oz @ A$6,238/oz), NPAT A$443M, treasury A$939M, dividend 10 cps, unhedged. FY26 production incl. 55,862 oz third-party ore (New Murchison OPA) processed at Meekatharra; OPA ounces included in production but excluded from A$/oz. Peak Hill Gold Project divested 1 Jul 2026; Valiant Gold Ltd demerger + IPO (ASX:VAL). 2026 R&R (saved via marketindex link) effective 30 Jun 2026: Ore Reserves 57 Mt @ 2.22 g/t = 4.1 Moz (+41% after depletion/divestments; incl. maiden 1.1 Moz Fletcher reserve at Beta Hunt).",
+ "mines": [
+  {
+   "mine": "Murchison Operations",
+   "country": "Australia",
+   "ownership_pct": 100,
+   "status": "Operating",
+   "mine_type": "Underground + Open pit",
+   "processing": "Meekatharra Hub, Cue Hub, Fortnum Hub (4.08 Mt milled @ 2.3 g/t, 92% recovery FY26)",
+   "gold_oz": 272302,
+   "silver_oz": null,
+   "byproduct": null,
+   "byproduct_qty": null,
+   "byproduct_unit": null,
+   "head_grade_au_gpt": 2.3,
+   "head_grade_ag_gpt": null,
+   "reserve_tonnes_mt": 32.2,
+   "reserve_au_oz": 2300000,
+   "reserve_ag_oz": null,
+   "cash_cost_usd_per_oz": null,
+   "aisc_usd_per_oz": 1709,
+   "sustaining_capex_usd_m": null,
+   "mine_notes": "Bluebird-South Junction (ramping to 1 Mtpa run rate Jun 2026), Big Bell, Great Fingall, Starlight, Fender, Murchison OPAs. FY26 AISC A$2,629/oz converted at 0.65. Incl. 55,862 oz third-party OPA ounces. Growth projects: Bluebird-South Junction, Great Fingall."
+  },
+  {
+   "mine": "Southern Goldfields Operations",
+   "country": "Australia",
+   "ownership_pct": 100,
+   "status": "Operating",
+   "mine_type": "Underground + Open pit",
+   "processing": "Higginsville plant; Lakewood toll treatment recommenced Q1 FY27 (1.76 Mt milled @ 2.2 g/t, 94% recovery FY26)",
+   "gold_oz": 115052,
+   "silver_oz": null,
+   "byproduct": null,
+   "byproduct_qty": null,
+   "byproduct_unit": null,
+   "head_grade_au_gpt": 2.2,
+   "head_grade_ag_gpt": null,
+   "reserve_tonnes_mt": 24.6,
+   "reserve_au_oz": 1800000,
+   "reserve_ag_oz": null,
+   "cash_cost_usd_per_oz": null,
+   "aisc_usd_per_oz": 2107,
+   "sustaining_capex_usd_m": null,
+   "mine_notes": "Beta Hunt (411 kt @ 2.0 g/t mined in Q4; Fletcher maiden reserve 1.1 Moz), Two Boys, Lake Cowan. FY26 AISC A$3,241/oz converted at 0.65."
+  }
+ ],
+ "reserves_resources": [
+  {
+   "mine": "Murchison Operations",
+   "classification": "Proven + Probable",
+   "tonnes_mt": 32.2,
+   "au_gpt": 2.17,
+   "ag_gpt": null,
+   "contained_au_oz": 2300000,
+   "contained_ag_oz": null,
+   "effective_date": "2026-06-30",
+   "notes": "Mineral Resource 108 Mt @ 2.34 g/t = 8.1 Moz (inclusive of reserves)"
+  },
+  {
+   "mine": "Southern Goldfields Operations",
+   "classification": "Proven + Probable",
+   "tonnes_mt": 24.6,
+   "au_gpt": 2.29,
+   "ag_gpt": null,
+   "contained_au_oz": 1800000,
+   "contained_ag_oz": null,
+   "effective_date": "2026-06-30",
+   "notes": "Mineral Resource 85.8 Mt @ 2.26 g/t = 6.2 Moz (inclusive of reserves); incl. Fletcher (Beta Hunt) maiden 1.1 Moz reserve"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+  "company": "Firefinch Limited",
+  "tickers": [
+    "FFX"
+  ],
+  "exchange": "ASX (DELISTED 2024-06-28)",
+  "headquarters": "West Perth, Western Australia (last known)",
+  "fiscal_year": 2023,
+  "report_title": null,
+  "report_url": null,
+  "pdf_path": null,
+  "data_status": "DELISTED - removed from ASX Official List 28 June 2024 (suspended since 29 June 2022). Last published annual report was FY2023; FY year-end unverified so fiscal_year_end is null. No mine-level production since 2022; Morila shareholding carried at nil. Latest corporate status from ASIC/delisted.com.au records (Jan 2026 address change).",
+  "total_gold_production_oz": null,
+  "total_silver_production_oz": null,
+  "notes": "Firefinch Ltd (ASX: FFX): listed 6 Dec 2006; suspended 29 Jun 2022; removed from Official List 28 Jun 2024. Goulamina lithium project (50:50 JV with Ganfeng) demerged into Leo Lithium Ltd (ASX: LLL, listed 23 Jun 2022) with 1 Leo share per 1.4 Firefinch shares in-specie distribution; Firefinch retained ~20% (17.6% at Jun 2024 per fool.com.au), selling 28.6M shares via block trade Jul 2022. MD transitions: Dr Michael Anderson out Jun 2022; Andrew Taplin (COO) acting CEO; Dr Alistair Cowden exec chair; Scott Lowe MD (Sep 2022 - Jul 2023). Shares last traded at A$0.20. Financial reports lodged with ASIC 10 Dec 2024; registered address change 20 Jan 2026 - company remains in existence as an unlisted entity. Fiscal year-end could not be verified from available sources; FY2023 shown with null year-end. primary_commodity_focus: Gold | currency: AUD | company_overview: Delisted Australian gold miner (formerly ASX: FFX, listed 6 Dec 2006). Owned 80% of the Morila Gold Mine in Mali (acquired Nov 2020 from Barrick/AngloGold Ashanti). Operations collapsed in 2022 (equipment availability, cost pressures, withdrawn guidance); shares suspended 29 June 2022; proposed A$90M recapitalisation cancelled October 2022; lithium assets demerged into Leo Lithium Ltd (listed Jun 2022, Firefinch retained ~20%, sold 28.6M shares via block trade Jul 2022). Societe des Mines de Morila SA entered a preventive procedure (Feb 2023); Morila shareholding written down to nil; Mali government would not approve any deed of sale of the Morila interest (Aug 2023); May 2024 settlement with the Government of Mali and agreement with Leo/Ganfeng; arbitration notice from Entreprise Generale Traore et Freres (May 2024). Removed from ASX Official List 28 June 2024. Financial reports lodged with ASIC Dec 2024; ASIC registered address change notified Jan 2026. No current production. | sources: [\"delisted.com.au 'FIREFINCH LIMITED (ASX.FFX) is now delisted': removal 28 Jun 2024; shareholder delisting update 27 Jun 2024; Mali Minister of Mines letter 3 Aug 2023 (no sale approval; Morila SA written down to nil); ASIC filings 10 Dec 2024; registered address change 20 Jan 2026\", 'fool.com.au FFX ticker archive: listed 6 Dec 2006; suspension 29 Jun 2022; removal from Official List 28 Jun 2024; settlement with Govt of Mali & agreement with Leo & Ganfeng 8 May 2024; arbitration notice 27 May 2024; 17.6% stake in Leo Lithium', 'fool.com.au 4 Jul 2022: June quarter ~13,300 oz vs 17-20k guidance; sanctions-related equipment delays; recapitalisation/capital raising', 'fool.com.au 26 Sep 2022: shares suspended at A$0.20; A$90M placement cancelled; 11.115k oz March quarter; recapitalisation package review', 'Stockopedia FFX news archive: 180,000 oz 18-month production target (21 Sep 2022); Morila preventive procedure (14 Feb 2023); Scott Lowe MD departure (21 Jul 2023); non-binding indicative proposals (21 Mar 2023)']",
+  "mines": [
+    {
+      "mine": "Morila Gold Mine",
+      "country": "Mali",
+      "ownership_pct": 80,
+      "status": "Suspended",
+      "mine_type": null,
+      "processing": null,
+      "gold_oz": null,
+      "silver_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": null,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": null,
+      "reserve_au_oz": null,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": null,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "80%-owned gold mine in Mali (West Africa), acquired November 2020 from Barrick/AngloGold Ashanti. Multi-million-ounce historic producer. Operations: pit dewatering, satellite pits (Viper) mining, Morila Super Pit pre-stripping underway in early 2022. Production ramp-up failed mid-2022: June 2022 quarter ~13,300 oz (guidance 17-20k), March 2022 quarter 11,115 oz, calendar 2022 guidance withdrawn. Held through Societe des Mines de Morila SA (Morila SA). Feb 2023: court opened 'preventive procedure' re Morila SA. Firefinch wrote down Morila shareholding to nil and considers itself not liable for Morila SA debts (not a party to agreements with Morila SA vendors/suppliers). Aug 2023: Mali Minister of Mines letter - Government will not approve any deed of sale of Firefinch's Morila interest unless Morila Gold Mine issues resolved. May 2024: settlement with Government of Mali & agreement with Leo/Ganfeng; arbitration notice from Entreprise Generale Traore et Freres (May 2024). Mine not producing under Firefinch since 2022. [production_notes: No production since 2022. Last reported: June 2022 quarter ~13,300 oz; March 2022 quarter 11,115 oz; 180,000 oz 18-month production target (to Sep 2023) never achieved - recapitalisation failed and A$90M placement cancelled Oct 2022.] [primary_commodity: Gold] [cost_breakdown_notes: No cost disclosures since H1 2022. Company reported 'significant cost pressures' (diesel, explosives, consumables) mid-2022.]"
+    }
+  ],
+  "reserves_resources": []
+}

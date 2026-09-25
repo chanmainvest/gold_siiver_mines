@@ -1,0 +1,75 @@
+{
+ "company": "Kingsgate Consolidated Limited",
+ "tickers": [
+  "KCN"
+ ],
+ "exchange": "ASX",
+ "headquarters": null,
+ "fiscal_year": 2026,
+ "report_title": "FY26 Audited Financial Report (web-derived)",
+ "report_url": "https://kalkinemedia.com/au/news/announcements/kingsgate-consolidated-reports-record-278-million-net-profit-and-strong-fy2026-financials",
+ "pdf_path": null,
+ "data_status": "complete",
+ "total_gold_production_oz": 86078,
+ "total_silver_production_oz": 766009,
+ "notes": "Costs already in USD (no conversion). Exec Chairman Ross Smyth-Kirk; MD & CEO Jamie Gibson. Headquarters not verified from extraction sources. FY26: first full year of steady-state mining since Chatree restart; revenue A$596.4M, EBITDA A$344M, NPAT A$277.9M, cash/bullion/dore A$179.2M, debt A$14M. Interim 10c dividend paid Apr 2026 + final 10c payable Nov 2026. AISC pre-royalties US$1,178/oz (US$372 below guidance); reported all-in AISC US$2,123/oz. Unhedged. Included in S&P/ASX 200 in 2026. A$68.6M impairment reversal on Nueva Esperanza. Chatree Ore Reserve figure not captured in extraction sources.",
+ "mines": [
+  {
+   "mine": "Chatree",
+   "country": "Thailand",
+   "ownership_pct": 100,
+   "status": "Operating",
+   "mine_type": "Open pit",
+   "processing": "Plants #1 and #2, 5.47 Mtpa processed @ 0.60 g/t Au (above 5 Mtpa nameplate)",
+   "gold_oz": 86078,
+   "silver_oz": 766009,
+   "byproduct": "Silver",
+   "byproduct_qty": 766009,
+   "byproduct_unit": "oz",
+   "head_grade_au_gpt": 0.6,
+   "head_grade_ag_gpt": null,
+   "reserve_tonnes_mt": null,
+   "reserve_au_oz": null,
+   "reserve_ag_oz": null,
+   "cash_cost_usd_per_oz": null,
+   "aisc_usd_per_oz": 2123,
+   "sustaining_capex_usd_m": null,
+   "mine_notes": "100% owned. Six consecutive quarters >20 koz Au. New ROM facility completed; Caterpillar excavator commissioned. Silver is byproduct/co-product. Sales: 86,125 oz @ US$4,176/oz; silver 739,238 oz @ US$61.28/oz. AISC shown is full AISC (US$2,123/oz); pre-royalties US$1,178/oz."
+  },
+  {
+   "mine": "Nueva Esperanza",
+   "country": "Chile",
+   "ownership_pct": 100,
+   "status": "Development",
+   "mine_type": "Open pit",
+   "processing": null,
+   "gold_oz": null,
+   "silver_oz": null,
+   "byproduct": null,
+   "byproduct_qty": null,
+   "byproduct_unit": null,
+   "head_grade_au_gpt": null,
+   "head_grade_ag_gpt": null,
+   "reserve_tonnes_mt": null,
+   "reserve_au_oz": null,
+   "reserve_ag_oz": null,
+   "cash_cost_usd_per_oz": null,
+   "aisc_usd_per_oz": null,
+   "sustaining_capex_usd_m": null,
+   "mine_notes": "Silver-gold project at pre-feasibility stage. Measured resource 0.36 Moz Au + 60.7 Moz Ag. Acquisition of royalty + strategic water rights (from Inversiones Anglo American Norte) completed FY26. A$68.6M impairment reversal in FY26. No FY26 production."
+  }
+ ],
+ "reserves_resources": [
+  {
+   "mine": "Nueva Esperanza",
+   "classification": "Measured",
+   "tonnes_mt": null,
+   "au_gpt": null,
+   "ag_gpt": null,
+   "contained_au_oz": 360000,
+   "contained_ag_oz": 60700000,
+   "effective_date": null,
+   "notes": "Pre-feasibility stage silver-gold project"
+  }
+ ]
+}

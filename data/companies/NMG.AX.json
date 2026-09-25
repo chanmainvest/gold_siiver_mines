@@ -1,0 +1,130 @@
+{
+  "company": "New Murchison Gold Limited",
+  "tickers": [
+    "NMG"
+  ],
+  "exchange": "ASX",
+  "headquarters": "West Perth, Western Australia",
+  "fiscal_year": 2026,
+  "report_title": null,
+  "report_url": null,
+  "pdf_path": null,
+  "data_status": "Transitional 9-month annual report (1 Oct 2025 - 30 Jun 2026) used as base; financial and operating figures are for a 9-month period, not 12 months. 30 Jun 2026 Mineral Resource/Ore Reserve figures as disclosed in the transitional AR reporting (via market coverage of the ASX release). Production ounces = attributable ounces sold in ore to Westgold after agreed recoveries. Costs in AUD (flagged); no USD conversion applied.",
+  "total_gold_production_oz": 54952,
+  "total_silver_production_oz": null,
+  "notes": "Transitional 9-month financial year: 1 Oct 2025 - 30 Jun 2026 (year-end changed from 30 September to 30 June to align with ASX gold producer peers). CEO Alex Passmore; Company Secretary Frank DeMarte; NED Mark Adams appointed 30 January 2026. Registered office: Suite 8, Level 2, 5 Ord Street, West Perth WA 6005 (ACN 085 782 994). 9 months to 30 Jun 2026: revenue A$272.1M, pre-tax profit A$182.0M, NPAT A$146.95M (vs A$4.79M in prior 12-month period); operating cash flow A$195.2M; cash A$201.7M at 30 Jun 2026 (from A$19.7M); net assets A$209M; only A$65k borrowings; unhedged. NMG sells gold-bearing ore, not bullion. AGM 13 October 2026. AGM held 27 February 2026 (prior year). fiscal_year_end: 2026-06-30 | primary_commodity_focus: Gold | currency: AUD | company_overview: Emerging ASX gold producer (formerly Ora Gold Limited; renamed 19 November 2024) in the Murchison goldfield near Meekatharra, WA. Flagship Crown Prince Gold Mine commenced production in September 2025; ore is crushed on site and sold to Westgold Resources' Big Bell Gold Operations under an Ore Purchase Agreement, processed at Westgold's Bluebird facility ~36 km south of Crown Prince. Transitional 9-month financial year (1 Oct 2025 - 30 Jun 2026) after year-end change from 30 September to 30 June: revenue A$272.1M, NPAT A$146.95M, operating cash flow A$195.2M, cash A$201.7M at 30 Jun 2026, no debt (only A$65k borrowings), unhedged. Growth pipeline: Crown Prince underground, Crown Prince East/Cloudkicker, Lydia and Abbotts deposits within the 677 km2 Garden Gully tenure package. | sources: ['New Murchison Gold Limited 2026 Transitional Annual Report (9 months to 30 Jun 2026) - financials and 30 Jun 2026 MRE/OR statement as reported via market coverage of the ASX release (24 Sep 2026): revenue A$272.1M, NPAT A$146.95M, operating cash flow A$195.2M, cash A$201.7M; 516,925 t ore sold; 54,952 attributable oz sold; attributable AISC A$2,882/oz; total MRE 353,700 oz @ 2.4 g/t (incl. Crown Prince underground 150,400 oz; Lydia 55,100 oz; Abbotts 44,500 oz, all Inferred); total OR 90,800 oz at A$3,750/oz; Cloudkicker Probable 310,000 t @ 2.2 = 21,000 oz', 'NMG CEO presentation to RIU Conference (Feb 2026): Crown Prince MRE at 30 Sep 2025 - Total 2,245,000 t @ 3.8 g/t = 276,900 oz (Measured stockpiles 130kt @ 1.4 = 5.6 koz; Indicated 1,430kt @ 4.8 = 218.9 koz; Inferred 684kt @ 2.4 = 52.4 koz); Ore Reserve at 30 Sep 2025 - Probable 790kt @ 5.1 = 130 koz + Proven stockpiles 130kt @ 1.4 = 5.6 koz; Total 920kt @ 4.6 = 135.6 koz at A$3,250/oz', 'NMG December 2025 Quarter update: first full quarter 184,746 dry tonnes at 4.0 g/t, 95.9% recovery = 22,766 oz delivered to Westgold Bluebird; $92M cash at 31 Dec 2025', 'NMG Cloudkicker drilling update (Jun-Aug 2026): mining commenced at Cloudkicker; mining inventory 365,000 t @ 1.73 = 19,334 oz; ~20,000 oz expected over 12-18 months', 'NMG interim financial statements 31 Mar 2026: $135.9M generated in half year; $155.6M cash at 31 Mar 2026; unhedged, no debt']",
+  "mines": [
+    {
+      "mine": "Crown Prince Gold Mine",
+      "country": "Australia",
+      "ownership_pct": 100,
+      "status": "Operating",
+      "mine_type": null,
+      "processing": null,
+      "gold_oz": 54952,
+      "silver_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": null,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": null,
+      "reserve_au_oz": null,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": null,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "Open-pit gold mine within the Garden Gully Gold Project, Abbotts Greenstone Belt, ~north of Meekatharra, WA. First blast 30 June 2025; production commenced September 2025. Ore crushed and sampled on site, sold under Ore Purchase Agreement to Westgold's Big Bell Gold Operations (BBGO) and processed at the Bluebird mill. Sold 516,925 t of ore in the 9-month period, above the 450,000 t OPA maximum (both parties agreed to exceed to use available Bluebird capacity after softer Crown Prince oxide ore was introduced). Revenue concentrated with a single customer. Stage 2 pit progression; Crown Prince underground (150,400 oz MRE) is a growth target with PFS planned. [production_notes: 9-month period to 30 Jun 2026: 54,952 attributable ounces sold after agreed recoveries (ore sold to Westgold, not bullion). Dec 2025 quarter (first full quarter): 184,746 dry tonnes at agreed grade 4.0 g/t Au and 95.9% recovery = 22,766 oz delivered.] [primary_commodity: Gold] [cost_breakdown_notes: Attributable AISC A$2,882/oz; attributable bullion price applied under OPA A$6,531/oz (both AUD, flagged).]"
+    },
+    {
+      "mine": "Cloudkicker",
+      "country": "Australia",
+      "ownership_pct": 100,
+      "status": "Development (mine established; first ore crushing Sep 2026)",
+      "mine_type": null,
+      "processing": null,
+      "gold_oz": 0,
+      "silver_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": null,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": null,
+      "reserve_au_oz": null,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": null,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "Second mine front ~300 m east of Crown Prince (previously known as Crown Prince East), within the approved mining proposal for M51/886. Mining commenced late June 2026; two-stage open-pit operation planned to run into Q3 CY2027 using existing Crown Prince operating and infrastructure arrangements. First caprock ore to be crushed in September 2026. Expected to add ~20,000 oz Au in ore to the production profile over the coming 12-18 months. Mining inventory 365,000 t at 1.73 g/t for 19,334 oz. [production_notes: Mining commenced late June 2026; first ore crushed Sep 2026. No production in the transitional FY.] [primary_commodity: Gold]"
+    }
+  ],
+  "reserves_resources": [
+    {
+      "mine": "Garden Gully Gold Project (total)",
+      "classification": "Mineral Resource (Total, incl. Crown Prince underground, Cloudkicker, Lydia, Abbotts)",
+      "tonnes_mt": null,
+      "au_gpt": 2.4,
+      "ag_gpt": null,
+      "contained_au_oz": 353700,
+      "contained_ag_oz": null,
+      "effective_date": "2026-06-30",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Crown Prince underground",
+      "classification": "Mineral Resource (underground, beneath Crown Prince)",
+      "tonnes_mt": null,
+      "au_gpt": null,
+      "ag_gpt": null,
+      "contained_au_oz": 150400,
+      "contained_ag_oz": null,
+      "effective_date": "2026-06-30",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Lydia deposit",
+      "classification": "Mineral Resource",
+      "tonnes_mt": null,
+      "au_gpt": null,
+      "ag_gpt": null,
+      "contained_au_oz": 55100,
+      "contained_ag_oz": null,
+      "effective_date": "2026-06-30",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Abbotts deposit",
+      "classification": "Mineral Resource (all Inferred)",
+      "tonnes_mt": null,
+      "au_gpt": null,
+      "ag_gpt": null,
+      "contained_au_oz": 44500,
+      "contained_ag_oz": null,
+      "effective_date": "2026-06-30",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Cloudkicker",
+      "classification": "Ore Reserve (Probable)",
+      "tonnes_mt": 0.31,
+      "au_gpt": 2.2,
+      "ag_gpt": null,
+      "contained_au_oz": 21000,
+      "contained_ag_oz": null,
+      "effective_date": "2026-06-30",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Total (Crown Prince open pit, Cloudkicker, stockpiles)",
+      "classification": "Ore Reserve (Total; estimated at A$3,750/oz gold)",
+      "tonnes_mt": null,
+      "au_gpt": null,
+      "ag_gpt": null,
+      "contained_au_oz": 90800,
+      "contained_ag_oz": null,
+      "effective_date": "2026-06-30",
+      "notes": "material: Gold"
+    }
+  ]
+}

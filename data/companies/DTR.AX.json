@@ -1,0 +1,64 @@
+{
+  "company": "Dateline Resources Limited",
+  "tickers": [
+    "DTR"
+  ],
+  "exchange": "ASX",
+  "headquarters": "San Bernardino, California, USA (operations); ASX-listed Australian company",
+  "fiscal_year": 2025,
+  "report_title": null,
+  "report_url": null,
+  "pdf_path": null,
+  "data_status": "FY2026 AR not published (scheduled ~15 Oct 2026); FY2025 (y/e 30 Jun 2025) used as base: revenue A$0.308M, net loss A$11.7M, operating expenses A$11.6M. BFS figures in USD as released. A$50M institutional placement (125M shares @ A$0.40) in May 2026 took cash to ~A$96M for enabling works at Colosseum.",
+  "total_gold_production_oz": null,
+  "total_silver_production_oz": null,
+  "notes": "Dateline Resources Limited (ASX: DTR; OTCQB: DTREF; FSE: YE1), formerly Conto Resources Limited (CNO) until 20/12/2013. FY2026 annual report scheduled ~15 October 2026 (not published as of 25 Sep 2026); FY2025 used as base: revenue A$0.308M, net loss A$11.7M, EPS -$0.005. CEO Glenn Dovaston; Non-Executive Chairman Mark Johnson; CFO/Co Sec John Smith; COO Simon Slesarewich. Market cap ~A$250M+. Note: share price fell ~90% from 52-week high (A$0.65 Oct 2025 to A$0.06 Sep 2026) despite BFS release. 2025 Updated Scoping Study NPV6.5 US$550M, IRR 61%. fiscal_year_end: 2025-06-30 | primary_commodity_focus: Gold | currency: AUD | company_overview: Australian-listed company (ASX: DTR; OTCQB: DTREF; FSE: YE1) focused on mining and exploration in North America. Flagship is the 100%-owned Colosseum Gold and Rare Earth Element (REE) Project in San Bernardino County, California (Walker Lane Trend, <10 km north of the Mountain Pass REE mine), a historic mine (LAC/Barrick, 344,000 oz produced 1988-1993). Bankable Feasibility Study released May 2026: US$785M pre-tax NPV5 at US$4,200/oz, 49.5% pre-tax IRR, 573 koz over 10.4 yrs, AISC US$1,825/oz. Also owns 100% of the Argos Strontium Project (Cady Mountains) and Music Valley Heavy Rare Earths Project (Riverside County). Developer - no production. | sources: ['Dateline Resources Bankable Feasibility Study announcement 11 May 2026 (via accessnewswire.com / stocktitan.net): pre-tax NPV5 US$785M at US$4,200/oz (US$999M at spot US$4,700), IRR 49.5% (59.5% at spot), pre-tax FCF US$1.08B, 75 kozpa first 6 yrs, 573 koz over 10.4 yrs, peak 102 koz yr 6, AISC US$1,825/oz, strip 3:1, capex US$249M + US$25M contingency, ~US$55M FCF per US$100/oz', 'StockTitan DTREF news feed: A$50M institutional placement @ A$0.40 (125M shares) to A$96M cash; 2026 drill results 287.3 m @ 1.05 g/t and 214 m @ 1.06 g/t NE of North Pit; NPCA legal proceedings (Apr 2026) not naming the company; permitted activities continue under Plan of Operations', 'Dateline factsheet Mar 2026 (via meetmax.com): 1.1 Moz MRE with upside; 344,000 oz historic production (1988-1993, LAC/Barrick); 2025 Scoping Study NPV6.5 US$550M, IRR 61%', 'Stockopedia DTR income statement (Sept 2026, FY end 30 Jun): FY2025 revenue A$0.308M, net loss A$11.7M, op expenses A$11.6M; FY2026 loss A$20.4M (AR pending, due ~15 Oct 2026)', 'Stockopedia DTR profile: Colosseum <10 km north of Mountain Pass; Argos Strontium (100%, San Bernardino Co); Music Valley HREE (100%, 57 claims, 1,140 acres, Riverside Co)']",
+  "mines": [
+    {
+      "mine": "Colosseum Gold and Rare Earth Element (REE) Project",
+      "country": "USA",
+      "ownership_pct": 100,
+      "status": "Development",
+      "mine_type": null,
+      "processing": null,
+      "gold_oz": null,
+      "silver_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": null,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": null,
+      "reserve_au_oz": null,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": 1825,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "100%-owned development project in San Bernardino County, California, <10 km north of the Mountain Pass REE mine (similar geology). Historic open-pit gold mine operated 1988-1993 by LAC and Barrick, producing 344,000 oz. Technically simple open-pit restart envisaged in May 2026 BFS: 75 koz avg first 6 yrs, 102 koz peak year 6, 573 koz over 10.4 yrs; 55 koz of Inferred Mineral Resources within the pit shell not included in the Ore Reserve. REE upside: ~3,000 m REE-focused drilling complete (2026, expanded to 18 holes); specific gravity 2.8-3.1 g/cm3 aligning with gravity anomalies. 2026 gold drilling extended mineralisation NE of North Pit: 287.3 m @ 1.05 g/t Au (CM25-41), 214 m @ 1.06 g/t (CM26-42), both from surface, open at depth. US Government support at high levels for gold & REE developments. Legal: April 2026 NPCA proceedings named US federal agencies (not the company) re Colosseum; company states permitted activities continue under its Plan of Operations (valid existing rights). FID/construction targeted 2026. Other 100%-owned projects: Argos Strontium Project (4 patented claims, Cady Mountains, San Bernardino County) and Music Valley HREE Project (57 claims, 1,140 acres, Riverside County). [production_notes: No production - development stage. BFS plan: avg 75 kozpa first 6 years, 102 koz peak (year 6), 573 koz total over 10.4 years. A$50M placement @ A$0.40 (125M shares) in May 2026 funded enabling works, procurement, final optimisation and exploration.] [primary_commodity: Gold] [cost_breakdown_notes: BFS (May 2026, ±15% accuracy): AISC US$1,825/oz; start-up capital US$249M (incl. US$16M capitalised mining) plus US$25M contingency; total capital costs US$313M (vs US$195M in 2025 Scoping Study); total operating costs US$942M; strip ratio 3:1. ~US$55M increase in pre-tax FCF per US$100/oz gold price move.]"
+    }
+  ],
+  "reserves_resources": [
+    {
+      "mine": "Colosseum",
+      "classification": "Mineral Resource (Total; with upside at depth)",
+      "tonnes_mt": null,
+      "au_gpt": null,
+      "ag_gpt": null,
+      "contained_au_oz": 1100000,
+      "contained_ag_oz": null,
+      "effective_date": "2026-05-11",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Colosseum",
+      "classification": "Ore Reserve / BFS production plan (573 koz over 10.4 yrs; 55 koz Inferred within pit shell excluded)",
+      "tonnes_mt": null,
+      "au_gpt": null,
+      "ag_gpt": null,
+      "contained_au_oz": 573000,
+      "contained_ag_oz": null,
+      "effective_date": "2026-05-11",
+      "notes": "material: Gold"
+    }
+  ]
+}

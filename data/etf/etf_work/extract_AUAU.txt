@@ -1,0 +1,468 @@
+                                                    March 1, 2026
+
+                                       Global X Gold Miners ETF
+
+                                                     NYSE Arca: AUAU
+
+
+                                      2026 Summary Prospectus
+
+Before you invest, you may want to review the Fund's Prospectus, which contains more information about the Fund and its risks. You can find
+the Fund's Prospectus and other information about the Fund (including the Fund’s Statement of Additional Information and most recent
+reports to shareholders) online at http://www.globalxetfs.com/funds/auau. You can also get this information at no cost by calling
+1-888-493-8631 or by sending an e-mail request to info@globalxetfs.com or from your financial intermediary. The Fund’s Prospectus and
+Statement of Additional Information, both dated March 1, 2026, as amended and supplemented from time to time, are incorporated by
+reference into (legally made a part of) this Summary Prospectus.
+
+
+
+
+                                                                    1
+                                                      Global X Gold Miners ETF
+
+                                                   Ticker: AUAU Exchange: NYSE Arca
+
+INVESTMENT OBJECTIVE
+
+The Global X Gold Miners ETF (the "Fund") seeks to provide investment results that correspond generally to the price and yield performance,
+before fees and expenses, of the NYSE® Arca Gold Miners Index® (the "Underlying Index").
+
+FEES AND EXPENSES
+
+This table describes the fees and expenses that you may pay if you buy, hold, and sell shares (“Shares”) of the Fund. You may pay other
+fees, such as brokerage commissions and other fees to financial intermediaries, which are not reflected in the tables and examples below.
+
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment):
+    Management Fees:                                                                                                        0.35%
+    Distribution and Service (12b-1) Fees:                                                                                  None
+    Other Expenses:1                                                                                                        0.00%
+    Total Annual Fund Operating Expenses:                                                                                   0.35%
+
+1
+           Other Expenses are based on estimated amounts for the current fiscal year.
+
+Example: The following example is intended to help you compare the cost of investing in the Fund with the cost of investing in other funds.
+This example does not take into account customary brokerage commissions that you pay when purchasing or selling Shares of the Fund in
+the secondary market. The example assumes that you invest $10,000 in the Fund for the time periods indicated and then sell all of your
+Shares at the end of those periods. The example also assumes that your investment has a 5% return each year and that the Fund's operating
+expenses remain the same. Although your actual costs may be higher or lower, based on these assumptions, your costs would be:
+                                                       One Year         Three Years
+                                                         $36               $113
+
+Portfolio Turnover: The Fund pays transaction costs, such as commissions, when it buys and sells securities (or "turns over" its portfolio). A
+higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when Shares are held in a taxable account.
+These costs, which are not reflected in annual fund operating expenses or in the example, affect the Fund's performance. This is a new fund
+and does not yet have a portfolio turnover rate to disclose.
+
+PRINCIPAL INVESTMENT STRATEGIES
+
+The Fund invests at least 80% of its net assets, plus borrowings for investment purposes (if any), in the securities of the NYSE® Arca Gold
+Miners Index® (the "Underlying Index"), which may include common stocks, as well as American Depositary Receipts ("ADRs") and Global
+Depositary Receipts (“GDRs”) based on the securities in the Underlying Index and preferred securities with equity-like characteristics such as
+those of common stocks. The Fund's 80% investment policy is non-fundamental and requires 60 days prior written notice to shareholders
+before it can be changed.
+
+The Underlying Index, as presently constituted, is designed to track the performance of global companies that are involved in the gold mining
+industry, as determined by ICE Data Indices, LLC (the "Index Provider"). Such companies may include large-, mid-, or small-capitalization
+companies and foreign issuers. The Underlying Index is primarily comprised of publicly traded companies that are involved in the mining of
+gold and silver ore. In constructing the Underlying Index, the Index Provider identifies a universe of eligible securities that are classified
+according to the Intercontinental Exchange, Inc. (“ICE”) Uniform Sector Classification schema within the gold or silver sub-industry (each, a
+"Gold Company" or "Silver Company"). Under the ICE schema, a company is assigned a sub-industry based on the business activity that
+generates the majority of the company’s revenues. Companies that are engaged in two or more substantially different business activities are
+assigned the sub-industry that provides the majority of both the company’s revenues and earnings. Therefore, constituents of the Underlying
+Index that are classified as Silver Companies may also have gold mining related operations and revenue exposures. ICE is an independent
+leading financial data provider that maintains a comprehensive structured taxonomy designed to offer precise classification of global
+
+
+
+
+                                                                      2
+companies and their individual business units. The weight of companies classified as silver companies will not exceed 20% of the Underlying
+Index at rebalance.
+
+To be a part of the initial universe, companies must meet certain minimum market capitalization and liquidity criteria, as determined by the
+Index Provider. As of December 31, 2025, companies must have a minimum market capitalization of $750 million and an average daily
+turnover for the last 3 months greater than or equal to $1 million. The Underlying Index will be exposed to companies listed in developed and
+emerging markets.
+
+The Underlying Index is weighted according to a modified float-adjusted market-capitalization weighting methodology and is reconstituted and
+rebalanced on a quarterly basis. The modified capitalization weighting seeks to weight constituents based on their “free float” market
+capitalization subject to caps on the weights of the individual securities. Free float market capitalization measures a company’s market
+capitalization by multiplying the equity’s price by the number of its shares readily available to be traded in the market. At each rebalance, the
+maximum weight of an individual security is capped at 20%. Modified capitalization weighting is expected to limit the Fund’s exposure to the
+largest market capitalization companies in the Underlying Index. The Underlying Index may include large-, mid- or small-capitalization
+companies; however, the Underlying Index is not required to reflect any one or all market capitalizations. As of December 31, 2025, the
+Underlying Index had 92 constituents. The Fund's investment objective and Underlying Index may be changed without shareholder approval.
+
+The Underlying Index is created and sponsored by the Index Provider. Any determinations related to the constituents of the Underlying Index
+are made by the Index Provider and are independent of the Fund's portfolio managers. The Index Provider determines the composition and
+relative weightings of the securities in the Underlying Index.
+
+The Adviser uses an indexing approach to try to achieve the Fund's investment objective. Unlike many investment companies, the Fund does
+not try to outperform the Underlying Index and does not seek temporary defensive positions when markets decline or appear overvalued.
+
+The Fund generally will use a replication strategy. A replication strategy is an indexing strategy that involves investing in the securities of the
+Underlying Index in approximately the same proportions as in the Underlying Index. However, the Fund may utilize a representative sampling
+strategy with respect to the Underlying Index when a replication strategy might be detrimental or disadvantageous to shareholders, such as
+when there are practical difficulties or substantial costs involved in compiling a portfolio of equity securities to replicate the Underlying Index,
+in instances in which a security in the Underlying Index becomes temporarily illiquid, unavailable or less liquid, or as a result of legal
+restrictions or limitations (such as tax diversification requirements) that apply to the Fund but not the Underlying Index.
+
+The Adviser expects that, over time, the correlation between the Fund's performance and that of the Underlying Index, before fees and
+expenses, will exceed 95%. A correlation percentage of 100% would indicate perfect correlation. If the Fund uses a replication strategy, it can
+be expected to have greater correlation to the Underlying Index than if it uses a representative sampling strategy.
+
+The Fund concentrates its investments (i.e., holds 25% or more of its total assets) in a particular industry or group of industries to
+approximately the same extent that the Underlying Index is concentrated. As of December 31, 2025, the Underlying Index was concentrated
+in the metals and mining industry and had significant exposure to the materials sector. The Fund is classified as “non-diversified,” which
+means it may invest a larger percentage of its assets in a smaller number of issuers than a diversified fund.
+
+SUMMARY OF PRINCIPAL RISKS
+
+As with any investment, you could lose all or part of your investment in the Fund, and the Fund's performance could trail that of other
+investments. There is no guarantee that the Fund will achieve its investment objective. An investment in the Fund is not a bank deposit and it
+is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency, the Adviser or any of its
+affiliates. The Fund is subject to the principal risks noted below, any of which may adversely affect the Fund's net asset value ("NAV"), trading
+price, yield, total return and ability to meet its investment objective, as well as other risks that are described in greater detail in the Additional
+Information About the Fund section of the Prospectus and in the Statement of Additional Information ("SAI").
+
+Asset Class Risk: Securities and other assets in the Underlying Index or otherwise held in the Fund's portfolio may underperform in
+comparison to the general securities markets, a particular securities market or other asset classes.
+
+          Depositary Receipts Risk: The Fund may invest in depositary receipts, such as ADRs and GDRs. Depositary receipts are receipts
+          listed on U.S. or foreign exchanges issued by banks or trust companies that entitle the holder to all dividends and capital gains that
+          are paid out on the underlying foreign shares. Depositary receipts are generally subject to the same risks associated with direct
+          investments in the securities of foreign companies. A holder of depositary receipts may also be subject to fees and the credit risk of
+          the financial institution acting as depositary. Unsponsored depositary receipts may involve higher expenses, fewer shareholder
+          rights, and may be less liquid.
+
+
+
+
+                                                                          3
+          Equity Securities Risk: Equity securities are subject to changes in value, and their values may be more volatile than other asset
+          classes, as a result of a company’s business performance, investor perceptions, stock market trends and general economic
+          conditions.
+
+Capitalization Risk: Investing in issuers within the same market capitalization category carries the risk that the category may be out of favor
+due to current market conditions or investor sentiment.
+
+          Large-Capitalization Companies Risk: Large-capitalization companies may adapt more slowly to new competitive challenges and
+          changing market conditions than smaller capitalization companies. In addition, large-capitalization companies may be more mature
+          and subject to more limited growth potential and consequently may underperform other segments of the equity market or the
+          market as a whole.
+
+          Mid-Capitalization Companies Risk: Mid-capitalization companies may have greater price volatility, lower trading volume and less
+          liquidity than large-capitalization companies. In addition, mid-capitalization companies may have smaller revenues, narrower
+          product lines, less management depth and experience, smaller shares of their product or service markets, fewer financial resources
+          and less competitive strength than large-capitalization companies. These securities may have returns that vary, sometimes
+          significantly, from the overall securities market.
+
+          Small-Capitalization Companies Risk: Small-capitalization companies may be less stable and more susceptible to adverse
+          developments, and their securities may be more volatile and less liquid than large- and mid-capitalization companies. In addition,
+          small-capitalization companies may have smaller revenues, narrower product lines, less management depth and experience,
+          smaller shares of their product or service markets, fewer financial resources, and shorter operating histories than large- and mid-
+          capitalization companies. These securities may have returns that vary, sometimes significantly, from the overall securities market.
+
+Commodity Risk: The Underlying Index measures the performance of companies involved in a commodity-related industry and not the
+performance of the price of a commodity itself. The securities of companies involved in a commodity-related industry may under- or over-
+perform the price of such commodity over the short-term or the long-term.
+
+These companies may be susceptible to fluctuations in the underlying commodities market and may be influenced or characterized by
+unpredictable factors, including high volatility, changes in supply and demand relationships, weather, agriculture, trade, changes in interest
+rates and monetary and other governmental policies, action and inaction. Securities of companies held by the Fund that are dependent on a
+single commodity, or are concentrated on a single commodity sector, may typically exhibit even higher volatility attributable to commodity
+prices.
+
+          Exposure to Related Markets Risk: Companies that are active in the exploration and/or mining of commodities may derive a
+          significant percentage of their profits from other business activities, including direct investment in those commodities and in
+          technologies and products related to those commodities. As a result, the performance of these markets and the profits of these
+          companies from such activities may significantly impact the Fund's performance.
+
+          Gold Risk: Companies involved in gold production or use are subject to risks specific to the global gold market. Gold demand is
+          influenced by investment demand and central bank activity, as well as by its role as a perceived store of value, and may be affected
+          by changes in interest rates, inflation expectations, currency movements, and investor sentiment. Gold supply may be disrupted by
+          factors such as mining challenges, geopolitical events, regulatory or permitting issues, and production decisions in major gold-
+          producing regions. In addition, gold prices may be influenced by shifts in monetary policy, levels of central bank reserves, recycling
+          activity, and speculative activity, which may contribute to increased volatility in gold-related securities.
+
+Currency Risk: The Fund may invest in securities denominated in foreign currencies. Because the Fund's NAV is determined in U.S. dollars,
+the Fund's NAV could decline if currencies of the underlying securities depreciate against the U.S. dollar or if there are delays or limits on
+repatriation of such currencies. Generally, an increase in the value of the U.S. dollar against a foreign currency will reduce the value of a
+security denominated in that foreign currency, thereby decreasing the Fund's NAV. Exchange rates may be volatile and may change quickly
+and without warning, which could have a significant negative impact on the Fund.
+
+Custody Risk: Custody risk refers to the risks in the process of clearing and settling trades, as well as the holding of securities and other
+assets by local banks, agents, and securities depositories. These risks are heightened in jurisdictions with less developed markets or less
+robust settlement and custody infrastructure and processes.
+
+
+
+
+                                                                       4
+Cybersecurity Risk: With the increased use of technologies such as the Internet to conduct business, the Fund, like all companies, may be
+susceptible to operational, information security and related risks. Cybersecurity incidents involving the Fund and its service providers
+(including, without limitation, the Adviser, fund accountant, custodian, transfer agent and financial intermediaries) have the ability to cause
+disruptions and impact business operations, potentially resulting in financial losses, impediments to trading, the inability of Fund shareholders
+to transact business, violations of applicable privacy and other laws, regulatory fines, penalties, reputational damage, reimbursement or other
+compensation costs, and/or additional compliance costs.
+
+Focus Risk: The Fund may from time to time have a significant amount of its assets invested in a particular industry, group of industries, or
+one or more sectors to approximately the same extent that the Underlying Index focuses in investments related to a particular industry, group
+of industries, and/or one or more sectors. In such event, the Fund’s performance will depend to a greater extent on the overall condition of
+such industry(ies) or sector(s), and an economic, business, political, regulatory, or other occurrence affecting such industry(ies) or sector(s)
+will have an increased impact on the value of the Fund’s shares compared to the value of shares of a fund that invests in a broader range of
+industries or sectors.
+
+          Risks Related to Investing in the Materials Sector: Companies in the materials sector are affected by commodity price volatility,
+          exchange rates, import and export controls, supply chain disruptions, worldwide competition, social and political unrest, war,
+          depletion of resources, technical advances, labor relations, over-production, litigation and government regulations, among other
+          factors, among other factors.
+
+          Risks Related to Investing in the Metals and Mining Industry: Securities in the Fund's portfolio may be significantly subject to
+          the effects of competitive pressures in the mining industry and the price of certain metals. The price of certain metals may be
+          affected by changes in inflation rates, interest rates, monetary policy, economic conditions, and political stability. Commodity prices
+          may fluctuate substantially over short periods of time; therefore, the Fund’s Share price may be more volatile than other types of
+          investments. A significant portion of the world’s precious metals are held by governments, central banks and related institutions,
+          and their policies may be unpredictable and may have a significant adverse impact on the supply and prices of precious metals. In
+          addition, metals and mining companies, which may include companies at various stages of development, may also be significantly
+          affected by import controls, worldwide competition, the success of exploration projects, fluctuation in extraction and production
+          costs, liability for environmental damage, depletion of resources, and mandated expenditures for safety and pollution control
+          devices. Metals and mining companies may have significant operations in areas at risk for social and political unrest, security
+          concerns and environmental damage. These companies may also be at risk for increased government regulation and intervention.
+          Such risks may adversely affect the issuers to which the Fund has exposure.
+
+Foreign Securities Risk: Investments in foreign securities can be riskier than U.S. securities investments. Investments in the securities of
+foreign issuers (including investments in American Depositary Receipts (“ADRs”) and Global Depositary Receipts (“GDRs”)) are subject to
+additional risks, including lower levels of liquidity and market efficiency; greater securities price volatility; exchange rate fluctuations and
+exchange controls; less availability of public information about issuers; limitations on foreign ownership of securities; imposition of withholding
+or other taxes; imposition of restrictions on the expatriation of the assets of the Fund; restrictions placed on U.S. investors by U.S. regulations
+governing foreign investments; higher transaction and custody costs and delays in settlement procedures; difficulties in enforcing contractual
+obligations; lower levels of regulation of the securities market; weaker accounting, disclosure and reporting requirements; and legal principles
+relating to corporate governance and directors’ fiduciary duties and liabilities. The countries in which the Fund invests may also be subject to
+structural risks, including economic, political and social instability. Additionally, certain securities held by the Fund, while traded on U.S.
+exchanges, may be issued by foreign financial institutions and as such, may be subject to the risks of investing in securities issued by foreign
+companies, which may not be subject to the same regulations as companies domiciled in the U.S. Where all or a portion of the Fund's
+securities trade in a market that is closed when the market in which the Fund's Shares are listed and trading is open, there may be
+differences between the last quote from the security’s closed foreign market and the value of the security during the Fund’s domestic trading
+day. This, in turn, could lead to differences between the market price of the Fund’s Shares and the underlying value of those shares.
+
+Geographic Risk: The Fund’s investments in securities of issuers located in a particular country or geographic region may subject the Fund
+to certain risks to a greater extent than if its investments were less focused, including: natural, biological or other disasters and the spread of
+infectious diseases; economic, political and social instability; security concerns; and trade disputes with key trading partners. The securities in
+which the Fund invests and, consequently, the Fund are also subject to specific risks as a result of their business operations in a particular
+country or region, including, but not limited to:
+
+          Risk of Investing in Canada: Investments in Canadian issuers may subject the Fund to legal, regulatory, political, currency,
+          security, and economic risk specific to Canada. Among other things, the Canadian economy is heavily dependent on relationships
+
+
+
+
+                                                                        5
+          with certain key trading partners, including the U.S. and China. The Canadian economy is sensitive to fluctuations in certain
+          commodity markets.
+
+          Risk of Investing in Developed Markets: Investments in a developed country’s issuer may subject the Fund to legal, regulatory,
+          political, currency, security, and economic risks specific to developed countries. Developed countries tend to represent a significant
+          portion of the global economy and have generally experienced slower economic growth than some less developed countries.
+          Certain developed countries have experienced security concerns, such as war, terrorism and strained international relations.
+          Incidents involving a country’s or region’s security may cause uncertainty in its markets and may adversely affect its economy and
+          the Fund’s investments. In addition, developed countries may be adversely impacted by changes to the economic conditions of
+          certain key trading partners, regulatory burdens, debt burdens and the price or availability of certain commodities.
+
+          Risk of Investing in Emerging Markets: Investments in emerging markets may be subject to a greater risk of loss than
+          investments in developed markets. Securities markets of emerging market countries are less liquid, subject to greater price
+          volatility, have smaller market capitalizations, have less government regulation, and are not subject to as extensive and frequent
+          accounting, financial, and other reporting requirements as the securities markets of more developed countries, and there may be
+          greater risk associated with the custody of securities in emerging markets. It may be difficult or impossible for the Fund to pursue
+          claims against an emerging market issuer in the courts of an emerging market country. There may be significant obstacles to
+          obtaining information necessary for investigations into or litigation against emerging market companies and shareholders may have
+          limited legal rights and remedies. Emerging markets may be more likely to experience inflation, political turmoil and rapid changes
+          in economic conditions than more developed markets. Emerging markets may also face other significant internal or external risks,
+          including the risk of war, terrorism, or other social or political conflicts.
+
+Gold and Silver Mining Companies Risk: The Fund invests in stocks and depositary receipts of U.S. and foreign companies that are
+involved in the gold mining and silver mining industries, which are considered speculative and are affected by a variety of factors. Competitive
+pressures may have a significant effect on the financial condition of gold mining and silver mining companies. Also, gold and silver mining
+companies are highly dependent on the price of gold and silver bullion, but may also be adversely affected by a variety of worldwide
+economic, financial and political factors. The price of gold and silver may fluctuate substantially over short periods of time so the Fund’s
+Share price may be more volatile than other types of investments. Fluctuation in the prices of gold and silver may be due to a number of
+factors, including changes in inflation, changes in currency exchange rates and changes in industrial and commercial demand for metals
+(including fabricator demand). Additionally, increased environmental or labor costs may depress the value of investments in metals.
+
+Indexing Strategy Risk: The Fund is not actively managed, and the Adviser does not attempt to take defensive positions in declining
+markets or seek to outperform its Underlying Index. Therefore, the Fund would not necessarily buy or sell a security unless that security is
+added or removed, respectively, from the Underlying Index, even if that security generally is underperforming. Maintaining investments in
+securities regardless of market conditions or the performance of individual securities could cause the Fund’s return to be lower than if the
+Fund employed an active strategy.
+
+          Index-Related Risk: There is no guarantee that the Fund will achieve a high degree of correlation to the Underlying Index and
+          therefore achieve its investment objective. Market disruptions and regulatory restrictions could have an adverse effect on the
+          Fund’s ability to adjust its exposure to the required levels in order to track the Underlying Index. Errors in index data, index
+          computations and/or the construction of the Underlying Index in accordance with its methodology may occur from time to time and
+          may not be identified and corrected by the Index Provider for a period of time or at all, which may have an adverse impact on the
+          Fund and its shareholders.
+
+          Management Risk: The Fund may not fully replicate its Underlying Index and may hold securities not included in its Underlying
+          Index. The Adviser’s investment strategy, the implementation of which is subject to a number of constraints, may cause the Fund to
+          underperform the market or its relevant benchmark or adversely affect the ability of the Fund to achieve its investment objective.
+
+          Tracking Error Risk: Tracking error may occur because of differences between the instruments held in the Fund's portfolio and
+          those included in the Underlying Index, pricing differences, transaction costs incurred by the Fund, the Fund's holding of uninvested
+          cash, size of the Fund, differences in timing of the accrual of or the valuation of dividends or interest, tax gains or losses, changes
+          to the Underlying Index or the costs to the Fund of complying with various new or existing regulatory requirements. This risk may be
+          heightened during times of increased market volatility or other unusual market conditions. Tracking error also may result because
+          the Fund incurs fees and expenses, while the Underlying Index does not.
+
+
+
+
+                                                                       6
+International Closed Market Trading Risk: To the extent that the underlying investments held by the Fund trade on foreign exchanges that
+may be closed when the securities exchange on which the Fund’s Shares trade is open, there are likely to be deviations between the current
+price of such an underlying security and the last quoted price for the underlying security (i.e., the Fund’s quote from the closed foreign
+market). These deviations could result in premiums or discounts to the Fund’s NAV that may be greater than those experienced by other
+exchange-traded funds ("ETFs").
+
+Issuer Risk: Fund performance depends on the performance of individual companies in which the Fund invests. Changes to the financial
+condition of any of those companies may cause the value of such company's securities to decline.
+
+Market Risk: Turbulence in the financial markets and reduced liquidity may negatively affect issuers, which could have an adverse effect on
+the Fund and its investments. The Fund’s NAV could decline over short periods due to short-term market movements and over longer periods
+during market downturns. Trade policy, including the imposition of tariffs, may dampen consumer spending and result in decreased
+confidence in the markets. Additionally, political uncertainty regarding U.S. policy, including the U.S. government’s approach to trade, may
+also impact the markets. Furthermore, local, regional or global events such as war, acts of terrorism, the spread of infectious diseases,
+inflation and recessions, changes in interest or exchange rates, or other events could have a significant impact on the Fund and its
+investments and trading of its Shares. Market risk factors may result in increased volatility and/or decreased liquidity in the securities
+markets.
+
+New Fund Risk: The Fund is a new fund, with limited or no operating history, which may result in additional risks for investors in the Fund.
+There can be no assurance that the Fund will grow to or maintain an economically viable size, in which case the Board of Trustees may
+determine to liquidate the Fund. While shareholder interests will be the paramount consideration, the timing of any liquidation may not be
+favorable to certain individual shareholders. New funds are also subject to Large Shareholder Risk.
+
+Non-Diversification Risk: The Fund is classified as a “non-diversified” investment company under the Investment Company Act of 1940
+("1940 Act"), which means that the Fund may invest a greater portion of its assets in securities of individual issuers than a diversified fund. As
+a result, changes in the market value of a single investment may have a greater impact on the Fund’s NAV and may make the Fund more
+volatile than more diversified funds.
+
+Operational Risk: The Fund is exposed to operational risk arising from a number of factors, including but not limited to human error,
+processing and communication errors, errors of the Fund's service providers, counterparties or other third-parties, failed or inadequate
+processes, cyber security incidents, and technology or systems failures. The Fund and the Adviser seek to reduce these operational risks
+through controls and procedures. However, these measures do not address every possible risk and may be inadequate for those risks that
+they are intended to address.
+
+Risks Associated with Exchange-Traded Funds: As an ETF, the Fund is subject to the following risks:
+
+          Authorized Participants Concentration Risk: The Fund has a limited number of financial institutions that may act as Authorized
+          Participants and engage in creation or redemption transactions directly with the Fund, and none of those Authorized Participants is
+          obligated to engage in creation and/or redemption transactions. To the extent that those Authorized Participants exit the business
+          or are unable to process creation and/or redemption orders, such as in times of market stress, Shares may be more likely to trade
+          at a premium or discount to NAV and/or at wider intraday bid-ask spreads, and possibly face trading halts and/or delisting from an
+          exchange.
+
+          Large Shareholder Risk: Certain shareholders, including an Authorized Participant, the Adviser, an affiliate of the Adviser, or
+          funds managed by the Adviser, may own a substantial amount of the Fund’s Shares. Redemptions by large shareholders could
+          have a significant negative impact on the Fund. If a large shareholder were to redeem all, or a large portion, of its Shares, there is
+          no guarantee that the Fund will be able to maintain sufficient assets to continue operations in which case the Board of Trustees
+          may determine to liquidate the Fund. In addition, transactions by large shareholders may account for a large percentage of the
+          trading volume on a national securities exchange and may, therefore, have a material upward or downward effect on the market
+          price of the Shares.
+
+          Listing Standards Risk: The Fund is required to comply with listing requirements adopted by the listing exchange. Non-
+          compliance with such requirements may result in the Fund's shares being delisted by the listing exchange. Any resulting liquidation
+          of the Fund could cause the Fund to incur elevated transaction costs and could result in negative tax consequences for its
+          shareholders.
+
+
+
+
+                                                                        7
+          Market Trading Risks and Premium/Discount Risks: Shares of the Fund are publicly traded on a national securities exchange,
+          which may subject shareholders to numerous market trading risks. In stressed market conditions, the market for the Shares may
+          become less liquid in response to the deteriorating liquidity of the Fund’s portfolio. This adverse effect on the liquidity of the Shares,
+          as well as disruptions to creations and redemptions, the existence of extreme market volatility or potential lack of assets in the Fund
+          or an active trading market for Shares may result in Shares trading at a significant premium or discount to NAV. If a shareholder
+          purchases Shares at a time when the market price is at a premium to the NAV or sells Shares at a time when the market price is at
+          a discount to the NAV, the shareholder may sustain losses. The NAV of the Fund is calculated at the end of each business day and
+          fluctuates with changes in the market value of the Fund’s holdings. The trading price of the Fund’s Shares fluctuates, in some
+          cases materially, throughout trading hours in response to changes in the Fund’s NAV.
+
+Securities Lending Risk: Securities lending involves a risk of loss because the borrower may fail to return the securities in a timely manner
+or at all. If the Fund is not able to recover the securities loaned, it may sell the collateral and purchase a replacement security in the market.
+Lending securities entails a risk of loss to the Fund if and to the extent that the market value of the loaned securities increases and the
+collateral is not increased accordingly. Additionally, the Fund will bear any loss on the investment of cash collateral it receives. These events
+could also trigger adverse tax consequences for the Fund. As securities on loan may not be voted by the Fund, there is a risk that the Fund
+may not be able to recall the securities in sufficient time to vote on material proxy matters.
+
+Tax Status Risk: The Fund intends to pay dividends each taxable year to enable it to continue to satisfy the distribution requirements
+necessary to qualify for treatment as a regulated investment company ("RIC"). If the Fund were to distribute to its shareholders less than the
+minimum amount required for any year, the Fund would become subject to federal income tax for that year on all of its taxable income and
+recognized gains, even those distributed to its shareholders, thereby diminishing returns for shareholders. In addition, under the Internal
+Revenue Code of 1986, as amended (the "Code"), the Fund may not earn more than 10% of its annual gross income from gains resulting
+from the sale of commodities and precious metals. This could make it more difficult for the Fund to pursue its investment strategy and
+maintain qualification as a RIC. In lieu of potential disqualification as a RIC, the Fund is permitted to pay a tax for certain failures to satisfy
+this income requirement, which, in general, are limited to those due to reasonable cause and not willful neglect.
+
+Trading Halt Risk: An exchange or market may close or issue trading halts on specific securities, or the ability to buy or sell certain
+securities or financial instruments may be restricted, which may result in the Fund being unable to buy or sell certain securities or financial
+instruments. In such circumstances, the Fund may be unable to rebalance its portfolio, may be unable to accurately price its investments and/
+or may incur substantial trading losses.
+
+Valuation Risk: The sales price the Fund could receive for a security may differ from the Fund’s valuation of the security and may differ from
+the value used by the Underlying Index, particularly for securities that trade in low value or volatile markets or that are valued using a fair
+value methodology (such as during trading halts). The value of the securities in the Fund's portfolio may change on days when shareholders
+will not be able to purchase or sell the Fund's Shares.
+
+PERFORMANCE INFORMATION
+
+The Fund does not have a full calendar year of performance. Once the Fund has completed a full calendar year of operations, a bar chart
+and table will be included that will provide some indication of the risks of investing in the Fund by showing the variability of the Fund's returns
+and comparing the Fund's performance to a broad-based benchmark index and the Underlying Index. The Fund's performance is not
+necessarily indicative of how the Fund will perform in the future.
+
+FUND MANAGEMENT
+
+Investment Adviser: Global X Management Company LLC.
+
+Portfolio Managers: The professionals primarily responsible for the day-to-day management of the Fund are Nam To, CFA and Wayne Xie
+(the “Portfolio Managers”). Messrs. To and Xie have been Portfolio Managers of the Fund since the Fund's inception.
+
+PURCHASE AND SALE OF FUND SHARES
+
+Shares of the Fund are or will be listed and traded at market prices on a national securities exchange. Shares may only be purchased and
+sold on the exchange through a broker-dealer. The price of Shares is based on market price, and because ETF shares trade at market prices
+rather than at NAV, Shares may trade at a price greater than NAV (a premium) or less than NAV (a discount). Only "Authorized
+Participants" (as defined in the SAI) who have entered into agreements with the Fund's distributor, SEI Investments Distribution Co.
+
+
+
+
+                                                                         8
+("Distributor"), may engage in creation or redemption transactions directly with the Fund. The Fund will only issue or redeem Shares that
+have been aggregated into blocks called "Creation Units". The Fund will issue or redeem Creation Units in return for a basket of cash and/or
+securities that the Fund specifies any day that the national securities exchanges are open for business (“Business Day”). An investor may
+incur costs attributable to the difference between the highest price a buyer is willing to pay to purchase shares of the Fund (bid) and the
+lowest price a seller is willing to accept for shares of the Fund (ask) when buying or selling shares in the secondary market (the “bid-ask
+spread”). To access information regarding the Fund’s net asset value, market price, premiums and discounts, and bid-ask spreads, please go
+to www.globalxetfs.com.
+
+TAX INFORMATION
+
+The Fund intends to make distributions that may be taxable to you as ordinary income or capital gains, unless you are investing through a
+tax-advantaged arrangement such as a 401(k) plan or an individual retirement account ("IRA"), in which case distributions from such tax-
+advantaged arrangement may be taxable to you.
+
+PAYMENTS TO BROKER-DEALERS AND OTHER FINANCIAL INTERMEDIARIES
+
+The Adviser and its related companies may pay broker-dealers or other financial intermediaries (such as a bank) for the sale of Fund Shares
+and related services. These payments may create a conflict of interest by influencing your broker-dealer, sales persons or other intermediary
+or its employees or associated persons to recommend the Fund over another investment. Ask your financial adviser or visit your financial
+intermediary's website for more information.
+
+
+
+
+                                                                     9
+

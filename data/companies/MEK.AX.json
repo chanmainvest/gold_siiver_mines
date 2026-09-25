@@ -1,0 +1,75 @@
+{
+  "company": "Meeka Metals Limited",
+  "tickers": [
+    "MEK"
+  ],
+  "exchange": "ASX",
+  "headquarters": "Perth, Western Australia",
+  "fiscal_year": 2026,
+  "report_title": null,
+  "report_url": null,
+  "pdf_path": null,
+  "data_status": "FY2026 annual report (y/e 30 Jun 2026) published September 2026, used as base. Production = ounces poured/recovered (28,829 oz) and ounces sold (25,427 oz) reported separately. AISC in AUD (flagged); no USD conversion applied. Ore Reserve (400 koz) per December 2024 expanded Definitive Feasibility Study.",
+  "total_gold_production_oz": 28829,
+  "total_silver_production_oz": null,
+  "notes": "FY2026 (y/e 30 Jun 2026) annual report published September 2026 - inaugural full year as gold producer. Managing Director Tim Davidson. T: +61 8 6388 2700; info@meekametals.com.au; meekametals.com.au. FY2026: revenue A$160.8M (FY2025: nil); NPAT A$51.3M (FY2025: $4.2M loss); EPS 1.74c; net cash from operating activities A$89.8M (mine operating cash flow A$38.6M); growth capital invested A$107.0M; cash A$37.9M at 30 Jun 2026 (from A$55.7M); no debt except mining equipment finance; no hedging. First-half challenges: heavy rainfall and reduced open-pit contractor productivity delayed access to higher-grade ore; increased reliance on lower-grade stockpiles in H2. December 2024 expanded DFS: 10-year plan, avg 65 kozpa first 7 years, peak 76 koz, 544 koz recovered LOM, LOM head grade 3.0 g/t; @ A$3,500/oz: pre-tax FCF A$701M / post-tax A$507M, NPV8% A$418M pre-tax / A$304M post-tax, IRR 122% pre-tax / 110% post-tax, AISC A$1,946/oz, AIC A$2,211/oz; @ A$4,100/oz: pre-tax FCF A$1,007M, NPV8% A$616M pre-tax / A$444M post-tax, IRR 180% pre-tax / 160% post-tax. Every A$100/oz increase in gold price adds ~A$52M undiscounted pre-tax FCF. fiscal_year_end: 2026-06-30 | primary_commodity_focus: Gold | currency: AUD | company_overview: Australian gold producer (ASX: MEK; OTC: MEKMF; FRA: 1KX0) owning and operating the 100%-owned Murchison Gold Project ~50 km north of Meekatharra in the Murchison Gold Fields, WA, on granted mining leases. First gold poured 1 July 2025; inaugural full production year FY2026: 28,829 oz produced, 25,427 oz sold at A$6,322/oz for A$160.8M revenue, NPAT A$51.3M. Open-pit mining concluded July 2026; operation transitioning to higher-grade underground ore from Andy Well (owner-operator) and Turnberry. No debt (except mining equipment finance), no hedging. Mineral Resource expanded to ~1.5 Moz @ 2.8 g/t following FY2026 discoveries and acquisitions. | sources: ['Meeka Metals Limited FY2026 Annual Report (y/e 30 Jun 2026, published Sep 2026) via market coverage (kalkinemedia.com): 28,829 oz produced, 25,427 oz sold at A$6,322/oz = A$160.8M revenue; NPAT A$51.3M; FY2026 AISC A$2,956/oz; 423,290 t milled @ 2.2 g/t, ~97% recovery; cash A$37.9M at 30 Jun 2026; no debt/hedging; MRE ~1.5 Moz @ 2.8 g/t; open-pit mining concluded Jul 2026; ~25,400 oz in stockpiles (806,000 t @ 1.0 g/t)', 'Meeka Metals Dec 2025 half-year report: 16,322 oz produced at AISC A$2,264/oz; 173 kt processed @ 98% recovery; Andy Well UG 1,503 m development; closing stockpiles 13,217 oz (396 kt @ 1.0 g/t)', 'Murchison Gold Project expanded Definitive Feasibility Study (Dec 2024): 10-yr plan; avg 65 kozpa first 7 yrs; peak 76 koz; 544 koz recovered LOM @ 3.0 g/t; OR 400 koz @ 3.1 g/t; @ A$3,500/oz: NPV8% A$304M post-tax, IRR 110%, FCF A$507M post-tax, AISC A$1,946/oz; @ A$4,100/oz: NPV8% A$616M pre-tax / A$444M post-tax, IRR 180% pre-tax / 160% post-tax, pre-tax FCF A$1,007M', 'Meeka Metals March 2026 quarter report: 6,083 oz recovered (122,682 t @ 1.6 g/t, 94% recovery); FY26 YTD 22,405 oz (295,671 t @ 2.4 g/t)']",
+  "mines": [
+    {
+      "mine": "Murchison Gold Project",
+      "country": "Australia",
+      "ownership_pct": 100,
+      "status": "Operating",
+      "mine_type": null,
+      "processing": null,
+      "gold_oz": 28829,
+      "silver_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": null,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": null,
+      "reserve_au_oz": null,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": null,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "100%-owned gold project ~50 km north of Meekatharra, WA, on granted mining leases. Open-pit and underground mining feeding a central processing plant (upgraded June 2025: larger 750 kW ball mill, additional leach/adsorption tanks, residence time 11->21 hrs). First gold poured 1 July 2025 (gravity circuit); plant ramp-up through FY2026. Open-pit mining concluded July 2026 after contractor productivity fell short, delaying access to higher-grade ore; ~300,000 oz of open-pit resource remains in-ground. Operation shifting to higher-grade underground ore: Andy Well underground (owner-operator model; 1,503 m development, 23 kt ore in H1 FY2026) and Turnberry (preparations advanced; Turnberry Central and South pits feeding plant in June 2026 quarter). Mineral Resource expanded to ~1.5 Moz @ 2.8 g/t after FY2026 discoveries (incl. Rosapenna target: 23 m @ 1.05 g/t) and acquisitions. [production_notes: FY2026: 28,829 oz gold recovered/poured; 25,427 oz sold at average A$6,322/oz. Mill: 423,290 t processed at 2.2 g/t, ~97% recovery. Quarterly recovered ounces: Sep-25 7,148 oz (83,648 t @ 2.7 g/t); Dec-25 9,174 oz (89,341 t @ 3.3 g/t); Mar-26 6,083 oz (122,682 t @ 1.6 g/t); Jun-26 ~6,424 oz. Year-end ore stockpiles 806,000 t @ 1.0 g/t = ~25,400 oz. H1 FY2026: 16,322 oz produced at AISC A$2,264/oz; 173 kt processed at 98% recovery.] [primary_commodity: Gold] [cost_breakdown_notes: FY2026 AISC A$2,956/oz (AUD, flagged). June 2026 quarter AISC A$3,589/oz. Half-year (to Dec 2025) AISC A$2,264/oz. DFS (Dec 2024) LOM AISC A$1,946/oz at A$3,500/oz gold (A$1,982/oz at A$4,100/oz).]"
+    }
+  ],
+  "reserves_resources": [
+    {
+      "mine": "Murchison Gold Project",
+      "classification": "Mineral Resource (Total; expanded in FY2026 via discoveries and acquisitions)",
+      "tonnes_mt": null,
+      "au_gpt": 2.8,
+      "ag_gpt": null,
+      "contained_au_oz": 1500000,
+      "contained_ag_oz": null,
+      "effective_date": "2026-06-30",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Murchison Gold Project",
+      "classification": "Mineral Resource (Total, pre-expansion DFS inventory)",
+      "tonnes_mt": 12.9,
+      "au_gpt": 3.0,
+      "ag_gpt": null,
+      "contained_au_oz": 1235000,
+      "contained_ag_oz": null,
+      "effective_date": "2024-12-01",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Murchison Gold Project",
+      "classification": "Ore Reserve (Total; 31% growth in Dec 2024 expanded DFS)",
+      "tonnes_mt": 4.1,
+      "au_gpt": 3.1,
+      "ag_gpt": null,
+      "contained_au_oz": 400000,
+      "contained_ag_oz": null,
+      "effective_date": "2024-12-01",
+      "notes": "material: Gold"
+    }
+  ]
+}

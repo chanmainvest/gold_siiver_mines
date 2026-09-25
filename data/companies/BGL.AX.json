@@ -1,0 +1,53 @@
+{
+ "company": "Bellevue Gold Limited",
+ "tickers": [
+  "BGL"
+ ],
+ "exchange": "ASX",
+ "headquarters": "Perth, Western Australia, Australia",
+ "fiscal_year": 2026,
+ "report_title": "FY26 Quarterly results (web-derived)",
+ "report_url": "https://www.fool.com.au/2026/07/28/bellevue-gold-reports-record-production-and-fy27-guidance-upgrade/",
+ "pdf_path": null,
+ "data_status": "complete",
+ "total_gold_production_oz": 143539,
+ "total_silver_production_oz": null,
+ "notes": "AISC in AUD converted at assumed FY26 average AUD:USD 0.65 (approximate). MD Darren Stralow. FY26: record production, top half of guidance (130-150 koz); AISC within guidance (A$2,600-2,900/oz). Q4: 41,643 oz @ AISC A$2,604/oz, sold 40,671 oz @ A$4,180/oz. Cash + gold A$206.4M, debt A$100M (unchanged, no mandatory repayments until CY27). Hedge book cut by 83.4 koz in FY26 to 68.7 koz; no mandatory deliveries until Jun 2027. World's first net-zero gold producer (90 MW hybrid power). FY27 guidance 150,000-170,000 oz @ AISC A$2,800-3,100/oz; exploration A$25-30M. R&R effective 1 Mar 2026.",
+ "mines": [
+  {
+   "mine": "Bellevue Gold Mine",
+   "country": "Australia",
+   "ownership_pct": 100,
+   "status": "Operating",
+   "mine_type": "Underground",
+   "processing": "Bellevue plant (1.16 Mt @ 4.1 g/t processed FY26, 96% recovery)",
+   "gold_oz": 143539,
+   "silver_oz": null,
+   "byproduct": null,
+   "byproduct_qty": null,
+   "byproduct_unit": null,
+   "head_grade_au_gpt": 4.1,
+   "head_grade_ag_gpt": null,
+   "reserve_tonnes_mt": 6.9,
+   "reserve_au_oz": 1000000,
+   "reserve_ag_oz": null,
+   "cash_cost_usd_per_oz": null,
+   "aisc_usd_per_oz": 1838,
+   "sustaining_capex_usd_m": null,
+   "mine_notes": "5 mining areas: Deacon, Deacon North (high-grade), Viago, Marceline, Tribune. Commercial production since May 2024. Contractor transition to Barminco; paste plant under construction. Head grade computed from quarterly processed grades (approx)."
+  }
+ ],
+ "reserves_resources": [
+  {
+   "mine": "Bellevue Gold Mine",
+   "classification": "Proven + Probable",
+   "tonnes_mt": 6.9,
+   "au_gpt": 4.5,
+   "ag_gpt": null,
+   "contained_au_oz": 1000000,
+   "contained_ag_oz": null,
+   "effective_date": "2026-03-01",
+   "notes": "Tonnes derived from published ounces and grade. Down from 1.3 Moz @ 4.7 g/t (Aug 2025) on ~154 koz mined depletion and model changes. Mineral Resource 2.7 Moz @ 8.6 g/t (Indicated 2.0 Moz @ 9.7, Inferred 1.1 Moz @ 7.9)"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "company": "Pantoro Gold Limited",
+ "tickers": [
+  "PNR"
+ ],
+ "exchange": "ASX",
+ "headquarters": "Perth, Western Australia, Australia",
+ "fiscal_year": 2026,
+ "report_title": "FY2026 Result and FY2027 Guidance (9 Jul 2026, web-derived)",
+ "report_url": "https://www.listcorp.com/asx/pnr/pantoro-gold-limited/news/fy2026-result-and-fy2027-guidance-3375797.html",
+ "pdf_path": null,
+ "data_status": "complete",
+ "total_gold_production_oz": 77408,
+ "total_silver_production_oz": null,
+ "notes": "MD Paul Cmrlec. Norseman is 100%-owned (JV with Tulla Resources restructured 2023-24). FY26 was challenging: UG production fell short on WA labour shortages, contractor delivery issues (OK mine contractor changed to Redpath Australia), and seismic activity in deeper OK levels. FY27 guidance 90,000-105,000 oz. Debt free, unhedged; on-market share buyback announced Feb 2026; A$216.5M cash & gold at Dec 2025. Partnership with Mega Resources for Rama open pit. Full-year FY26 AISC/cash cost not disclosed in extraction sources (Q2 FY26 AISC was A$2,571/oz; quarterly C1 cash costs ranged A$1,962-2,493/oz). Norseman Ore Reserve (Sep 2025 statement) not captured in extraction sources.",
+ "mines": [
+  {
+   "mine": "Norseman Gold Project",
+   "country": "Australia",
+   "ownership_pct": 100,
+   "status": "Operating",
+   "mine_type": "Underground + Open pit",
+   "processing": "Norseman plant (~1.1 Mt processed FY26, ~95% recovery)",
+   "gold_oz": 77408,
+   "silver_oz": null,
+   "byproduct": null,
+   "byproduct_qty": null,
+   "byproduct_unit": null,
+   "head_grade_au_gpt": null,
+   "head_grade_ag_gpt": null,
+   "reserve_tonnes_mt": null,
+   "reserve_au_oz": null,
+   "reserve_ag_oz": null,
+   "cash_cost_usd_per_oz": null,
+   "aisc_usd_per_oz": null,
+   "sustaining_capex_usd_m": null,
+   "mine_notes": "100% owned (Pantoro operates). Mines: OK UG, Scotia UG, Princess Royal OP, Gladstone OP. Quarterly head grades 2.21-2.68 g/t (FY26). Q4 FY26: 18,028 oz. Underground development at Scotia Mainfield; OK Main Lode development commenced. Full-year AISC not disclosed; converted figure not shown to avoid estimate."
+  }
+ ],
+ "reserves_resources": [
+  {
+   "mine": "Norseman Gold Project",
+   "classification": null,
+   "tonnes_mt": null,
+   "au_gpt": null,
+   "ag_gpt": null,
+   "contained_au_oz": null,
+   "contained_ag_oz": null,
+   "effective_date": null,
+   "notes": "Ore Reserve (Sep 2025 statement) not captured in extraction sources"
+  }
+ ]
+}

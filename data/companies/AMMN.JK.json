@@ -1,0 +1,108 @@
+{
+  "company": "PT Amman Mineral Internasional Tbk",
+  "tickers": [
+    "AMMN"
+  ],
+  "exchange": "IDX",
+  "headquarters": "Jakarta, Indonesia (offices in Jakarta and Mataram, Lombok)",
+  "fiscal_year": 2025,
+  "report_title": "FY 2025 Earnings Results presentation (26 March 2026); audited FY2025 consolidated financial statements",
+  "report_url": null,
+  "pdf_path": "/home/hatch/workspace/miners-research/reports/AMMN.JK/ammn-fy2025-presentation.pdf",
+  "data_status": "complete",
+  "total_gold_production_oz": 102758,
+  "total_silver_production_oz": null,
+  "notes": "Copper-gold porphyry producer (primarily copper; gold as co-product). FY2025: net sales US$1,847M, EBITDA US$1,057M (57% margin), net profit US$258M (14% margin). Phase 8 mining (lower early-phase grades) drove transitional year. Copper smelter + precious metals refinery (PMR) produced 79,849 t copper cathodes and 124,723 oz refined gold in 2025; concentrate export permit obtained 31 Oct 2025 (480,000 dmt quota, 6 months). Export duty on refined gold 10-15% imposed 23 Dec 2025. Full FY2025 annual report not located; mine data built from company FY2025 earnings presentation (26 Mar 2026) and audited FY2025 financial statements notes (JORC reserves by AMC Consultants, effective 31 Dec 2024). AMNT (mine operator) is 99.99999% directly owned by AMMN per FY2025 consolidated financial statements group structure.",
+  "mines": [
+    {
+      "mine": "Batu Hijau",
+      "country": "Indonesia",
+      "ownership_pct": 100,
+      "status": "Operating",
+      "mine_type": "Open pit",
+      "processing": "Flotation concentrator; copper smelter + precious metals refinery",
+      "gold_oz": 102758,
+      "silver_oz": null,
+      "byproduct": "Copper",
+      "byproduct_qty": 209,
+      "byproduct_unit": "million pounds",
+      "head_grade_au_gpt": 0.28,
+      "head_grade_ag_gpt": 0.93,
+      "reserve_tonnes_mt": 705,
+      "reserve_au_oz": 6300000,
+      "reserve_ag_oz": 21000000,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": null,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "Operated by PT Amman Mineral Nusa Tenggara (AMNT), 99.99999% direct subsidiary; West Nusa Tenggara. FY2025 concentrate: 446,563 dmt containing 209 Mlbs copper and 102,758 oz gold (4% above guidance for concentrate, 14% for gold; copper 8% below). Reserve grade shown is total reserve average (0.28 g/t Au, 0.93 g/t Ag, 0.36% Cu); Proved reserve grade 0.39 g/t Au, 1.17 g/t Ag, 0.39% Cu. JORC (AMC, 31 Dec 2024): total reserves 705 Mt = 451 Mt ore + 254 Mt stockpiles; 5,606 Mlb Cu, 6.3 Moz Au, 21.0 Moz Ag. Exclusive resources 2,052 Mt @ 0.24% Cu, 0.10 g/t Au, 0.59 g/t Ag (10,855 Mlb Cu, 6.7 Moz Au, 38.9 Moz Ag). Smelter/PMR refined 124,723 oz gold and 79,849 t copper cathodes in 2025 (same metal as concentrate, not additive)."
+    },
+    {
+      "mine": "Elang",
+      "country": "Indonesia",
+      "ownership_pct": 100,
+      "status": "Development",
+      "mine_type": "Open pit (planned)",
+      "processing": null,
+      "gold_oz": null,
+      "silver_oz": null,
+      "byproduct": "Copper",
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": 0.33,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": 2526,
+      "reserve_au_oz": 26440000,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": null,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "Copper-gold porphyry development project ~54 km from Batu Hijau; to use existing Batu Hijau infrastructure (plants, power, Benete port, smelter) with a 54 km overland conveyor from the Elang coarse ore stockpile. Feasibility study completed 2025; optimization ongoing. JORC (31 Dec 2024): reserves 2,526 Mt @ 0.32% Cu, 0.33 g/t Au (17.78 Blb Cu, 26.44 Moz Au); exclusive resources 1,294 Mt @ 0.26% Cu, 0.21 g/t Au (7.35 Blb Cu, 8.66 Moz Au)."
+    }
+  ],
+  "reserves_resources": [
+    {
+      "mine": "Batu Hijau",
+      "classification": "Proven + Probable (incl. stockpiles)",
+      "tonnes_mt": 705,
+      "au_gpt": 0.28,
+      "ag_gpt": 0.93,
+      "contained_au_oz": 6300000,
+      "contained_ag_oz": 21000000,
+      "effective_date": "2024-12-31",
+      "notes": "JORC by AMC Consultants (report 10 Mar 2025), disclosed in FY2025 financial statements. 451 Mt ore reserves + 254 Mt stockpiles (0.9 Moz Au). Cu: 5,606 Mlb."
+    },
+    {
+      "mine": "Batu Hijau",
+      "classification": "Measured + Indicated + Inferred (exclusive of reserves)",
+      "tonnes_mt": 2052,
+      "au_gpt": 0.1,
+      "ag_gpt": 0.59,
+      "contained_au_oz": 6700000,
+      "contained_ag_oz": 38900000,
+      "effective_date": "2024-12-31",
+      "notes": "Exclusive of ore reserves. Cu: 10,855 Mlb."
+    },
+    {
+      "mine": "Elang",
+      "classification": "Ore Reserve",
+      "tonnes_mt": 2526,
+      "au_gpt": 0.33,
+      "ag_gpt": null,
+      "contained_au_oz": 26440000,
+      "contained_ag_oz": null,
+      "effective_date": "2024-12-31",
+      "notes": "Cu: 17.78 Blb. FS completed 2025."
+    },
+    {
+      "mine": "Elang",
+      "classification": "Mineral Resource (exclusive of reserves)",
+      "tonnes_mt": 1294,
+      "au_gpt": 0.21,
+      "ag_gpt": null,
+      "contained_au_oz": 8660000,
+      "contained_ag_oz": null,
+      "effective_date": "2024-12-31",
+      "notes": "Cu: 7.35 Blb."
+    }
+  ]
+}

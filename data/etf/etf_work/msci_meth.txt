@@ -1,0 +1,911 @@
+                Index Methodology
+
+
+
+
+MSCI Select
+Commodity
+Producers Indexes
+Pandey, Kamal
+
+November 2021
+
+
+
+
+                   NOVEMBER 2021
+                                                          MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+Contents   1        Introduction ............................................................................ 3
+           2 Constructing the MSCI Select Commodity Producers
+           Indexes .......................................................................................... 4
+               2.1         Underlying universe ............................................................................ 4
+               2.2         MSCI ACWI Select Energy Producers Investable Market Index ...... 4
+               2.3         MSCI ACWI Select Agriculture Producers Investable
+               Market Index .................................................................................................. 6
+               2.4 MSCI ACWI Select Metals & Mining Producers Ex Gold and Silver
+               Investable Market Index ............................................................................... 7
+               2.5         MSCI ACWI Select Gold Miners Investable Market Index ............... 9
+               2.6         MSCI ACWI Select Silver Miners Investable Market Index ............ 11
+           3        Maintaining the MSCI Select Commodity
+           Producers Indexes .................................................................... 15
+               3.1         Semi-Annual Index Reviews ............................................................. 15
+               3.2         Quarterly Index Reviews ................................................................... 15
+               3.3         Ongoing Event-Related Maintenance .............................................. 15
+               3.4         Maintenance of the 25/50 Capping ................................................ 17
+
+
+
+
+           © 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.   MSCI.COM | PAGE 2 OF 21
+                                                   MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+1   Introduction
+    The MSCI Select Commodity Producers Indexes are custom market capitalization
+    weighted indexes based on the MSCI ACWI Investable Market Index (IMI). The
+    indexes aim to capture the performance of securities of companies primarily
+    involved in the production of commodities. MSCI currently calculates the following
+    MSCI Select Commodity Producers Indexes:
+    •     MSCI ACWI Select Energy Producers Investable Market Index
+    •     MSCI ACWI Select Agriculture Producers Investable Market Index
+    •     MSCI ACWI Select Metals & Mining Producers Ex Gold and Silver Investable
+          Market Index
+    •     MSCI ACWI Select Gold Miners Investable Market Index
+    •     MSCI ACWI Select Silver Miners Investable Market Index
+    MSCI ACWI IMI is a global equity index consisting of developed and emerging market
+    countries across the large, mid and small cap size-segments. For more information,
+    please visit our web site at https://www.msci.com/index-methodology.
+
+
+
+
+    © 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.   MSCI.COM | PAGE 3 OF 21
+                                                     MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+2     Constructing the MSCI Select Commodity Producers
+      Indexes
+2.1   UNDERLYING UNIVERSE
+      The underlying universe for the MSCI Select Commodity Producers Indexes is the
+      MSCI ACWI IMI.
+
+2.2   MSCI ACWI SELECT ENERGY PRODUCERS INVESTABLE MARKET INDEX
+      The MSCI ACWI Select Energy Producers Investable Market Index is free float-
+      adjusted market capitalization weighted.
+      Constituents of the MSCI ACWI IMI classified under the eligible sub-industries based
+      on the Global Industry Classification Standard (GICS®) and fulfilling the additional
+      screening criteria, as described in the table below, are included in the MSCI ACWI
+      Select Energy Producers Investable Market Index.
+
+        Eligible          Eligible             Description                                                Additional Screening Criteria
+        GICS®             GICS®
+        Code              Sub-
+                          Industry
+
+        10102010          Integrated           Integrated oil companies engaged in                        Companies that derive a majority of
+                          Oil & Gas            the exploration & production of oil                        their revenues from marketing,
+                                               and gas, as well as at least one other                     storage and/or transportation of oil
+                                               significant activity in either refining,                   and gas are not included with the
+                                               marketing and transportation, or                           exception of companies that do not
+                                               chemicals.                                                 separately disclose refining revenues
+                                                                                                          from downstream components.
+                                                                                                          Companies that neither derive a
+                                                                                                          majority of their revenues from
+                                                                                                          downstream components nor
+                                                                                                          refining, as well as those that do not
+                                                                                                          derive any revenue from refining are
+                                                                                                          not included.
+                                                                                                          Companies primarily involved in
+                                                                                                          alternative fuels are not included.
+
+        10102020          Oil & Gas            Companies engaged in the                                   No additional screening
+                          Exploration          exploration and production of oil
+                          &                    and gas not classified elsewhere.
+                          Production
+
+
+
+
+      © 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.            MSCI.COM | PAGE 4 OF 21
+                                               MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+  10102030          Oil & Gas            Companies engaged in the refining                          Companies that derive a majority of
+                    Refining &           and marketing of oil, gas and/or                           their revenues from marketing,
+                    Marketing            refined products not classified in the                     storage and/or transportation of oil
+                                         Integrated Oil & Gas or Independent                        and gas are not included with the
+                                         Power Producers & Energy Traders                           exception of companies that do not
+                                         Sub-Industries.                                            separately disclose refining revenues
+                                                                                                    from downstream components.
+                                                                                                    Companies that neither derive a
+                                                                                                    majority of their revenues from
+                                                                                                    downstream components nor
+                                                                                                    refining, as well as those that do not
+                                                                                                    derive any revenue from refining are
+                                                                                                    not included.
+                                                                                                    Companies primarily involved in
+                                                                                                    alternative fuels are not included.
+
+  10102050          Coal &               Companies primarily involved in the                        No additional screening
+                    Consumable           production and mining of coal,
+                    Fuels                related products and other
+                                         consumable fuels related to the
+                                         generation of energy. Excludes
+                                         companies primarily producing
+                                         gases classified in the Industrial
+                                         Gases sub-industry and companies
+                                         primarily mining for metallurgical
+                                         (coking) coal used for steel
+                                         production.
+
+
+
+
+© 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.            MSCI.COM | PAGE 5 OF 21
+                                                     MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+2.3   MSCI ACWI SELECT AGRICULTURE PRODUCERS INVESTABLE MARKET
+      INDEX
+      The MSCI ACWI Select Agriculture Producers Investable Market Index is free float-
+      adjusted market capitalization weighted.
+      Constituents of the MSCI ACWI IMI classified under the eligible sub-industries based
+      on GICS® and fulfilling the additional screening criteria, as described in the table
+      below, are included in the MSCI ACWI Select Agriculture Producers Investable Market
+      Index.
+
+        Eligible          Eligible             Description                                                Additional Screening Criteria
+        GICS®             GICS®
+        Code              Sub-
+                          Industry
+
+        15101030          Fertilizers &        Producers of fertilizers, pesticides,                      No additional screening
+                          Agricultural         potash or other agriculture-related
+                          Chemicals            chemicals not classified elsewhere.
+
+        20106015          Agricultural         Companies manufacturing                                    No additional screening
+                          & Farm               agricultural machinery, farm
+                          Machinery            machinery, and their related parts.
+                                               Includes machinery used for the
+                                               production of crops and agricultural
+                                               livestock, agricultural tractors,
+                                               planting and fertilizing machinery,
+                                               fertilizer and chemical application
+                                               equipment, and grain dryers and
+                                               blowers
+
+        30202010          Agricultural         Producers of agricultural products.                        No additional screening
+                          Products             Includes crop growers, owners of
+                                               plantations and companies that
+                                               produce and process foods but do
+                                               not package and market them.
+                                               Excludes companies classified in the
+                                               Forest Products Sub-Industry and
+                                               those that package and market the
+                                               food products classified in the
+                                               Packaged Foods Sub-Industry.
+
+
+
+
+      © 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.            MSCI.COM | PAGE 6 OF 21
+                                                     MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+        30202030          Packaged             Producers of packaged foods                                Only companies that derive the
+                          Foods &              including dairy products, fruit juices,                    majority of their revenues from the
+                          Meats                meats, poultry, fish and pet foods.                        packaging and marketing of
+                                                                                                          agricultural products they produce
+                                                                                                          are included, based on the following
+                                                                                                          guidelines:
+
+                                                                                                          • Poultry and Livestock: companies
+                                                                                                            are included only if they are
+                                                                                                            significantly involved in the
+                                                                                                            breeding of animals by themselves
+                                                                                                            or through contract farming.
+
+                                                                                                          • Dairy: manufacturers of milk and
+                                                                                                            milk products like cheese, yogurt
+                                                                                                            etc., except for those that operate
+                                                                                                            their own dairy operations or
+                                                                                                            source through long-term
+                                                                                                            contracts, are not included.
+
+                                                                                                          • Sugar: manufacturers of sugar are
+                                                                                                            included even if they did not farm
+                                                                                                            sugarcane. Companies selling
+                                                                                                            sweeteners, sugar free, syrups,
+                                                                                                            etc. are not included.
+
+                                                                                                          • Edible Oil: companies processing
+                                                                                                            the edible oil without cultivating
+                                                                                                            the plantation are not included.
+
+                                                                                                          • Confectionaries and Snacks:
+                                                                                                            manufacturers of finished
+                                                                                                            products are not included.
+                                                                                                          • Coffee and Tea: coffee and tea
+                                                                                                            companies, except for those that
+                                                                                                            own their own coffee and tea
+                                                                                                            plantations, are not included.
+
+                                                                                                          • Fishing: fishing companies are
+                                                                                                            included.
+
+
+
+
+2.4   MSCI ACWI SELECT METALS & MINING PRODUCERS EX GOLD AND
+      SILVER INVESTABLE MARKET INDEX
+      The MSCI ACWI Select Metals & Mining Producers Ex Gold and Silver Investable
+      Market Index is free float-adjusted market capitalization weighted.
+
+
+
+
+      © 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.            MSCI.COM | PAGE 7 OF 21
+                                               MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+Constituents of the MSCI ACWI IMI classified under the eligible sub-industries based
+on GICS® and fulfilling the additional screening criteria, as described in the table
+below, are included in the MSCI ACWI Select Metals & Mining Producers Ex Gold and
+Silver Investable Market Index. In addition, all constituents of the MSCI ACWI Select
+Gold Miners Investable Market Index and the MSCI ACWI Select Silver Miners
+Investable Market Index are not included.
+
+  Eligible           Eligible             Description                                               Additional Screening Criteria
+  GICS®              GICS®
+  Code               Sub-
+                     Industry
+  15104010           Aluminum             Producers of aluminum and related                         No additional screening
+                                          products, including companies that
+                                          mine or process bauxite and
+                                          companies that recycle aluminum to
+                                          produce finished or semi-finished
+                                          products. Excludes companies that
+                                          primarily produce aluminum
+                                          building materials classified in the
+                                          Building Products Sub-Industry.
+
+  15104020           Diversified          Companies engaged in the                                  No additional screening
+                     Metals &             diversified production or extraction
+                     Mining               of metals and minerals not classified
+                                          elsewhere. Including, but not limited
+                                          to, nonferrous metal mining (except
+                                          bauxite), salt and borate mining,
+                                          phosphate rock mining and
+                                          diversified mining operations.
+                                          Excludes iron ore mining, classified
+                                          in the Steel Sub-Industry and
+                                          bauxite mining, classified in the
+                                          Aluminum Sub-Industry, and coal
+                                          mining, classified in either the Steel
+                                          or Coal & Consumable Fuels Sub-
+                                          Industries.
+
+  15104025           Copper               Companies involved primarily in                           No additional screening
+                                          copper ore mining
+
+  15104040           Precious             Companies mining precious metals                          Only companies that derive less
+                     Metals &             and minerals not classified in the                        than 50% of their revenues from
+                     Minerals             Gold Sub-Industry. Includes                               gold mining or silver mining are
+                                                                                                    included.
+
+
+
+
+© 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.            MSCI.COM | PAGE 8 OF 21
+                                                     MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+                                                companies primarily mining
+                                                platinum.
+
+        15104050           Steel                Producers of iron and steel and                           No additional screening
+                                                related products, including
+                                                metallurgical (coking) coal mining
+                                                used for steel production.
+
+
+2.5   MSCI ACWI SELECT GOLD MINERS INVESTABLE MARKET INDEX
+      The MSCI ACWI Select Gold Miners Investable Market Index is weighted based on
+      the MSCI 25/50 Indexes methodology. For a description of the MSCI 25/50 Index
+      methodology, please refer to https://www.msci.com/index-methodology
+      Constituents of the MSCI ACWI IMI classified under the eligible sub-industries based
+      on GICS® and fulfilling the additional screening criteria, as described in the table
+      below, are included in the selection universe.
+
+        Eligible            Eligible             Description                                              Additional Criteria for
+        GICS®               GICS®                                                                         Inclusion in the Selection
+        Code                Sub-                                                                          Universe
+                            Industry
+
+        15104030            Gold                 Producers of gold and related                            Companies which primarily invest in
+                                                 products, including companies that                       but do not operate gold mines are
+                                                 mine or process gold and the South                       not included.
+                                                 African finance houses which                             Companies that do not generate
+                                                 primarily invest in, but do not                          any revenues from gold production
+                                                 operate, gold mines.                                     are not included.
+                                                                                                          See below for additional criteria for
+                                                                                                          inclusion in the Index.
+
+        15104040            Precious             Companies mining precious metals                         Only companies that generate
+                            Metals &             and minerals not classified in the                       revenues of which at least 50% are
+                            Minerals             Gold Sub-Industry. Includes                              from gold mining are included.
+                                                 companies primarily mining                               See below for additional criteria for
+                                                 platinum.                                                inclusion in the Index.
+
+
+      From the selection universe, all companies which state as a general policy that they
+      do not hedge their exposure to gold prices are included, as long as no indication of
+      hedging activities is found in their annual reports or such hedging activities are
+      nevertheless identified but represent less than 10% of the business (step 1).
+
+
+
+
+      © 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.            MSCI.COM | PAGE 9 OF 21
+                                               MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+If after including the securities based on the above criteria the number of
+constituents is less than 30, further securities from the selection universe are
+included until the index has reached 30 constituents in the following order of priority:
+•     Step 2: Securities of companies that state as a general policy that they do not
+      hedge their exposure to gold prices but for which indications of hedging activities
+      can nevertheless be identified in their annual reports, as long as the proportion of
+      hedging cannot be quantified (securities are added in descending order of free
+      float-adjusted market capitalization).
+•     Step 3: Securities of companies that state as a general policy that they do not
+      hedge their exposure to gold prices but for which indications of hedging activities
+      greater than 10% can nevertheless be identified in their annual reports (securities
+      are added in ascending order of percentage hedged. Should there be two or more
+      securities with the same hedging percentage, the one with the higher free float-
+      adjusted market capitalization is selected).
+•     Step 4: Securities of companies that state as a general policy that they hedge
+      their exposure to gold prices and for which the proportion of such hedging can be
+      quantified (securities are added in ascending order of percentage hedged.
+      Should there be two or more securities with the same hedging percentage, the
+      one with the higher free float-adjusted market capitalization is selected).
+•     Step 5: Securities of companies that state as a general policy that they hedge
+      their exposure to gold prices and for which the proportion of such hedging
+      cannot be quantified (securities are added in descending order of free float-
+      adjusted market capitalization)
+If after applying these steps the number of constituents is less than 30, further
+securities outside the selection universe are included until the index has reached 30
+constituents in the following order of priority:
+•     Step 6: Securities of companies classified under GICS 15104030 – Gold that do
+      not generate revenues from gold but are involved in gold exploration (securities
+      are added in descending order of free float-adjusted market capitalization).
+•     Step 7: Securities of companies classified under GICS 15104040 – Precious
+      Metals & Minerals that do not generate revenues from gold but are involved in
+      gold exploration (securities are added in descending order of free float-adjusted
+      market capitalization).
+•     Step 8: Constituents of the MSCI World Micro Cap Index classified under GICS
+      15104030 – Gold (securities are added in descending order of free float-adjusted
+      market capitalization).
+
+
+
+
+© 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.   MSCI.COM | PAGE 10 OF 21
+                                                     MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+      If the number of constituents after applying the above remains below 30, the Index
+      will only include the resulting constituents.
+      At subsequent Semi-Annual Index Reviews, all eligible securities are assigned to a
+      step, as defined above, and securities are selected for inclusion as follows:
+      •      All securities assigned to step 1 are included in the index.
+      •      If the resulting number of constituents is less than 30, securities assigned to
+             steps 2 to 5 are selected in the order of priority defined above until the index has
+             reached 30 constituents. Current constituents of the index that are assigned to
+             the same step as the 30th security selected are maintained in the index while
+             securities assigned to subsequent steps are deleted.
+      •      If the number of constituents is still less than 30, securities assigned to steps 6
+             to 8 are selected in the order of priority defined above until the index has reached
+             30 constituents. All remaining current constituents of the index that have not
+             been selected are deleted from the index.
+      •      If the number of constituents after applying step 8 remains below 30, the Index
+             will only include the resulting constituents.
+
+2.6   MSCI ACWI SELECT SILVER MINERS INVESTABLE MARKET INDEX
+      The MSCI ACWI Select Silver Miners Investable Market Index is weighted based on
+      the MSCI 25/50 Indexes methodology. For a description of the MSCI 25/50 Index
+      methodology, please refer to https://www.msci.com/index-methodology.
+      Constituents of the MSCI ACWI IMI classified under the eligible sub-industry based
+      on GICS®, as described in the table below, are included in the MSCI ACWI Select
+      Silver Miners Investable Market Index
+
+          Eligible          Eligible              Description
+          GICS®             GICS®
+          Code              Sub-
+                            Industry
+
+          15104045          Silver                Companies primarily mining silver. Excludes companies classified in the
+                                                  Gold or Precious Metals and Minerals Sub-Industries.
+
+
+      If after including the securities based on the above criteria (Step 1) the number of
+      constituents is less than 25, further securities from an additional selection universe
+      are included until the index has reached 25 constituents. Constituents of the MSCI
+      ACWI IMI classified under the eligible sub-industries based on GICS®, as described
+
+
+
+
+      © 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.   MSCI.COM | PAGE 11 OF 21
+                                               MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+ in the table below, are included in the additional selection universe.
+
+    Eligible          Eligible              Description
+    GICS®             GICS®
+    Code              Sub-
+                      Industry
+
+    15104030          Gold                  Producers of gold and related products, including companies that mine or
+                                            process gold and the South African finance houses which primarily invest
+                                            in, but do not operate, gold mines.
+
+    15104040          Precious              Companies mining precious metals and minerals not classified in the Gold
+                      Metals &              Sub-Industry. Includes companies primarily mining platinum.
+                      Minerals
+
+
+Securities from the additional selection universe are included until the index has
+reached 25 constituents in the following order of priority:
+•      Step 2: Securities of companies classified under GICS 15104040 – Precious
+       Metals & Minerals and generating at least 25% of their revenues from silver
+       (securities are added in descending order of percentage of revenues generated
+       from silver. Should there be two or more securities with the same percentage of
+       revenues generated from silver, the one with the higher free float-adjusted
+       market capitalization is selected).
+•      Step 3: Securities of companies classified under GICS 15104030 – Gold and
+       generating at least 25% of their revenues from silver (securities are added in
+       descending order of percentage of revenues generated from silver. Should there
+       be two or more securities with the same percentage of revenues generated from
+       silver, the one with the higher free float-adjusted market capitalization is
+       selected).
+•      Step 4: Securities of companies classified under GICS 15104040 – Precious
+       Metals & Minerals not generating revenues but involved in silver mining
+       exploration (securities are added in descending order of free float-adjusted
+       market capitalization).
+•      Step 5: Securities of companies classified under GICS 15104030 – Gold not
+       generating revenues but involved in silver mining exploration (securities are
+       added in descending order of free float-adjusted market capitalization).
+•      Step 6: Securities of companies classified under GICS 15104040 – Precious
+       Metals & Minerals and generating a part of their revenues from silver (securities
+
+
+
+
+© 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.   MSCI.COM | PAGE 12 OF 21
+                                               MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+      are added in descending order of percentage of revenues generated from silver.
+      Should there be two or more securities with the same percentage of revenues
+      generated from silver, the one with the higher free float-adjusted market
+      capitalization is selected).
+•     Step 7: Securities of companies classified under GICS 15104030 – Gold and
+      generating a part of their revenues from silver (securities are added in
+      descending order of percentage of revenues generated from silver. Should there
+      be two or more securities with the same percentage of revenues generated from
+      silver, the one with the higher free float-adjusted market capitalization is
+      selected).
+
+
+If after applying these steps the number of constituents is less than 25, further
+securities outside the selection universe are included until the index has reached 25
+constituents in the following order of priority:
+•     Step 8: Constituents of the MSCI World Micro Cap Index classified under GICS
+      15104045 – Silver.
+•     Step 9: Constituents of the MSCI World Micro Cap Index classified under GICS
+      15104040 – Precious Metals & Minerals provided the company generates at
+      least 25% of its revenues from silver mining (securities are added in descending
+      order of percentage of revenues generated from silver. Should there be two or
+      more securities with the same percentage of revenues generated from silver, the
+      one with the higher free float-adjusted market capitalization is selected).
+•     Step 10: Constituents of the MSCI World Micro Cap Index classified under GICS
+      15104040 – Precious Metals & Minerals not generating revenues but involved in
+      silver mining exploration (securities are added in descending order of free float-
+      adjusted market capitalization).
+•     Step 11: Securities of companies classified under GICS 15104040 – Precious
+      Metals & Minerals in the MSCI World Micro Cap Index and generating a part of
+      their revenues from silver (securities are added in descending order of
+      percentage of revenues generated from silver. Should there be two or more
+      securities with the same percentage of revenues generated from silver, the one
+      with the higher free float-adjusted market capitalization is selected).
+•     Step 12: Securities of companies classified under GICS 15104030 – Gold in the
+      MSCI World Micro Cap Index and generating a part of their revenues from silver
+      (securities are added in descending order of percentage of revenues generated
+      from silver. Should there be two or more securities with the same percentage of
+
+
+
+
+© 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.   MSCI.COM | PAGE 13 OF 21
+                                               MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+      revenues generated from silver, the one with the higher free float-adjusted
+      market capitalization is selected).
+If the number of constituents after applying the above remains below 25, the Index
+will only include the resulting constituents.
+At subsequent Semi-Annual Index Reviews, all eligible securities are assigned to a
+step, as defined above, and securities are selected for inclusion as follows:
+•     All securities assigned to step 1 are included in the index.
+•     If the resulting number of constituents is less than 25, securities assigned to
+      steps 2 to 7 are selected in the order of priority defined above until the index has
+      reached 25 constituents. Current constituents of the index that are assigned to
+      the same step as the 25th security selected are maintained in the index while
+      securities assigned to subsequent steps are deleted.
+•     If the number of constituents is still less than 25, securities assigned to steps 8
+      to 12 are selected in the order of priority defined above until the index has
+      reached 25 constituents. All remaining current constituents of the index that
+      have not been selected are deleted from the index.
+•     If the number of constituents after applying step 12 remains below 25, the Index
+      will only include the resulting constituents.
+If eligible for inclusion as per the above steps, the securities from MSCI ACWI IMI
+and classified under GICS 15104030 – Gold will be included at 5% of their Free Float
+Market Capitalization weight, before applying 25-50 Methodology.
+
+
+
+
+© 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.   MSCI.COM | PAGE 14 OF 21
+                                                     MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+3     Maintaining the MSCI Select Commodity Producers
+      Indexes
+3.1   SEMI-ANNUAL INDEX REVIEWS
+      The MSCI Select Commodity Producers Indexes are fully reviewed on a semi-annual
+      basis, coinciding with the May and November Semi-Annual Index Reviews of the
+      MSCI Global Investable Market Indexes. The changes are implemented as of the
+      close of the last business day of May and November.
+      The pro forma indexes are announced nine business days before the effective date.
+      At the Semi-Annual Index Reviews, all companies in the underlying universe are
+      reviewed for inclusion in the MSCI Select Commodity Producers Indexes based on
+      the criteria described under Section 2. The cutoff date to define the universe of
+      securities to review is the price cutoff date used for MSCI Global Investable Market
+      Indexes, which is generally any one of the last 10 business days of April and October
+      for the May and November Semi-Annual Index Reviews, respectively.
+
+3.2   QUARTERLY INDEX REVIEWS
+      On a quarterly basis, coinciding with the February and August Quarterly Index
+      Reviews of the MSCI Global Investable Market Indexes, all additions to the MSCI
+      ACWI IMI since the previous Semi-Annual Index Review are reviewed for inclusion
+      based on the criteria described under Section 2.
+      All deletions from the MSCI ACWI IMI as well as companies re-classified from an
+      eligible sub-industry to an ineligible sub-industry are deleted from the MSCI Select
+      Commodity Producers Indexes.
+      The cutoff date to define the universe of securities to review is the price cutoff date
+      used for MSCI Global Investable Market Indexes, which is generally any one of the
+      last 10 business days of January and July for the February and August Quarterly
+      Index Reviews, respectively.
+
+3.3   ONGOING EVENT-RELATED MAINTENANCE
+      The MSCI Corporate Events methodology is applied for the maintenance of the MSCI
+      Select Commodity Producers Indexes. The details relating to the handling of specific
+      corporate event types can be found in the MSCI Corporate Events methodology book
+      available at: https://www.msci.com/index-methodology
+
+
+
+
+      © 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.   MSCI.COM | PAGE 15 OF 21
+                                               MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+Companies deleted from the MSCI ACWI IMI in between the Index Reviews will be
+simultaneously deleted from the MSCI Select Commodity Producers Indexes.
+Companies added to the MSCI ACWI IMI in between the Index Reviews (e.g., IPOs,
+spun off securities) and classified in an eligible non screened sub-industry will be
+added to the relevant MSCI Select Commodity Producers Index. Additions to the
+MSCI ACWI IMI classified in an eligible screened sub-industry will not be added to the
+MSCI Select Commodity Producers Indexes and will be reviewed at the following
+Index Review.
+In addition, the treatment for changes in GICS classification in between the Index
+Reviews is detailed below:
+
+  Index                                                                           Treatment
+  Existing constituent re-classified to an ineligible sub-                        Security is deleted from the Index
+  industry
+
+  Existing constituent re-classified to an eligible non                           Security is maintained in the Index
+  screened sub-industry
+
+  Existing constituent re-classified from an eligible non-                        Security is deleted from the Index
+  screened sub-industry to an eligible screened sub-
+  industry
+
+  Existing constituent re-classified from an eligible                             Security is maintained in the Index
+  screened sub-industry to another eligible screened
+  sub-industry
+
+  Non constituent re-classified to an eligible non-                               Security is added to the Index
+  screened sub-industry
+
+  Non constituent re-classified to an eligible screened                           Security is not added to the Index
+  sub-industry
+
+
+The list of eligible sub-industries and whether they require additional screening is
+summarized below:
+
+  Index                                         Additional Screening Not                            Additional Screening
+                                                Required                                            Required
+
+  MSCI ACWI Select Energy                       10102020 – Oil & Gas Exploration                    10102010 - Integrated Oil & Gas
+  Producers Investable Market                   & Production                                        10102030 - Oil & Gas Refining &
+  Index                                         10102050 - Coal & Consumable                        Marketing
+                                                Fuels
+
+
+
+
+© 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.        MSCI.COM | PAGE 16 OF 21
+                                                     MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+        MSCI ACWI Select Agriculture                  15101030 - Fertilizers &                            30202030 - Packaged Foods &
+        Producers Investable Market                   Agricultural Chemicals                              Meats
+        Index                                         20106015 – Agricultural & Farm
+                                                      Machinery
+                                                      30202010 – Agricultural Products
+
+        MSCI ACWI Select Metals &                     15104010 – Aluminum                                 15104040 - Precious Metals &
+        Mining Producers Ex Gold and                  15104020 - Diversified Metals &                     Minerals
+        Silver Investable Market Index                Mining
+                                                      15104025 - Copper
+                                                      15104050 – Steel
+
+        MSCI ACWI Select Gold                                                                             15104030 – Gold
+        Miners Investable Market                                                                          15104040 – Precious Metals &
+        Index                                                                                             Minerals
+
+        MSCI ACWI Select Silver                       15104045 - Silver                                   15104030 – Gold
+        Miners Investable Market                                                                          15104040 - Precious Metals &
+        Index                                                                                             Minerals
+
+
+
+
+3.4   MAINTENANCE OF THE 25/50 CAPPING
+      The maintenance of the 25/50 capping for the MSCI ACWI Select Gold Miners
+      Investable Market Index and the MSCI ACWI Select Silver Miners Investable Market
+      Index is based on the MSCI 25/50 Index methodology. For a description of the MSCI
+      25/50 Index methodology, please refer to https://www.msci.com/index-
+      methodology.
+
+
+
+
+      © 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.        MSCI.COM | PAGE 17 OF 21
+                                               MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+The following sections have been modified since January 2014:
+Section 3.4: MSCI ACWI Select Gold Miners Investable Market Index
+      •      Clarification of MSCI ACWI Select Gold Miners Investable Market Index
+             construction rules
+Section 3.5: MSCI ACWI Select Silver Miners Investable Market Index
+      •      Clarification of MSCI ACWI Select Silver Miners Investable Market Index
+             construction rules
+Section 4.3: Ongoing Event-Related Maintenance
+      •      Addition of treatment for changes in GICS classification in between the Index
+             Reviews
+Section 4.4: Maintenance of the 25/50 Capping
+      •      Updated link for MSCI 25/50 Index methodology
+
+
+The following section has been modified since July 2014:
+Section 2.4: MSCI ACWI Select Metals & Mining Producers ex Gold and Silver
+Investable Market Index
+      •      Addition of the Copper GICS sub-industry to reflect changes to the GICS
+             structure effective September 01, 2016
+
+
+The following sections have been modified since August 2016:
+Section 3: Maintaining the MSCI Select Commodity Producers Indexes
+•     Updated section 3.1 to include the announcement date of the pro forma index.
+
+
+The following section has been modified since September 2017:
+Section 2.6: MSCI ACWI Select Silver Miners Investable Market Index
+      •      Updated steps 10 and 11 to include companies from GICS 15104040 –
+             Precious Metals & Minerals and GICS 15104030 – Gold that derive a part of
+             their revenues from silver.
+
+
+
+
+© 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.   MSCI.COM | PAGE 18 OF 21
+                                               MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+The following section has been modified since November 2017:
+Section 2.6: MSCI ACWI Select Silver Miners Investable Market Index
+      •      Updated the Index construction details:
+                    o      to reduce the target number of constituents
+                    o      to allow inclusion of the Standard size segment (Large + Mid)
+                           constituents with GICS classification of Gold
+                    o      to re-arrange the priority rules for selection of constituents
+
+
+The following sections have been modified as of November 2021:
+Section 2.2: MSCI ACWI Select Energy Producers Investable Market Index
+      •      Clarified the additional screening criteria for screened Sub-Industries
+Section 2.3: MSCI ACWI Select Agriculture Producers Investable Market Index
+      •      Clarified the additional screening criteria for screened Sub-Industries
+Section 2.5: MSCI ACWI Select Gold Miners Investable Market Index
+      •      Clarified the selection criteria for cases when two or more securities have the
+             same hedging percentage
+Section 2.6: MSCI ACWI Select Silver Miners Investable Market Index
+      •      Updated the Index construction details to apply a 5% scaling factor to the
+             Free Float Market Capitalization weight of constituents from the MSCI ACWI
+             Small Cap Index classified under the Gold GICS Sub-Industry
+      •      Clarified the selection criteria for cases when two or more securities have the
+             same percentage of revenues generated from silver
+
+
+
+
+© 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.   MSCI.COM | PAGE 19 OF 21
+                                                                        MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+      Contact us         AMERICAS                                                                       ABOUT MSCI
+
+                         Americas      1 888 588 4567 *                                                 MSCI is a leader provider of critical
+clientservice@msci.com
+                         Atlanta       + 1 404 551 3212                                                 decision support tools and services for
+                         Boston        + 1 617 532 0920                                                 the global investment community. With
+                         Chicago       + 1 312 675 0545                                                 over 50 years of expertise in research,
+                         Monterrey     + 52 81 1253 4020                                                data and technology, we power better
+                         New York      + 1 212 804 3901                                                 investment decisions by enabling clients
+                         San Francisco + 1 415 836 8800                                                 to understand and analyze key drivers of
+                         São Paulo     + 55 11 3706 1360                                                risk and return and confidently build
+                         Toronto       + 1 416 628 1007                                                 more effective portfolios. We create
+                                                                                                        industry-leading research-enhanced
+                                                                                                        solutions that clients use to gain insight
+                         EUROPE, MIDDLE EAST & AFRICA                                                   into and improve transparency across
+                                                                                                        the investment process.
+                         Cape Town                  + 27 21 673 0100
+                         Frankfurt                  + 49 69 133 859 00                                  The process for submitting a formal
+                         Geneva                     + 41 22 817 9777                                    index complaint can be found on the
+                         London                     + 44 20 7618 2222                                   index regulation page of MSCI’s website
+                         Milan                      + 39 02 5849 0415                                   at: https://www.msci.com/index-
+                         Paris                      0800 91 59 17 *                                     regulation.
+
+                                                                                                        To learn more, please visit
+                         ASIA PACIFIC                                                                   www.msci.com.
+
+                         China North                10800 852 1032 *
+                         China South                10800 152 1032 *
+                         Hong Kong                  + 852 2844 9333
+                         Mumbai                     + 91 22 6784 9160
+                         Seoul                      00798 8521 3392 *
+                         Singapore                  800 852 3749 *
+                         Sydney                     + 61 2 9033 9333
+                         Taipei                     008 0112 7513 *
+                         Thailand                   0018 0015 6207 7181 *
+                         Tokyo                      + 81 3 5290 1555
+
+
+                         * = toll free
+
+
+
+
+                         © 2021 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document.   MSCI.COM | PAGE 20 OF 21
+                                                                                                  MSCI Select Commodity Producers Indexes | November 2021
+
+
+
+
+Notice and disclaimer
+This document and all of the information contained in it, including without limitation all text, data, graphs, charts (collectively, the “Information”) is the property of MSCI Inc. or its
+subsidiaries (collectively, “MSCI”), or MSCI’s licensors, direct or indirect suppliers or any third party involved in making or compiling any Information (collectively, with MSCI, the
+“Information Providers”) and is provided for informational purposes only. The Information may not be modified, reverse-engineered, reproduced or redisseminated in whole or in part
+without prior written permission from MSCI. All rights in the Information are reserved by MSCI and/or its Information Providers. The Information may not be used to create derivative works
+or to verify or correct other data or information. For example (but without limitation), the Information may not be used to create indexes, databases, risk models, analytics, software, or in
+connection with the issuing, offering, sponsoring, managing or marketing of any securities, portfolios, financial products or other investment vehicles utilizing or based on, linked to,
+tracking or otherwise derived from the Information or any other MSCI data, information, products or services. The user of the Information assumes the entire risk of any use it may make or
+permit to be made of the Information. NONE OF THE INFORMATION PROVIDERS MAKES ANY EXPRESS OR IMPLIED WARRANTIES OR REPRESENTATIONS WITH RESPECT TO THE
+INFORMATION (OR THE RESULTS TO BE OBTAINED BY THE USE THEREOF), AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EACH INFORMATION PROVIDER
+EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES (INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF ORIGINALITY, ACCURACY, TIMELINESS, NON-INFRINGEMENT,
+COMPLETENESS, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE) WITH RESPECT TO ANY OF THE INFORMATION. Without limiting any of the foregoing and to the
+maximum extent permitted by applicable law, in no event shall any Information Provider have any liability regarding any of the Information for any direct, indirect, special, punitive,
+consequential (including lost profits) or any other damages even if notified of the possibility of such damages. The foregoing shall not exclude or limit any liability that may not by
+applicable law be excluded or limited, including without limitation (as applicable), any liability for death or personal injury to the extent that such injury results from the negligence or willful
+default of itself, its servants, agents or sub-contractors. Information containing any historical information, data or analysis should not be taken as an indication or guarantee of any future
+performance, analysis, forecast or prediction. Past performance does not guarantee future results. The Information should not be relied on and is not a substitute for the skill, judgment and
+experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. All Information is impersonal and not tailored to the
+needs of any person, entity or group of persons. None of the Information constitutes an offer to sell (or a solicitation of an offer to buy), any security, financial product or other investment
+vehicle or any trading strategy.
+
+
+It is not possible to invest directly in an index. Exposure to an asset class or trading strategy or other category represented by an index is only available through third party investable
+instruments (if any) based on that index. MSCI does not issue, sponsor, endorse, market, offer, review or otherwise express any opinion regarding any fund, ETF, derivative or other security,
+investment, financial product or trading strategy that is based on, linked to or seeks to provide an investment return related to the performance of any MSCI index (collectively, “Index
+Linked Investments”). MSCI makes no assurance that any Index Linked Investments will accurately track index performance or provide positive investment returns. MSCI Inc. is not an
+investment adviser or fiduciary and MSCI makes no representation regarding the advisability of investing in any Index Linked Investments. Index returns do not represent the results of
+actual trading of investible assets/securities. MSCI maintains and calculates indexes, but does not manage actual assets. Index returns do not reflect payment of any sales charges or fees
+an investor may pay to purchase the securities underlying the index or Index Linked Investments. The imposition of these fees and charges would cause the performance of an Index
+Linked Investment to be different than the MSCI index performance. The Information may contain back tested data. Back-tested performance is not actual performance, but is hypothetical.
+There are frequently material differences between back tested performance results and actual results subsequently achieved by any investment strategy. Constituents of MSCI equity
+indexes are listed companies, which are included in or excluded from the indexes according to the application of the relevant index methodologies. Accordingly, constituents in MSCI equity
+indexes may include MSCI Inc., clients of MSCI or suppliers to MSCI. Inclusion of a security within an MSCI index is not a recommendation by MSCI to buy, sell, or hold such security, nor is
+it considered to be investment advice. Data and information produced by various affiliates of MSCI Inc., including MSCI ESG Research LLC and Barra LLC, may be used in calculating
+certain MSCI indexes. More information can be found in the relevant index methodologies on www.msci.com.
+
+
+ MSCI receives compensation in connection with licensing its indexes to third parties. MSCI Inc.’s revenue includes fees based on assets in Index Linked Investments. Information can be
+found in MSCI Inc.’s company filings on the Investor Relations section of www.msci.com. MSCI ESG Research LLC is a Registered Investment Adviser under the Investment Advisers Act of
+1940 and a subsidiary of MSCI Inc. Except with respect to any applicable products or services from MSCI ESG Research, neither MSCI nor any of its products or services recommends,
+endorses, approves or otherwise expresses any opinion regarding any issuer, securities, financial products or instruments or trading strategies and MSCI’s products or services are not
+intended to constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. Issuers mentioned or
+included in any MSCI ESG Research materials may include MSCI Inc., clients of MSCI or suppliers to MSCI, and may also purchase research or other products or services from MSCI ESG
+Research. MSCI ESG Research materials, including materials utilized in any MSCI ESG Indexes or other products, have not been submitted to, nor received approval from, the United States
+Securities and Exchange Commission or any other regulatory body. Any use of or access to products, services or information of MSCI requires a license from MSCI. MSCI, Barra,
+RiskMetrics, IPD and other MSCI brands and product names are the trademarks, service marks, or registered trademarks of MSCI or its subsidiaries in the United States and other
+jurisdictions. The Global Industry Classification Standard (GICS) was developed by and is the exclusive property of MSCI and Standard & Poor’s. “Global Industry Classification Standard
+(GICS)” is a service mark of MSCI and Standard & Poor’s. MIFID2/MIFIR notice: MSCI ESG Research LLC does not distribute or act as an intermediary for financial instruments or structured
+deposits, nor does it deal on its own account, provide execution services for others or manage client accounts. No MSCI ESG Research product or service supports, promotes or is intended
+to support or promote any such activity. MSCI ESG Research is an independent provider of ESG data, reports and ratings based on published methodologies and available to clients on a
+subscription basis. We do not provide custom or one-off ratings or recommendations of securities or other financial instruments upon request.
+
+
+Privacy notice: For information about how MSCI collects and uses personal data, please refer to our Privacy Notice at https://www.msci.com/privacy-pledge.
+
+
+
+
+                                                    © 2021 MSCI Inc. All rights reserved.                                                                   MSCI.COM | PAGE 21 OF 21
+

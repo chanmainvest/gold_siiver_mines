@@ -1,0 +1,278 @@
+ 
+
+ Summary Prospectus 
+
+ April 30, 2026 
+
+ Sprott Funds Trust 
+
+ Sprott Gold Miners ETF (NYSE Arca: SGDM) 
+
+ Before you invest, you may want to review the Fund’s prospectus, which contains more information about the Fund and its risks. You can find the Fund’s prospectus (including amendments and supplements) and other information about the Fund, including the Fund’s statement of additional information and shareholder reports, online at https://www.sprottetfs.com. You can also get this information at no cost by calling (888) 622-1813, or from your financial professional. The Fund’s prospectus and statement of additional information, both dated April 30, 2026, as amended and supplemented from time to time, are incorporated by reference into (legally made a part of) this Summary Prospectus. Information on the Fund’s net asset value, market price, premiums and discounts, and bid-ask spreads can be found at https://www.sprottetfs.com. 
+
+ This Summary Prospectus contains information you should know before investing, including information about risks. Please read it before you invest and keep it for future reference. 
+
+ The Securities and Exchange Commission has not approved or disapproved these securities or passed upon the adequacy of this Prospectus. Any representation to the contrary is a criminal offense. 
+
+ Summary Information — Sprott Gold Miners ETF 
+
+ Investment Objective 
+
+ The Sprott Gold Miners ETF (the “Fund” or “SGDM”) seeks investment results that correspond (before fees and expenses) to the performance of its underlying index, the Solactive Gold Miners Custom Factors Total Return Index (ticker symbol SOLGMCFT) (the “Underlying Gold Miners Index”). 
+
+ Fund Fees and Expenses 
+
+ The table below describes the fees and expenses that you pay if you buy, hold and sell shares of the Fund (“Shares”). You may pay other fees, such as brokerage commissions and other fees to financial intermediaries, which are not reflected in the table and example below. 
+
+ Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment) 
+
+ Management Fee 
+
+ 0.35% 
+
+ Distribution and Service (12b-1) Fee 
+
+ None 
+
+ Other Expenses 
+
+ 0.11% 
+
+ Total Annual Fund Operating Expenses 
+
+ 0.46% 
+
+ Example 
+
+ This example is intended to help you compare the cost of investing in the Fund with the cost of investing in other funds. This example does not take into account brokerage commissions that you pay when purchasing or selling shares. 
+
+ The example assumes that you invest $10,000 in the Fund for the time periods indicated and then sell all of your shares at the end of those periods. The example also assumes that your investment has a 5% annual return and that the Fund’s operating expenses remain the same. 
+
+ 1 Year 
+
+ 3 Years 
+
+ 5 Years 
+
+ 10 Years 
+
+ Although your actual costs may be higher or lower, based on these assumptions your costs would be: 
+
+ $47 
+
+ $148 
+
+ $258 
+
+ $579 
+
+ Portfolio Turnover 
+
+ The Fund pays transaction costs, such as commissions, when it purchases and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may result in higher transaction costs and higher taxes when shares are held in a taxable account. These costs may affect the Fund’s performance. These costs, which are not reflected in annual fund operating expenses or in the example, may affect the Fund’s performance. For the fiscal year ended December 31, 2025, the Fund’s portfolio turnover rate was 59% of the average value of its portfolio. 
+
+ Principal Investment Strategies of the Fund 
+
+ The Fund employs a passive management — or indexing — investment approach designed to track the performance of the Underlying Gold Miners Index. The Underlying Gold Miners Index aims to track the performance of gold companies located in the U.S. and Canada whose common stocks or American Depositary Receipts (“ADRs”) are traded on the Toronto Stock Exchange, the New York Stock Exchange and Nasdaq. The Underlying Gold Miners Index is compiled by Solactive AG (the “Index Provider”). In order to be included in the Underlying Gold Miners Index, companies must be an index component of the Solactive Equal Weight Global Gold Index The Solactive Equal Weight Global Gold Index includes all companies classified under any of the following FactSet RBICS industries: Americas Gold Mining, Asia/Pacific Gold Mining, Other Gold Mining and Precious Metals Streaming and Royalties that are listed on the Toronto Stock Exchange, the New York Stock Exchange and Nasdaq in the form on common stocks or ADRs. On selection days, existing index members of the Solactive Equal Weight Global Gold 
+
+ 1 Sprott Gold Miners ETF Summary Prospectus 
+
+ Index must have free float market capitalization of USD $375 million. New index members need to have a free float market capitalization of USD $750 million. Furthermore, new index members must have a minimum Average Daily Traded Value of at least USD $2 million, while existing index members must have a minimum Average Traded Value of at least USD $1 million over the past 1-month and 6-month periods. The Underlying Gold Miners Index employs a modified market capitalization weighted methodology such that each constituent comprises no more than 18% of the weight of the Underlying Gold Miners Index as of each rebalance, no more than 50% of the weight of Underlying Gold Miners Index may consist of constituents comprising greater than 4.5% of the weight of the Underlying Gold Miners Index. A company in the Underlying Gold Miners Index will be classified as a gold mining company if it earns over 50% of its revenue from the mining of gold. 
+
+ The Underlying Gold Miners Index has significant exposure to non-U.S. companies in emerging and frontier markets. 
+
+ The Underlying Gold Miners Index is reconstituted and rebalanced quarterly after the close of the third Friday of March, June, September, and December. Under normal circumstances, at least 80% of the Fund’s assets (net assets plus borrowings for investment purposes) will consist of securities issued by gold mining companies, and at least 80% of the Underlying Gold Miners Index will consist of such companies. 
+
+ The Fund will normally invest at least 90% of its net assets in securities that comprise the Underlying Gold Miners Index. 
+
+ The Fund may engage in securities lending. 
+
+ Principal Risks of Investing in the Fund 
+
+ There is no assurance that the Fund will meet its investment objective. The value of your investment in the Fund, as well as the amount of return you receive on your investment in the Fund, may fluctuate significantly. You may lose part or all of your investment in the Fund or your investment may not perform as well as other similar investments. An investment in the Fund is not a bank deposit and is not insured or guaranteed by the FDIC or any government agency. 
+
+ Investors in the Fund should be willing to accept a high degree of volatility in the price of the Fund’s shares and the possibility of significant losses. An investment in the Fund involves a substantial degree of risk. Therefore, you should consider carefully the following risks before investing in the Fund. 
+
+ Gold and Silver Mining Industry Risk . The Fund is sensitive to changes in, and its performance will depend to a greater extent on, the overall condition of the gold and silver mining industry. In times of stable economic growth, traditional equity and debt investments could offer greater appreciation potential and the value of gold, silver and other precious metals may be adversely affected, which could in turn affect the Fund’s returns. The gold and precious metals industry can be significantly affected by competitive pressures, central bank operations, events relating to international political developments, the success of exploration projects, commodity prices, adverse environmental developments and tax and government regulations. 
+
+ Authorized Participant Concentration Risk . Only an Authorized Participant (as defined in the Creations and Redemptions section of the Fund’s prospectus) may engage in creation or redemption transactions directly with the Fund. The Fund has a limited number of institutions that act as Authorized Participants. To the extent that these institutions exit the business or are unable to proceed with creation and/or redemption orders with respect to the Fund and no other Authorized Participant is able to step forward to create or redeem Creation Units, Fund shares may trade at a discount to net asset value per share (“NAV”) and possibly face trading halts and/or delisting. 
+
+ Common Stock Risk . Common stock holds the lowest priority in the capital structure of a company, and, therefore, takes the largest share of the company’s risk and its accompanying volatility. The value of the common stock held by the Fund may fall due to general market and economic conditions, perceptions regarding the industries in which the issuers of securities held by the Fund participate, or facts relating to specific companies in which the Fund invests. 
+
+ Sprott Gold Miners ETF Summary Prospectus 2 
+
+ Concentration Risk . The Fund seeks to track the Underlying Gold Miners Index, which itself is concentrated in the gold and silver mining industry. Underperformance or increased risk in such concentrated areas may result in underperformance or increased risk in the Fund. 
+
+ Currency Risk . The Fund may invest its assets in securities denominated in non-U.S. currencies. Changes in currency exchange rates and the relative value of non-U.S. currencies will affect the value of the Fund’s investment and the value of the Shares. Because the Fund’s NAV is determined in U.S. dollars, the Fund’s NAV could decline if the currency of the non-U.S. market in which the Fund invests depreciates against the U.S. dollar, even if the value of the Fund’s holdings, measured in the foreign currency, increases. Currency exchange rates can be very volatile and can change quickly and unpredictably. As a result, the value of an investment in the Fund may change quickly and without warning and you may lose money. 
+
+ Cybersecurity and Disaster Recovery Risks . Information and technology systems relied upon by the Fund, the Adviser, the Fund’s other service providers (including, but not limited to, the Sub-Adviser, Fund Accountant, Custodian, Transfer Agent, Administrator, Distributor and index providers (“Service Providers”), market makers, Authorized Participants, financial intermediaries and/or the issuers of securities in which the Fund invests may be vulnerable to damage or interruption from computer viruses, network failures, computer and telecommunication failures, infiltration by unauthorized persons, security breaches, usage errors, power outages and catastrophic events such as fires, tornadoes, floods, hurricanes and earthquakes. Although the Adviser and the Fund’s other service providers have implemented measures to manage risks relating to these types of events, if these systems are compromised, become inoperable for extended periods of time or cease to function properly, significant investment may be required to fix or replace them. The failure of these systems and/or of disaster recovery plans could cause significant interruptions in the operations of the Fund, the Adviser, Service Providers, market makers, Authorized Participants, financial intermediaries and/or issuers of securities in which the Fund invests and may result in a failure to maintain the security, confidentiality or privacy of sensitive data, impact the Fund’s ability to calculate its net asset value or impede trading. 
+
+ Depositary Receipt Risk . The Fund may invest in depositary receipts which involve similar risks to those associated with investments in foreign securities. Investments in depositary receipts may be less liquid than the underlying shares in their primary trading market and, if not included in the Underlying Gold Miners Index, may negatively affect the Fund’s ability to replicate the performance of the Underlying Gold Miners Index. 
+
+ Early Close/Trading Halt Risk . An exchange or market may close or issue trading halts on specific securities, or the ability to buy or sell certain securities or financial instruments may be restricted, which may result in the Fund being unable to buy or sell certain securities or financial instruments. In such circumstances, the Fund may be unable to rebalance its portfolio, may be unable to accurately price its investments and/or may incur substantial trading losses. 
+
+ Emerging Markets Securities Risk . Emerging markets are subject to greater market volatility, lower trading volume, political and economic instability, uncertainty regarding the existence of trading markets and more governmental limitations on foreign investment than more developed markets. In addition, securities in emerging markets may be subject to greater price fluctuations than securities in more developed markets. Differences in regulatory, accounting, auditing, and financial reporting and recordkeeping standards could impede the Adviser’s ability to evaluate local companies and impact the Fund’s performance. Investments in securities of issuers in emerging markets may also be exposed to risks related to a lack of liquidity, greater potential for market manipulation, issuers’ limited reliable access to capital, and foreign investment structures. Additionally, the Fund may have limited rights and remedies available to it to pursue claims against issuers in emerging markets. 
+
+ Fluctuation of Net Asset Value Risk . The NAV of the Fund’s shares will generally fluctuate with changes in the market value of the Fund’s holdings. The market prices of the shares will generally fluctuate in accordance with changes in NAV as well as the relative supply of and demand for shares on NYSE Arca, Inc. (the “NYSE Arca”). The Adviser cannot predict whether the shares will trade below, at or above their NAV. The Fund’s market price may deviate from the value of its underlying portfolio holdings, particularly in times of market stress, with the result that investors may pay significantly more or receive significantly less than the underlying value of the Fund shares bought or sold. This can be reflected as a spread between the bid and ask prices for the Fund quoted during the day or a premium or discount in the closing price from the Fund’s NAV. In addition, 
+
+ 3 Sprott Gold Miners ETF Summary Prospectus 
+
+ transactions by large shareholders may account for a large percentage of the trading volume on the NYSE Arca and may, therefore, have a material effect on the market price of the Fund’s shares. 
+
+ Foreign Investment Risk . The Fund’s investments in non-U.S. issuers may involve unique risks compared to investing in securities of U.S. issuers. Adverse political, economic or social developments could undermine the value of the Fund’s investments or prevent the Fund from realizing the full value of its investments. Countries with emerging markets may present heightened risks of nationalization of businesses, restrictions on foreign ownership and prohibitions on the repatriation of assets. The economies of emerging markets countries also may be based on only a few industries, making them more vulnerable to changes in local or global trade conditions and more sensitive to debt burdens, inflation rates or adverse news and events. Where all or a portion of the Fund’s underlying securities trade in a market that is closed when the market in which the Fund’s shares are listed and trading in that market is open, there may be changes between the last quote from its closed foreign market and the value of such security during the Fund’s domestic trading day. In addition, please note that this in turn could lead to differences between the market price of the Funds’ shares and the underlying value of those shares. 
+
+ Geographic Investment Risk . To the extent the Fund invests a significant portion of its assets in the securities of companies of a single country or region, it is more likely to be impacted by events or conditions affecting that country or region. 
+
+ Canada . Investments in Canadian issuers may subject the Fund to economic risk specific to Canada. Among other things, the Canadian economy is heavily dependent on relationships with certain key trading partners, including the United States and China. The Canadian economy is sensitive to fluctuations in certain commodity markets. 
+
+ Index Performance Risk . There can be no guarantee or assurance that the methodology used to create the Underlying Gold Miners Index will result in the Fund achieving positive returns. Further, there can be no guarantee that the methodology underlying the Underlying Gold Miners Index, or the daily calculation of the Underlying Gold Miners Index will be free from error. It is also possible that the value of the Underlying Gold Miners Index may be subject to intentional manipulation by third-party market participants. The Underlying Gold Miners Index Fund may underperform other asset classes and may underperform other similar indices. Each of these factors could have a negative impact on the performance of the Fund. 
+
+ The Underlying Gold Miners Index has significant exposure to non-U.S. companies in emerging and frontier markets. Limited availability and reliability of information, less uniformity in accounting, auditing and financial record-keeping standards in emerging and frontier markets countries increases potential for errors in index data, computation or construction, which could have a negative impact on the Fund’s performance. In addition, the Adviser has limited ability to oversee the Index Provider’s due diligence processes with respect to index data used in index computation, construction or rebalancing. Certain attributes of companies domiciled in foreign countries may present issues with respect to an investment company tracking equity securities issued by such companies including jurisdictions that subject such investments to withholding taxes. 
+
+ Index Tracking Risk . The Fund’s return may not match or achieve a high degree of correlation with the return of the Underlying Gold Miners Index for a number of reasons, including operating expenses incurred by the Fund not applicable to the Underlying Gold Miners Index, costs in buying and selling securities, asset valuation differences and differences between the Fund’s portfolio and the Underlying Gold Miners Index resulting from legal restrictions, cash flows or operational inefficiencies. To the extent the Fund utilizes a sampling approach, it may experience tracking error to a greater extent than if the Fund sought to replicate the Underlying Gold Miners Index. 
+
+ Industry Concentration Risk . Because the Fund’s assets will be concentrated in an industry or group of industries to the extent the Underlying Gold Miners Index concentrates in a particular industry or group of industries, the Fund is subject to loss due to adverse occurrences that may affect that industry or group of industries. 
+
+ Issuer-Specific Risk . The value of an individual security or particular type of security can be more volatile than the market as a whole and can perform differently from the value of the market as a whole. 
+
+ Sprott Gold Miners ETF Summary Prospectus 4 
+
+ Large-Capitalization Risk . Returns on investments in securities of large companies could trail the returns on investments in securities of smaller and mid-sized companies. The securities of large-capitalization companies may also be relatively mature compared to smaller companies and therefore subject to slower growth during times of economic expansion. Large-capitalization companies may also be unable to respond quickly to new competitive challenges, such as changes in technology and consumer tastes. 
+
+ Liquidity Risk . It may be more difficult for the Fund to buy and sell significant amounts of some securities without an unfavorable impact on prevailing market prices. As a result, these securities may be difficult to dispose of at a fair price at the times when the Sub-Adviser believes it is desirable to do so. 
+
+ Market Risk and Selection Risk . Market risk is the risk that one or more markets in which the Fund invests will go down in value, including the possibility that the markets will go down sharply and unpredictably. The value of a security or other asset may decline due to changes in general market conditions, economic trends or events that are not specifically related to the issuer of the security or other asset, or factors that affect a particular issuer or issuers, exchange, country, group of countries, region, market, industry, group of industries, sector or asset class. Local, regional or global events such as war, acts of terrorism, the spread of infectious illness or other public health issue (e.g., COVID-19), recessions, or other events could have a significant impact on the Fund and its investments. The occurrence of global events similar to those in recent years may result in market volatility and may have long term effects on both domestic and global financial markets. Such events also may have an impact on the Fund and its investments, including the Fund’s ability to purchase or sell securities and potential elevated tracking error and increased premiums or discounts to the Fund’s NAV. Selection risk is the risk that the securities selected by Fund management will underperform the markets, the relevant indices or the securities selected by other funds with similar investment objectives and investment strategies. This means you may lose money. 
+
+ Micro-Capitalization Risk . The micro-capitalization companies in which the Fund may invest may be more vulnerable to adverse business or economic events than larger, more established companies, and may underperform other segments of the market or the equity market as a whole. Securities of micro-capitalization companies generally trade in lower volumes, are often more vulnerable to market volatility, and are subject to greater and more unpredictable price changes than larger capitalization stocks or the stock market as a whole. 
+
+ Non-Diversified Fund Risk . The Fund is considered non-diversified and can invest a greater portion of assets in securities of individual issuers than a diversified fund. As a result, changes in the market value of a single investment could cause greater fluctuations in share price than would occur in a diversified fund. 
+
+ Operational Risk . The Fund is exposed to operational risk arising from a number of factors, including but not limited to human error, processing and communication errors, errors of a Fund’s service providers, counterparties or other third parties, failed or inadequate processes and technology or systems failures. The Fund seeks to reduce these operational risks through controls and procedures. However, these measures do not address every possible risk and may be inadequate for those risks that they are intended to address. 
+
+ Sector Focus Risk . The Fund may invest a significant portion of its assets in one or more sectors and thus will be more susceptible to the risks affecting those sectors. 
+
+ Mining Sector Risk . The exploration and development of mineral deposits involve significant financial risks over a significant period of time, which even a combination of careful evaluation, experience and knowledge may not eliminate. Few properties which are explored are ultimately developed into producing mines. Major expenditures may be required to establish reserves by drilling and to construct mining and processing facilities at a site. In addition, mineral exploration companies typically operate at a loss and are dependent on securing equity and/or debt financing, which might be more difficult to secure for an exploration company than for a more established counterpart. 
+
+ 5 Sprott Gold Miners ETF Summary Prospectus 
+
+ Securities Lending Risk . Although the Fund will receive collateral in connection with all loans of its securities holdings, the Fund would be exposed to a risk of loss should a borrower default on its obligation to return the borrowed securities (e.g., the loaned securities may have appreciated beyond the value of the collateral held by the Fund). In addition, the Fund will bear the risk of loss of any cash collateral that it invests. 
+
+ Small- and Mid-Capitalization Company Risk . Smaller and mid-size companies often have a more limited track record, narrower markets, less liquidity, more limited managerial and financial resources and a less diversified product offering than larger, more established companies. As a result, their performance can be more volatile, which may increase the volatility of the Fund’s portfolio. 
+
+ Trading Risk . Shares of the Fund may trade on the NYSE Arca above (premium) or below (discount) their NAV. The NAV of shares of the Fund will fluctuate with changes in the market value of the Fund’s holdings. The market prices of the Fund’s shares will fluctuate continuously throughout trading hours based on market supply and demand and may deviate significantly from the value of the Fund’s holdings, particularly in times of market stress, with the result that investors may pay more or receive less than the underlying value of the Fund shares bought or sold. When buying or selling shares in the secondary market, you may incur costs attributable to the difference between the highest price a buyer is willing to pay to purchase shares of the Fund (bid) and the lowest price a seller is willing to accept for shares of the Fund (ask), which is known as the bid-ask spread. In addition, although the Fund’s shares are currently listed on the NYSE Arca, there can be no assurance that an active trading market for shares will develop or be maintained. Trading in Fund shares may be halted due to market conditions or for reasons that, in the view of the NYSE Arca, make trading in shares of the Fund inadvisable. In stressed market conditions, the market for the Fund’s shares may become less liquid in response to deteriorating liquidity in the markets for the Fund’s underlying portfolio holdings. 
+
+ Valuation Risk . The price that the Fund could receive upon the sale (or other disposition) of a security or other asset may differ from the Fund’s valuation of the security or other asset, particularly for securities or other assets that trade in low volume or volatile markets or that are valued using a fair value methodology. In addition, the value of the securities or other assets in the Fund’s portfolio may change on days or during time periods when investors are not able to purchase or sell Fund shares. Authorized Participants that create or redeem Fund shares on days when the Fund is holding fair valued securities or other assets may receive fewer or more shares, or lower or higher redemption proceeds, than they would have received had the securities or other assets not been fair valued or been valued using a different methodology. The ability to value investments may be impacted by technological issues or errors by pricing services or other third-party service providers. 
+
+ Performance 
+
+ On July 19, 2019, the Sprott Gold Miners ETF (the “Gold Predecessor Fund”), a series of ALPS ETF Trust, was reorganized into the Fund, a series of the Trust. The Fund is a continuation of the Gold Predecessor Fund and, therefore, the performance information shown prior to July 22, 2019 presents the performance of the Gold Predecessor Fund. The following bar chart and table provide an indication of the risks of investing in the Fund by showing changes in the Fund’s performance from year to year and by showing how the Fund’s average annual returns for certain time periods compare with the average annual returns of the target index and of other benchmarks of market performance. The Fund’s past performance (before and after taxes) is not necessarily an indication of how the Fund will perform in the future. Total return figures assume reinvestment of dividends and include the effect of the Fund’s recurring expenses. Updated performance information will be available at no cost by visiting www.sprottetfs.com or by calling (888) 622-1813. 
+
+ Sprott Gold Miners ETF Summary Prospectus 6 
+
+ Annual Total Returns (calendar year ended 12/31) 
+
+ Highest Quarterly Return 
+
+ 57.93% 
+
+ (June 30, 2020) 
+
+ Lowest Quarterly Return 
+
+ -26.08% 
+
+ (June 30, 2022) 
+
+ The after-tax returns presented in the table below are calculated using highest historical individual federal marginal income tax rates and do not reflect the impact of state and local taxes. Your actual after-tax returns will depend on your specific tax situation and may differ from those shown below. After-tax returns are not relevant to investors who hold shares of the Fund through tax-deferred arrangements, such as 401(k) plans or individual retirement accounts. 
+
+ Average Annual Total Returns 
+
+ For periods ended December 31, 2025 
+
+ 1 Year 
+
+ 5 Year 
+
+ 10 Year 
+
+ Return Before Taxes 
+
+ 152.87% 
+
+ 19.41% 
+
+ 19.46% 
+
+ Return After Taxes on Distributions 
+
+ 152.23% 
+
+ 19.19% 
+
+ 19.33% 
+
+ Return After Taxes on Distributions and Sale of Fund Shares 
+
+ 90.62% 
+
+ 15.83% 
+
+ 16.84% 
+
+ S&P 500 Total Return Index* 
+(reflects no deduction for fees, expenses or taxes) 
+
+ 17.88% 
+
+ 14.42% 
+
+ 14.82% 
+
+ Solactive Gold Miners Custom Factors Total Return Index* (reflects no deduction for fees, expenses or taxes) 
+
+ 154.65% 
+
+ 20.34% 
+
+ 20.48% 
+
+ * 
+
+ Index performance shown in the table is the total return, which assumes reinvestment of any dividends and distributions during the time periods shown. 
+
+ ^ 
+ From the Gold Fund’s inception to July 19, 2019, the Gold Fund’s objective was to track the Sprott Zacks Gold Miners Total Return Index (“predecessor index”) and since that date the Gold Fund has been seeking to track the Solactive Gold Miners Custom Factors Total Return Index. The index performance presented reflects the performance of the predecessor index through July 19, 2019 and thereafter reflects the performance of the Solactive Gold Miners Custom Factors Total Return Index. 
+
+ 7 Sprott Gold Miners ETF Summary Prospectus 
+
+ Management 
+
+ Adviser 
+
+ Sprott Asset Management USA, Inc. is the investment adviser to the Fund. 
+
+ Sub-Adviser 
+
+ ALPS Advisors, Inc. (the “Sub-Adviser”) is the sub-adviser to the Fund. 
+
+ Portfolio Managers 
+
+ Ryan Mischker, Senior Vice President, Portfolio Management & Research and Charles Perkins Associate Vice President, Portfolio Management & Research at the Sub-Adviser are responsible for the day-to-day management of the Fund. Mr. Mischker has served as a portfolio manager for the Fund since inception in July 2019 and previously with the Gold Predecessor Fund since March 2015. Mr. Perkins has served as a portfolio manager for the Fund since March 2024. 
+
+ Purchase and Sale of Fund Shares 
+
+ The Fund issues and redeems shares at NAV only in a large specified number of shares each called a “Creation Unit,” or multiples thereof, and only with “authorized participants” that have entered into contractual arrangements with ALPS Distributors, Inc., the Fund’s distributor (“Distributor”). A Creation Unit consists of 10,000 shares. Creation Unit transactions are typically conducted in exchange for the deposit or delivery of in-kind securities in the Fund’s portfolio and/or cash. 
+
+ Individual shares of the Fund may only be purchased and sold on NYSE Arca through brokers. Shares of the Fund are listed on NYSE Arca and because shares will trade at market prices rather than NAV, shares of the Fund may trade at a price greater than or less than NAV. An investor may incur costs attributable to the difference between the highest price a buyer is willing to pay to purchase shares of the Fund (bid) and the lowest price a seller is willing to accept for shares of the Fund (ask) when buying or selling shares in the secondary market (the “bid-ask spread”). 
+
+ Information regarding the Fund’s NAV, market price, premiums and discounts, and bid-ask spreads can be viewed on the Fund’s website at www.sprottetfs.com. 
+
+ Tax Information 
+
+ Fund distributions are generally taxable as ordinary income, qualified dividend income, or capital gains (or a combination), unless your investment is in an individual retirement account (“IRA”) or other tax-advantaged account. Distributions on investments made through tax-deferred arrangements may be taxed later upon withdrawal of assets from those accounts. 
+
+ Payments to Broker-Dealer and Other Financial Intermediaries 
+
+ If you purchase shares through a broker-dealer or other financial intermediary, the Adviser or other related companies may pay the intermediary for the sale of shares or related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information. 
+
+ Sprott Gold Miners ETF Summary Prospectus 8 
+

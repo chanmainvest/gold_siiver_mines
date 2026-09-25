@@ -1,0 +1,64 @@
+{
+  "company": "AusGold Limited",
+  "tickers": [
+    "AUC"
+  ],
+  "exchange": "ASX",
+  "headquarters": "(not verified from available sources)",
+  "fiscal_year": 2026,
+  "report_title": null,
+  "report_url": null,
+  "pdf_path": null,
+  "data_status": "FY2026 annual report (y/e 30 Jun 2026) released 1 Sep 2026 used as base (NPAT -A$9.72M; financing inflow A$123M; capex A$46M; net cash change +A$75.3M). Resource/reserve/study figures use the post-AR December 2025 Updated DFS (published 16 Dec 2025). AISC in AUD (flagged) with USD equivalents from the study. Ore Reserve 1.33 Moz @ 1.11 g/t (83% Proven, pit-constrained at A$3,000/oz).",
+  "total_gold_production_oz": null,
+  "total_silver_production_oz": null,
+  "notes": "AusGold Limited (ASX: AUC), market cap ~A$775-784M at Sep 2026. FY2026 (y/e 30 Jun 2026) AR released 1 Sep 2026: NPAT -A$9.72M (FY2025: -A$10.75M), EPS -2.00c, operating cash outflow -A$1.65M, capex A$46M, financing inflow A$123M, net cash change +A$75.3M. 17 Aug 2026: OceanaGold announced acquisition of Ausgold (presentation released same day; shares rose 32% from A$1.065 to ~A$1.41). DFS Update highlights: base case NPV5 A$1.028B post-tax / IRR 52.4% @ A$4,300/oz; A$2.30B / 92% @ A$6,400/oz spot; post-tax cashflow A$1.50B / A$3.25B respectively; payback 17/12 months; pre-prod capex A$354M. 350 peak drive-in-drive-out workforce; ~250 construction FTE over ~18 months. fiscal_year_end: 2026-06-30 | primary_commodity_focus: Gold | currency: AUD | company_overview: Australian gold developer (ASX: AUC) advancing the 100%-owned Katanning Gold Project (KGP) in Western Australia, ~3.5 hr drive from Perth and 37 km northeast of Katanning, building on a legacy mine site. Updated Definitive Feasibility Study (Dec 2025): 1.33 Moz Ore Reserve, +10 yr open-pit life, 143 kozpa avg first 4 yrs, NPV5 A$1.03B post-tax at A$4,300/oz. On 17 August 2026 OceanaGold announced the acquisition of Ausgold (share price +32% on the news). Developer - no production. | sources: [\"AusGold ASX release 'Updated Definitive Feasibility Study Increases Gold Production and Enhances Financial Returns' 16 Dec 2025 (via api.investi.com.au): 1.33 Moz OR (83% Proven), 1.22 Moz LOM @ 90.4% recovery, 143 kozpa first 4 yrs, NPV5 A$1.028B post-tax @ A$4,300/oz (A$2.30B @ A$6,400/oz), IRR 52.4% (92% at spot), AISC A$2,252/oz LOM (A$2,157 first 4 yrs), capex A$354M, payback 17/12 months\", 'AusGold Dec-25 DFS Update investor presentation (via aspecthuntley.com.au): OR 1.33 Moz @ 1.11 g/t; MRE 2.44 Moz @ 1.11 g/t (91% M&I); initial production late CY2027; WA Priority Approvals Program', 'Intelligent Investor ASX:AUC announcements (Sep 2026): 2026 Annual Report 1 Sep 2026; OceanaGold Announces Acquisition of Ausgold 17 Aug 2026; FY2026 NPAT -A$9.72M, EPS -2.00c; market cap ~A$775M', 'AusGold quarterly report Dec 2025 (via investorpa.com): DFS Update summary; A$80M placement + A$10M SPP; EPA assessment; Shire of Katanning accommodation lease; 240 ha freehold acquisition', 'Stockopedia AUC cashflow (Sept 2026): FY2026 capex -A$46M, financing +A$123M, operating cash -A$1.65M, net cash change +A$75.3M']",
+  "mines": [
+    {
+      "mine": "Katanning Gold Project",
+      "country": "Australia",
+      "ownership_pct": 100,
+      "status": "Development",
+      "mine_type": null,
+      "processing": null,
+      "gold_oz": null,
+      "silver_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "head_grade_au_gpt": null,
+      "head_grade_ag_gpt": null,
+      "reserve_tonnes_mt": null,
+      "reserve_au_oz": null,
+      "reserve_ag_oz": null,
+      "cash_cost_usd_per_oz": null,
+      "aisc_usd_per_oz": 1464,
+      "sustaining_capex_usd_m": null,
+      "mine_notes": "100%-owned development project ~3.5 hr drive from Perth, close to the regional hub of Katanning, with existing roads and infrastructure. Open-pit mining and industry-standard processing (3.6 Mtpa plant) over +10-yr life; deposits include Jinkas, Jackson, Olympia. Permitting advanced: selected for WA Government Priority Approvals Program; WA EPA assessing at level of Assessment on Referral Information incl. public review; EPBC referral submitted Jul 2025 (27 documents). Freehold land acquisition progressing (240 ha acquired Jan 2026; workforce accommodation facility lease agreed with Shire of Katanning). 44,000 m aggressive exploration drilling underway targeting mine-life extension (Jinkas/Jackson/Olympia hold ~286 koz Inferred within open-pit shell not in Reserve). Initial production targeted late CY2027. On 17 Aug 2026 OceanaGold announced acquisition of Ausgold (+32% share price). [production_notes: No production - development stage. DFS plan: avg 143 kozpa first 4 years, LOM avg 121 kozpa, 1.22 Moz LOM production at 90.4% recovery. FY2026: capex A$46M; financing inflow A$123M (incl. underwritten A$80M placement + A$10M SPP Dec 2025/Jan 2026); operating cash outflow A$1.65M.] [primary_commodity: Gold] [cost_breakdown_notes: Dec 2025 DFS Update: LOM AISC A$2,252/oz (US$1,464/oz at AUD:USD 0.65); AISC A$2,157/oz (US$1,402/oz) over first four years. Pre-production capital A$354M (US$230M) incl. contingency; payback 17 months at A$4,300/oz (12 months at A$6,400/oz spot). ~US$55M-equivalent sensitivity not published; DFS reports enhanced production profile in years 5-10.]"
+    }
+  ],
+  "reserves_resources": [
+    {
+      "mine": "Katanning Gold Project",
+      "classification": "Ore Reserve (Total; 83% Proven; pit-constrained at A$3,000/oz; derived tonnes ~37.3 Mt)",
+      "tonnes_mt": 37.3,
+      "au_gpt": 1.11,
+      "ag_gpt": null,
+      "contained_au_oz": 1330000,
+      "contained_ag_oz": null,
+      "effective_date": "2025-12-16",
+      "notes": "material: Gold"
+    },
+    {
+      "mine": "Katanning Gold Project",
+      "classification": "Mineral Resource (Total; 91% Measured & Indicated; constrained at A$4,500/oz gold; derived tonnes ~68.4 Mt)",
+      "tonnes_mt": 68.4,
+      "au_gpt": 1.11,
+      "ag_gpt": null,
+      "contained_au_oz": 2440000,
+      "contained_ag_oz": null,
+      "effective_date": "2025-12-16",
+      "notes": "material: Gold"
+    }
+  ]
+}

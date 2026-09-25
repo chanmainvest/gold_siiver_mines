@@ -1,0 +1,53 @@
+{
+  "company": "Vista Gold Corp.",
+  "data_status": "complete",
+  "exchange": "NYSE American",
+  "fiscal_year": 2025,
+  "headquarters": "8310 S Valley Hwy, Suite 300, Englewood, Colorado, USA 80112",
+  "mines": [
+    {
+      "aisc_usd_per_oz": 1449,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "cash_cost_usd_per_oz": null,
+      "country": "Australia",
+      "gold_oz": null,
+      "head_grade_ag_gpt": null,
+      "head_grade_au_gpt": 0.97,
+      "mine": "Mt Todd",
+      "mine_notes": "Development-stage open pit gold project, Northern Territory (100%). Feasibility study completed July 29, 2025 (effective date; S-K 1300 TRS filed Sept 11, 2025): 15,000 tpd (5.3 Mtpa) operation, 30-yr mine life; avg annual production 153,000 oz (years 1-15) and 146,000 oz (LOM) at 1.04 g/t mill feed (years 1-15) and 88.5% recovery; initial capex $425M (sustaining $442M); AISC $1,449/oz (years 1-15), $1,499/oz LOM; after-tax NPV5% $1,060M, IRR 27.8%, payback 2.7 yr at $2,500/oz Au. P&P reserves (S-K 1300, $1,800/oz pit design, 0.50 g/t cut-off): Batman deposit 158,623 kt @ 0.97 g/t Au = 4,959 koz (77,359 kt proven @ 0.95 g/t; 81,263 kt probable @ 0.99 g/t) + heap leach pad 13,352 kt @ 0.54 g/t = 232 koz; total 5,190 koz (171.975 Mt @ 0.94 g/t). No production in FY2025; FS economic analysis on P&P reserves only. 2026 priorities: permit modifications, Australia project team build-out, detailed engineering decision (targeting first gold late 2029). Granted a royalty interest in Mt Todd in 2024 ($16.9M gain); sold the Los Reyes project (Mexico) in 2020.",
+      "mine_type": "Open pit",
+      "ownership_pct": 100,
+      "processing": "CIL (planned; contractor mining, third-party power)",
+      "reserve_ag_oz": null,
+      "reserve_au_oz": 5191000,
+      "reserve_tonnes_mt": 171.975,
+      "silver_oz": null,
+      "status": "Development (FS completed July 2025)",
+      "sustaining_capex_usd_m": null
+    }
+  ],
+  "notes": "Form 10-K for the fiscal year ended December 31, 2025 (filed March 11, 2026). Development-stage company: no production, no mining revenue. FY2025: net loss $7.499M ($0.06/share) vs 2024 net income $11.249M ($0.09/share; driven by $16.9M gain on grant of Mt Todd royalty + $0.8M gain on sale of mill equipment); exploration/property costs $5.593M; corporate admin $3.611M. Cash $13.622M at Dec 31, 2025 ($16.9M at Dec 31, 2024); working capital $13.057M; no debt. Post-period: March 9, 2026 underwritten public offering of 17,940,000 common shares for gross proceeds of $44.85M. CEO Frederick H. Earnest. All amounts in USD.",
+  "pdf_path": "/home/hatch/workspace/miners-research/reports/VGZ/vista-2025-10k.pdf",
+  "report_title": "Form 10-K for the fiscal year ended December 31, 2025",
+  "report_url": null,
+  "reserves_resources": [
+    {
+      "ag_gpt": null,
+      "au_gpt": 0.94,
+      "classification": "Proven + Probable",
+      "contained_ag_oz": null,
+      "contained_au_oz": 5191000,
+      "effective_date": "2025-07-29",
+      "mine": "Mt Todd",
+      "notes": "171,975 kt @ 0.94 g/t Au (Batman 158,623 kt @ 0.97 g/t = 4,959 koz; heap leach pad 13,352 kt @ 0.54 g/t = 232 koz). S-K 1300, $1,800/oz pit design.",
+      "tonnes_mt": 171.975
+    }
+  ],
+  "tickers": [
+    "VGZ"
+  ],
+  "total_gold_production_oz": null,
+  "total_silver_production_oz": null
+}

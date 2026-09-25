@@ -1,0 +1,86 @@
+{
+  "company": "DRDGOLD Limited",
+  "data_status": "complete",
+  "exchange": "JSE",
+  "fiscal_year": 2025,
+  "headquarters": "Roodepoort (Johannesburg), South Africa",
+  "mines": [
+    {
+      "aisc_usd_per_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "cash_cost_usd_per_oz": 1824,
+      "country": "South Africa",
+      "gold_oz": 111660,
+      "head_grade_ag_gpt": null,
+      "head_grade_au_gpt": 0.178,
+      "mine": "Ergo",
+      "mine_notes": "Surface gold tailings retreatment extending from central Johannesburg to Ekurhuleni. 19.487 Mt processed @ yield 0.178 g/t (FY24: 16.101 Mt @ 0.226 g/t); 5% lower production on depleted higher-grade clean-up sites, shift to high-throughput/low-yield profile. Cash cost converted from R1,064,447/kg. Brakpan TSF approaching final phase; recommissioning adjacent Withok TSF (310 Mt capacity, ~20-year life at 1.3 Mtpm) planned in next 3\u20134 years. Ergo LoM 22 years. Crown Complex added to reserves in FY25.",
+      "mine_type": "Surface (tailings retreatment)",
+      "ownership_pct": 100,
+      "processing": "Ergo plant (1.9 Mtpm) + Knights and City Deep milling plants; CIL",
+      "reserve_ag_oz": null,
+      "reserve_au_oz": 3680000,
+      "reserve_tonnes_mt": 433.37,
+      "silver_oz": null,
+      "status": "Operating",
+      "sustaining_capex_usd_m": null
+    },
+    {
+      "aisc_usd_per_oz": null,
+      "byproduct": null,
+      "byproduct_qty": null,
+      "byproduct_unit": null,
+      "cash_cost_usd_per_oz": 843,
+      "country": "South Africa",
+      "gold_oz": 43628,
+      "head_grade_ag_gpt": null,
+      "head_grade_au_gpt": 0.222,
+      "mine": "Far West Gold Recoveries (FWGR)",
+      "mine_notes": "Surface gold tailings retreatment on the Far West Rand (Westonaria/Fochville/Carletonville). 6.126 Mt processed @ yield 0.222 g/t; steady-state performance. Cash cost converted from R492,049/kg. DP2 plant expansion (to double throughput) + regional tailings storage facility (RTSF, 800 Mt, one-third completed Q1 FY2027) underway; Driefontein 4 TSF in final stages of operating life. FWGR LoM 16 years.",
+      "mine_type": "Surface (tailings retreatment)",
+      "ownership_pct": 100,
+      "processing": "Driefontein 2 plant (600 ktpm) + DP2 plant; CIL",
+      "reserve_ag_oz": null,
+      "reserve_au_oz": 2170000,
+      "reserve_tonnes_mt": 209.51,
+      "silver_oz": null,
+      "status": "Operating",
+      "sustaining_capex_usd_m": null
+    }
+  ],
+  "notes": "Fiscal year ends 30 June. FY2025 group: 25.613 Mt milled, yield 0.189 g/t, gold produced 155,288 oz (4,830 kg; FY24: 160,818 oz); gold sold 154,902 oz. All-in sustaining costs US$1,716/oz (FY24: $1,575/oz); cash operating costs US$1,549/oz; average price received US$2,797/oz. USD conversions of mine-level cash costs derived from reported R/kg using the report's own implied conversion (R1,632,275/kg = US$2,797/oz); the company files on JSE, A2X and NYSE (DRD). Group sustaining capex R300.6M. 60 MW solar PV + 160 MWh BESS at Ergo. Mineral reserves price R1,689,997/kg (US$2,982/oz @ R17.63/US$). No dividend reinvestment; 70 cps dividends declared for FY2025 (final 40 cps doubled).",
+  "pdf_path": "/home/hatch/workspace/miners-research/reports/DRD/drdgold-2025-integrated-report.pdf",
+  "report_title": "DRDGOLD Annual Integrated Report 2025 (year ended 30 June 2025)",
+  "report_url": "https://www.sharedata.co.za/data/001040/pdfs/DRDGOLD_ar_jun25.pdf",
+  "reserves_resources": [
+    {
+      "ag_gpt": null,
+      "au_gpt": 0.261,
+      "classification": "Proven + Probable",
+      "contained_ag_oz": null,
+      "contained_au_oz": 3680000,
+      "effective_date": "2025-06-30",
+      "mine": "Ergo",
+      "notes": "SAMREC. Proved 150.54 Mt @ 0.300 g/t (1.46 Moz) + Probable 282.83 Mt @ 0.240 g/t (2.22 Moz). Mineral resources incl. reserves: 475.79 Mt @ 0.266 g/t (4.10 Moz). 22-year LoM.",
+      "tonnes_mt": 433.37
+    },
+    {
+      "ag_gpt": null,
+      "au_gpt": 0.323,
+      "classification": "Proven + Probable",
+      "contained_ag_oz": null,
+      "contained_au_oz": 2170000,
+      "effective_date": "2025-06-30",
+      "mine": "Far West Gold Recoveries (FWGR)",
+      "notes": "SAMREC. Proved 196.63 Mt @ 0.322 g/t (2.04 Moz) + Probable 12.88 Mt @ 0.330 g/t (0.13 Moz). Mineral resources incl. reserves: 209.51 Mt @ 0.323 g/t (2.17 Moz). 16-year LoM.",
+      "tonnes_mt": 209.51
+    }
+  ],
+  "tickers": [
+    "DRD"
+  ],
+  "total_gold_production_oz": 155288,
+  "total_silver_production_oz": null
+}

@@ -1,0 +1,75 @@
+{
+ "company": "St Barbara Limited",
+ "tickers": [
+  "SBM"
+ ],
+ "exchange": "ASX",
+ "headquarters": "Perth, Western Australia, Australia",
+ "fiscal_year": 2026,
+ "report_title": "FY26 Full Year Results (web-derived)",
+ "report_url": "https://kalkinemedia.com/au/news/announcements/st-barbara-reports-a490-million-statutory-profit-and-announces-a005-fully-franked-dividend-for-fy26",
+ "pdf_path": null,
+ "data_status": "complete",
+ "total_gold_production_oz": 41000,
+ "total_silver_production_oz": null,
+ "notes": "AISC in AUD converted at assumed FY26 average AUD:USD 0.65 (approximate). MD & CEO Dan Lougher. Production is ATTRIBUTABLE: New Simberi Gold was 100% owned for first 9 months of FY26, 50% for last 3 months after completion of the Lingbao strategic investment (A$500M gain on deconsolidation). FY26: revenue A$672M, statutory NPAT A$490M (incl. Lingbao gain), op cash flow A$268.8M, dividend A$0.05 fully franked, no debt, no hedging; A$100M on-market buyback contemplated (pending 15-Mile PFS). Gwalia/Leonora assets were sold to Genesis Minerals in June 2023 (not part of portfolio). Simberi expansion (FID late 2025/early 2026): >200 koz pa @ AISC A$1,200-1,300/oz, life to 2038, NPV A$717M at US$2,500/oz. Reserve figures not captured in extraction sources.",
+ "mines": [
+  {
+   "mine": "Simberi (New Simberi Gold)",
+   "country": "Papua New Guinea",
+   "ownership_pct": 50,
+   "status": "Operating",
+   "mine_type": "Open pit",
+   "processing": "Simberi plant (~1.8 Mt milled FY26, ~73% recovery, remnant oxide phase)",
+   "gold_oz": 41000,
+   "silver_oz": null,
+   "byproduct": null,
+   "byproduct_qty": null,
+   "byproduct_unit": null,
+   "head_grade_au_gpt": 0.99,
+   "head_grade_ag_gpt": null,
+   "reserve_tonnes_mt": null,
+   "reserve_au_oz": null,
+   "reserve_ag_oz": null,
+   "cash_cost_usd_per_oz": null,
+   "aisc_usd_per_oz": 3139,
+   "sustaining_capex_usd_m": null,
+   "mine_notes": "New Simberi Gold: SBM 50% from Mar/Apr 2026 (Lingbao strategic investment); 100% for first 9 months of FY26. FY26 guidance 54,000-70,000 oz (100% basis). H1 FY26: 20,215 oz produced (100% basis). Head grade 0.99 g/t is H1 FY26 milled grade. Expansion: target >200 koz pa at AISC A$1,200-1,300/oz."
+  },
+  {
+   "mine": "Atlantic (Touquoy)",
+   "country": "Canada",
+   "ownership_pct": 100,
+   "status": "Care & maintenance",
+   "mine_type": "Open pit",
+   "processing": null,
+   "gold_oz": null,
+   "silver_oz": null,
+   "byproduct": null,
+   "byproduct_qty": null,
+   "byproduct_unit": null,
+   "head_grade_au_gpt": null,
+   "head_grade_ag_gpt": null,
+   "reserve_tonnes_mt": null,
+   "reserve_au_oz": null,
+   "reserve_ag_oz": null,
+   "cash_cost_usd_per_oz": null,
+   "aisc_usd_per_oz": null,
+   "sustaining_capex_usd_m": null,
+   "mine_notes": "Nova Scotia. Touquoy mine on care & maintenance; strategic review for sale drew no adequate offers. Growth: Touquoy restart (re-processing low/medium-grade stockpiles) and 15-Mile Processing Hub PFS (expected end Sep 2026) being progressed."
+  }
+ ],
+ "reserves_resources": [
+  {
+   "mine": "Group",
+   "classification": null,
+   "tonnes_mt": null,
+   "au_gpt": null,
+   "ag_gpt": null,
+   "contained_au_oz": null,
+   "contained_ag_oz": null,
+   "effective_date": null,
+   "notes": "Reserve figures not captured in extraction sources"
+  }
+ ]
+}

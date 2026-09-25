@@ -1,0 +1,551 @@
+etf_ticker,etf_name,company,company_ticker,weight_pct,as_of_date,holdings_source
+GDX,VanEck Gold Miners ETF,Newmont Corp,NEM,11.11,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Agnico Eagle Mines Ltd,AEM,10.98,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Barrick Mining Corp,B,7.75,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Wheaton Precious Metals Corp,WPM,5.64,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Franco-Nevada Corp,FNV,5.22,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,AngloGold Ashanti Plc,AU,4.83,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Kinross Gold Corp,KGC,4.13,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Gold Fields Ltd,GFI,4.01,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Pan American Silver Corp,PAAS,2.67,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Northern Star Resources Ltd,NST.AX,2.51,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Coeur Mining Inc,CDE,2.18,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Royal Gold Inc,RGLD,2.00,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Alamos Gold Inc,AGI,1.86,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Equinox Gold Corp,EQX,1.86,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Evolution Mining Ltd,EVN.AX,1.54,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Industrias Penoles Sab De Cv,PENOLES.MX,1.44,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Hecla Mining Co,HL,1.31,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Endeavour Mining Plc,EDV.L,1.29,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,First Majestic Silver Corp,AG,1.28,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Iamgold Corp,IAG,1.28,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Zijin Gold International Co Ltd,2259.HK,1.11,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Fresnillo Plc,FRES.L,1.05,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,G Mining Ventures Corp,GMIN,1.04,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Dundee Precious Metals Inc,DPM,0.99,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Lundin Gold Inc,LUG,0.98,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Eldorado Gold Corp,EGO,0.93,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,B2Gold Corp,BTG,0.92,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Cia De Minas Buenaventura Saa,BVN,0.87,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,SSR Mining Inc,SSRM,0.87,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Harmony Gold Mining Co Ltd,HMY,0.87,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,OceanaGold Corp,OGC,0.84,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Discovery Mining Ltd,DSV,0.77,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Amman Mineral Internasional Pt,AMMN.JK,0.76,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Perseus Mining Ltd,PRU.AX,0.69,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Ramelius Resources Ltd,RMS.AX,0.65,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Montage Gold Corp,MAU,0.64,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Or Royalties Inc,OR,0.63,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,K92 Mining Inc,KNT,0.60,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Zhaojin Mining Industry Co Ltd,1818.HK,0.59,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Artemis Gold Inc,ARTG,0.58,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Capricorn Metals Ltd,CMM.AX,0.54,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Aris Mining Corp,ARIS,0.53,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Vault Minerals Ltd,VAU.AX,0.51,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Centerra Gold Inc,CGAU,0.51,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Genesis Minerals Ltd,GMD.AX,0.51,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Aya Gold & Silver Inc,AYA,0.50,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Torex Gold Resources Inc,TXG,0.50,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Wesdome Gold Mines Ltd,WDO,0.50,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Bumi Resources Minerals Tbk Pt,BRMS.JK,0.49,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Aura Minerals Inc,AUGO,0.49,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Greatland Resources Ltd,GGP.AX,0.47,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Skeena Resources Ltd,SKE,0.43,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Fortuna Silver Mines Inc,FSM,0.42,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Regis Resources Ltd,RRL.AX,0.39,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Seabridge Gold Inc,SA,0.37,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Hochschild Mining Plc,HOC.L,0.36,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Westgold Resources Ltd,WGX.AX,0.36,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Endeavour Silver Corp,EXK,0.35,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDX,VanEck Gold Miners ETF,Silvercorp Metals Inc,SVM,0.35,2026-09-24,https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Coeur Mining Inc,CDE,6.83,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Alamos Gold Inc,AGI,6.43,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Equinox Gold Corp,EQX,5.96,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Endeavour Mining Plc,EDV.L,5.61,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Iamgold Corp,IAG,5.13,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Industrias Penoles Sab De Cv,PENOLES.MX,2.63,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Hecla Mining Co,HL,2.40,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,First Majestic Silver Corp,AG,2.35,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,G Mining Ventures Corp,GMIN,1.90,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Dundee Precious Metals Inc,DPM,1.82,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Lundin Gold Inc,LUG,1.79,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Eldorado Gold Corp,EGO,1.70,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,B2Gold Corp,BTG,1.69,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Cia De Minas Buenaventura Saa,BVN,1.59,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Ssr Mining Inc,SSRM,1.59,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Harmony Gold Mining Co Ltd,HMY,1.59,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,OceanaGold Corp,OGC,1.54,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Discovery Mining Ltd,DSV,1.41,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Perseus Mining Ltd,PRU.AX,1.26,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Ramelius Resources Ltd,RMS.AX,1.19,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Montage Gold Corp,MAU,1.18,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Or Royalties Inc,OR,1.15,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,K92 Mining Inc,KNT,1.09,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Zhaojin Mining Industry Co Ltd,1818.HK,1.08,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Artemis Gold Inc,ARTG,1.06,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Capricorn Metals Ltd,CMM.AX,0.99,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Aris Mining Corp,ARIS,0.97,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Vault Minerals Ltd,VAU.AX,0.94,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Centerra Gold Inc,CGAU,0.94,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Genesis Minerals Ltd,GMD.AX,0.93,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Aya Gold & Silver Inc,AYA,0.91,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Torex Gold Resources Inc,TXG,0.91,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Wesdome Gold Mines Ltd,WDO,0.91,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Bumi Resources Minerals Tbk Pt,BRMS.JK,0.90,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Aura Minerals Inc,AUGO,0.89,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Greatland Resources Ltd,GGP.AX,0.86,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Pan African Resources Plc,PAF.L,0.80,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Skeena Resources Ltd,SKE,0.78,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Fortuna Silver Mines Inc,FSM,0.77,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Regis Resources Ltd,RRL.AX,0.72,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Wanguo Gold Group Ltd,3939.HK,0.69,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Seabridge Gold Inc,SA,0.68,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Hochschild Mining Plc,HOC.L,0.67,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Triple Flag Precious Metals Corp,TFPM,0.65,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Westgold Resources Ltd,WGX.AX,0.65,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Endeavour Silver Corp,EXK,0.64,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Silvercorp Metals Inc,SVM,0.64,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Emerald Resources Nl,EMR.AX,0.61,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Southern Cross Gold Consolidated Ltd,SXGC,0.60,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Allied Gold Corp,AAUC,0.57,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Pdi Gold Ltd,PDI.AX,0.55,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Merdeka Gold Resources Tbk Pt,EMAS.JK,0.54,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Perpetua Resources Corp,PPTA,0.54,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Novagold Resources Inc,NG,0.51,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,West African Resources Ltd,WAF.AX,0.44,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Snowline Gold Corp,SGD,0.41,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Alkane Resources Ltd,ALK.AX,0.41,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Ora Banda Mining Ltd,OBM.AX,0.40,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Vizsla Silver Corp,VZLA,0.36,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Americas Gold & Silver Corp,USA,0.36,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,I-80 Gold Corp,IAUX,0.35,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Rio2 Ltd,RIO,0.35,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Gogold Resources Inc,GGD,0.34,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Abrasilver Resource Corp,ABRA,0.34,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Omai Gold Mines Corp,OMG,0.32,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Bellevue Gold Ltd,BGL.AX,0.31,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Benz Mining Corp,BNZ,0.31,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Resolute Mining Ltd,RSG.AX,0.30,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Hemlo Mining Corp,HMMC,0.29,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Minerals 260 Ltd,MI6.AX,0.28,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Avino Silver & Gold Mines Ltd,ASM,0.28,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Catalyst Metals Ltd,CYL.AX,0.27,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Koza Altin Isletmeleri As,TRALT.IS,0.27,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Hycroft Mining Holding Corp,HYMC,0.26,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Northisle Copper & Gold Inc,NCX,0.26,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Kingsgate Consolidated Ltd,KCN.AX,0.25,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Drdgold Ltd,DRD,0.25,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Elemental Royalty Corp,ELE,0.24,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Orezone Gold Corp,ORE,0.24,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,First Mining Gold Corp,FF,0.23,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Lunr Royalties Corp,LUNR,0.22,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Tongguan Gold Group Ltd,340.HK,0.22,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Mcewen Mining Inc,MUX,0.22,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Highlander Silver Corp,HSLV,0.21,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Chifeng Jilong Gold Mining Co Ltd,6693.HK,0.21,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Dakota Gold Corp,DC,0.20,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Mineros Sa,MSA,0.18,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Metalla Royalty & Streaming Ltd,MTA,0.18,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Troilus Gold Corp,TLG,0.17,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Liberty Gold Corp,LGD,0.17,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,St Barbara Ltd,SBM.AX,0.15,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Gold Royalty Corp,GROY,0.15,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Turaco Gold Ltd,TCG.AX,0.15,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Thesis Gold Inc,TAU,0.15,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Asante Gold Corp,ASE,0.15,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Pantoro Gold Ltd,PNR.AX,0.15,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Koza Anadolu Metal Madencilik,TRMET.IS,0.15,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Banyan Gold Corp,BYN,0.15,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Collective Mining Ltd,CNL,0.15,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Talamore Mining Corp,TALA,0.15,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Osisko Gold Group Inc,OGG,0.15,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,New Found Gold Corp,NFGC,0.14,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Forrestania Resources Ltd,FRS.AX,0.13,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Gold X2 Mining Inc,AUXX,0.13,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Mako Mining Corp,MKO,0.13,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Integra Resources Corp,ITRG,0.13,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Aurelia Metals Ltd,AMI.AX,0.13,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Black Cat Syndicate Ltd,BC8.AX,0.13,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Contango Ore Inc,CTGO,0.13,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,New Pacific Metals Corp,NEWP,0.12,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Trx Gold Corporation,TRX,0.12,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Apex Mining Co Inc,APX.PS,0.12,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Versamet Royalties Corp,VMET,0.12,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Goldsky Resources Corp,GSKR,0.12,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Meridian Mining Uk Societas,MNO,0.11,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Brightstar Resources Ltd,BTR.AX,0.11,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,New Murchison Gold Ltd,NMG.AX,0.11,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Sunshine Silver Mining & Refining Co,SSMR,0.10,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Idaho Strategic Resources Inc,IDR,0.10,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Santana Minerals Ltd,SMI.AX,0.10,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Mining Americas Inc,MAI,0.10,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Galiano Gold Inc,GAU,0.09,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Vista Gold Corp,VGZ,0.09,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Heliostar Metals Ltd,HSTR,0.09,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Unico Silver Ltd,USL.AX,0.09,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Silver Tiger Metals Inc,SLVR,0.09,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Vox Royalty Corp,VOXR,0.08,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Archi Indonesia Tbk Pt,ARCI.JK,0.08,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Cnmc Goldmine Holdings Ltd,CNMC.SG,0.08,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Blackrock Silver Corp,BRC,0.07,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Caledonia Mining Corp Plc,CMCL,0.07,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Ausgold Ltd,AUC.AX,0.07,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Nexgold Mining Corp,NEXG,0.07,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Andean Precious Metals Corp,APM,0.07,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Sinda Ltd,SIND,0.07,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Jaguar Mining Inc,JAG,0.07,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Guanajuato Silver Co Ltd,GSVR,0.07,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Us Gold Corp,USAU,0.06,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,West Red Lake Gold Mines Ltd,WRLG,0.06,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Goldmining Inc,GLDG,0.06,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Andean Silver Ltd,ASL.AX,0.06,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Founders Metals Inc,FDR,0.05,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Meeka Metals Ltd,MEK.AX,0.05,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Luca Mining Corp,LUCA,0.05,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Antipa Minerals Ltd,AZY.AX,0.05,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,International Tower Hill Mines Ltd,THM,0.05,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Gt Gold Holdings Ltd,8299.HK,0.05,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Silver Storm Mining Ltd,SVRS,0.05,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Dateline Resources Ltd,DTR.AX,0.04,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Valor Gold Corp,VGC,0.03,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Firefinch Ltd,FFX.AX,0.02,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,J Resources Asia Pasific Tbk Pt,PSAB.JK,0.02,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,G3 Goldfields Inc,G3GOLDFIELDS,0.02,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Future Mineral Resources Inc,FMR,0.00,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Archer Exploration Corp,NIX,0.00,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+GDXJ,VanEck Junior Gold Miners ETF,Victoria Gold Corp,VGCX,0.00,2026-09-24,https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)
+SIL,Global X Silver Miners ETF,Wheaton Precious Metals Corp.,WPM,23.83,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Pan American Silver Corp.,PAAS,11.17,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,"Coeur Mining, Inc.",CDE,10.95,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Hecla Mining Company,HL,4.79,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,"Industrias Penoles, S.A.B. de C.V.",PENOLES.MX,4.69,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,First Majestic Silver Corp.,AG,4.53,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,SSR Mining Inc.,SSRM,4.36,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,OR Royalties Inc.,OR,4.03,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Fresnillo plc,FRES.L,3.95,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Compania de Minas Buenaventura S.A.A.,BVN,3.68,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,DISCOVERY MINING LTD,DSV,3.37,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Aya Gold & Silver Inc.,AYA,2.31,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,"Korea Zinc Company, Ltd.",010130.KS,2.27,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Fortuna Mining Corp.,FSM,2.12,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Endeavour Silver Corp.,EXK,1.63,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Silvercorp Metals Inc.,SVM,1.46,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Hochschild Mining plc,HOC.L,1.42,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Triple Flag Precious Metals Corp.,TFPM,1.35,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Vizsla Silver Corp.,VZLA,0.80,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,AbraSilver Resource Corp.,ABRA,0.78,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,GoGold Resources Inc.,GGD,0.75,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Americas Gold and Silver Corporation,USA,0.63,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,McEwen Inc.,MUX,0.57,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Hycroft Mining Holding Corporation,HYMC,0.57,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SIL,Global X Silver Miners ETF,Avino Silver & Gold Mines Ltd.,ASM,0.57,2026-09-23,"https://stockanalysis.com/etf/sil/holdings/ (top 25; small-cap tail from Oct 31, 2025 annual report)"
+SILJ,Amplify Junior Silver Miners ETF,"Coeur Mining, Inc.",CDE,10.46,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,First Majestic Silver Corp.,AG,10.29,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Hecla Mining Company,HL,10.25,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Wheaton Precious Metals Corp.,WPM,5.77,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,SSR Mining Inc.,SSRM,4.92,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Aya Gold & Silver Inc.,AYA,4.01,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Boliden AB (publ),BOL.ST,3.84,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Endeavour Silver Corp.,EXK,3.73,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Perpetua Resources Corp.,PPTA,3.21,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Compania de Minas Buenaventura S.A.A.,BVN,3.11,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Hycroft Mining Holding Corporation,HYMC,3.11,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Silvercorp Metals Inc.,SVM,3.02,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Seabridge Gold Inc,SA,2.98,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Pan American Silver Corp.,PAAS,2.90,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,OR Royalties Inc.,OR,2.69,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Triple Flag Precious Metals Corp.,TFPM,2.38,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Franco-Nevada Corporation,FNV,2.36,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Skeena Resources Limited,SKE,2.18,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Vizsla Silver Corp.,VZLA,1.94,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Americas Gold and Silver Corporation,USA,1.90,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,"Royal Gold, Inc.",RGLD,1.34,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Hochschild Mining plc,HOC.L,1.26,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Avino Silver & Gold Mines Ltd.,ASM,1.19,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,AbraSilver Resource Corp.,ABRA,1.04,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Fresnillo plc,FRES.L,0.86,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,KGHM Polska Miedz SA,KGH.WA,0.85,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Trilogy Metals Inc,TMQ,0.73,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,McEwen Inc,MUX,0.69,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,i-80 Gold Corp,IAUX,0.65,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,New Pacific Metals Corp,NEWP,0.61,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Troilus Gold Corp,TLG,0.54,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Western Copper & Gold Corp,WRN,0.54,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Industrias Penoles SAB de CV,PENOLES.MX,0.53,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,GoGold Resources Inc,GGD,0.52,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Osisko Metals Inc,OM,0.50,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,First Mining Gold Corp,FF,0.42,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Santacruz Silver Mining Ltd,SCZ,0.31,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Andean Precious Metals Corp,APM,0.19,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Panoro Minerals Ltd,PML,0.17,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Silver Mines Ltd,SVL.AX,0.14,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Sotkamo Silver AB,SOSI.ST,0.14,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Silver Storm Mining Ltd,SVRS,0.11,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Tudor Gold Corp,TUD,0.11,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Minera Frisco SAB de CV,MFRISCO.MX,0.10,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Guanajuato Silver Co Ltd,GSVR,0.10,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Paramount Gold Nevada Corp,PZG,0.09,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Volcan Cia Minera SAA,VOLCAN,0.09,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Silver Mountain Resources Inc,AGMR,0.09,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,BMC Minerals Ltd,BMC,0.07,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Chesapeake Gold Corp,CKG,0.06,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Aftermath Silver Ltd,AAG,0.06,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Sierra Madre Gold And Silver Ltd,SM,0.06,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Manuka Resources Ltd,MKR.AX,0.05,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Copper Fox Metals Inc,CUU,0.04,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Falco Resources Ltd,FPC,0.04,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,Bunker Hill Mining Corp,BNKR,0.03,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+SILJ,Amplify Junior Silver Miners ETF,IMPACT Silver Corp,IPT,0.03,2026-09-22,"https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ (full list); https://stockanalysis.com/etf/silj/holdings/ (top 25 as of Sep 22, 2026)"
+GBUG,Sprott Active Gold & Silver Miners ETF,DPM Metals Inc.,DPM,5.26,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,G Mining Ventures Corp.,GMIN,4.71,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Discovery Mining Ltd,DSV,4.51,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,IAMGOLD Corporation,IAG,3.99,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Eldorado Gold Corporation,EGO,3.88,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Montage Gold Corp,MAU,3.64,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Coeur Mining,CDE,3.71,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Wesdome Gold Mines Ltd.,WDO,3.69,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Newmont,NEM,3.21,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Ramelius Resources Limited,RMS.AX,3.17,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Wheaton Precious Metals Corp.,WPM,3.16,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Agnico Eagle Mines Limited,AEM,3.03,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Equinox Gold,EQX,3.01,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,OceanaGold Corporation,OGC,2.97,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Emerald Resources NL,EMR.AX,2.96,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Genesis Minerals Limited,GMD.AX,2.74,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Northern Star Resources Limited,NST.AX,2.71,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,i-80 Gold Corp.,IAUX,2.53,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,AngloGold Ashanti,AU,2.29,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Evolution Mining Limited,EVN.AX,2.14,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,K92 Mining Inc.,KNT,2.10,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Barrick Mining Corporation,B,2.10,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Kinross Gold Corporation,KGC,2.10,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Ora Banda Mining Limited,OBM.AX,2.05,2026-09-24,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Torex Gold Resources Inc.,TXG,3.89,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Ora Banda Mining Limited,OBM.AX,2.34,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Vizsla Silver Corp.,VZLA,2.30,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Valterra Platinum Limited,VALT,2.11,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Westgold Resources Limited,WGX.AX,2.09,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Lundin Gold Inc,LUG,2.04,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Perpetua Resources Corp.,PPTA,1.76,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Endeavour Silver Corp.,EXK,1.66,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Metalla Royalty & Streaming Ltd.,MTA,1.50,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,West African Resources Limited,WAF.AX,1.40,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Compania de Minas Buenaventura SAA,BVN,1.07,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,OR Royalties Inc.,OR,1.00,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,SSR Mining Inc.,SSRM,2.13,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+GBUG,Sprott Active Gold & Silver Miners ETF,Alamos Gold Inc.,AGI,2.50,2025-12-31,"https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ (top 25 as of Sep 24, 2026); Sprott GBUG factsheet holdings as of 12/31/2025"
+RING,iShares MSCI Global Gold Miners ETF,Newmont Corporation,NEM,16.60,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Agnico Eagle Mines Limited,AEM,12.37,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Barrick Mining Corporation,B,8.20,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Wheaton Precious Metals Corp.,WPM,7.64,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Kinross Gold Corporation,KGC,4.29,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,AngloGold Ashanti plc,AU,4.28,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Gold Fields Limited,GFI,4.26,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,"Coeur Mining, Inc.",CDE,3.45,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Pan American Silver Corp.,PAAS,3.18,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Alamos Gold Inc.,AGI,2.51,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Equinox Gold Corp.,EQX,2.50,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,IAMGOLD Corporation,IAG,2.21,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Endeavour Mining plc,EDV.L,2.10,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Eldorado Gold Corporation,EGO,1.95,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Harmony Gold Mining Company Limited,HMY,1.89,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,SSR Mining Inc.,SSRM,1.73,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Lundin Gold Inc.,LUG,1.40,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,B2Gold Corp.,BTG,1.37,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Genesis Minerals Limited,GMD.AX,1.34,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Centerra Gold Inc.,CGAU,1.31,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,G Mining Ventures Corp.,GMIN,1.29,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,China Gold International Resources Corp. Ltd.,2099.HK,1.22,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Zijin Gold International Company Limited,2259.HK,1.18,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Torex Gold Resources Inc.,TXG,1.14,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,OceanaGold Corporation,OGC,1.14,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Wesdome Gold Mines Ltd.,WDO,1.07,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Pan African Resources plc,PAF.L,0.84,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Hochschild Mining plc,HOC.L,0.82,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Regis Resources Limited,RRL.AX,0.82,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Aris Mining Corporation,ARIS,0.77,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Westgold Resources Limited,WGX.AX,0.76,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Emerald Resources NL,EMR.AX,0.70,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,West African Resources Limited,WAF.AX,0.64,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,DRDGOLD Limited,DRD,0.56,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Resolute Mining Limited,RSG.AX,0.50,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Ora Banda Mining Ltd.,OBM.AX,0.47,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,McEwen Inc.,MUX,0.39,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Koza Altin Isletmeleri AS,TRALT.IS,0.39,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Catalyst Metals Ltd.,CYL.AX,0.37,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+RING,iShares MSCI Global Gold Miners ETF,Polyus PJSC,PLZL,0.00,2026-09-22,https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (full list)
+AUAU,Global X Gold Miners ETF,Newmont Corporation,NEM,12.72,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Agnico Eagle Mines Limited,AEM,9.83,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Barrick Mining Corporation,B,6.90,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Wheaton Precious Metals Corp.,WPM,6.50,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Franco-Nevada Corporation,FNV,4.96,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,AngloGold Ashanti plc,AU,4.94,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Gold Fields Ltd ADR,GFI,3.62,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Kinross Gold Corporation,KGC,2.93,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Zijin Mining Group Company Limited,2899.HK,2.50,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Northern Star Resources Limited,NST.AX,2.18,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,"Royal Gold, Inc.",RGLD,2.17,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Evolution Mining Limited,EVN.AX,1.98,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,"Coeur Mining, Inc.",CDE,1.96,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Pan American Silver Corp.,PAAS,1.95,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Alamos Gold Inc.,AGI,1.44,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Equinox Gold Corp.,EQX,1.34,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Endeavour Mining plc,EDV.L,1.29,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Hecla Mining Company,HL,1.21,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,IAMGOLD Corporation,IAG,1.12,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Eldorado Gold Corporation,EGO,1.10,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Harmony Gold Mining Co Ltd ADR,HMY,1.04,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,DPM Metals Inc.,DPM,0.97,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,First Majestic Silver Corp.,AG,0.93,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,G Mining Ventures Corp.,GMIN,0.85,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+AUAU,Global X Gold Miners ETF,Zijin Gold International Company Limited,2259.HK,0.74,2026-09-24,https://stockanalysis.com/etf/auau/holdings/ (top 25)
+SGDM,Sprott Gold Miners ETF,Agnico Eagle Mines Ltd.,AEM,9.63,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Newmont Corp.,NEM,7.56,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Barrick Mining Corp.,B,7.38,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Wheaton Precious Metals Corp.,WPM,7.09,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Franco-Nevada Corp.,FNV,5.98,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Kinross Gold Corp.,KGC,4.48,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Pan American Silver Corp.,PAAS,3.61,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Coeur Mining Inc.,CDE,3.55,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Endeavour Mining PLC,EDV.L,3.30,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Lundin Gold Inc.,LUG,3.22,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,DPM Metals Inc.,DPM,3.06,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,IAMGOLD Corp.,IAG,3.05,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Harmony Gold Mining Co. Ltd.,HMY,2.98,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,OR Royalties Inc.,OR,2.71,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Triple Flag Precious Metals Corp.,TFPM,2.67,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Discovery Mining Ltd.,DSV,2.64,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Wesdome Gold Mines Ltd.,WDO,2.61,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Centerra Gold Inc.,CGAU,2.60,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,K92 Mining Inc.,KNT,2.59,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Torex Gold Resources Inc.,TXG,2.58,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,OceanaGold Corp.,OGC,2.57,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Allied Gold Corp.,AAUC,2.40,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Fortuna Mining Corp.,FSM,2.39,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Galiano Gold Inc.,GAU,2.06,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,AngloGold Ashanti PLC,AU,1.69,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Gold Fields Ltd.,GFI,0.78,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Montage Gold Corp.,MAU,0.33,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Eldorado Gold Corp.,EGO,0.32,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Aura Minerals Inc.,AUGO,0.32,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Royal Gold Inc.,RGLD,0.32,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,G Mining Ventures Corp.,GMIN,0.31,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,B2Gold Corp.,BTG,0.31,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,SSR Mining Inc.,SSRM,0.31,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Equinox Gold Corp.,EQX,0.30,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Alamos Gold Inc.,AGI,0.30,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Skeena Resources Ltd.,SKE,0.24,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Aris Mining Corp.,ARIS,0.23,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Seabridge Gold Inc.,SA,0.20,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Novagold Resources Inc.,NG,0.19,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Perpetua Resources Corp.,PPTA,0.18,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Southern Cross Gold Consolidated Ltd.,SXGC,0.15,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Snowline Gold Corp.,SGD,0.13,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Hycroft Mining Holding Corp.,HYMC,0.12,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Orezone Gold Corp.,ORE,0.09,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Rio2 Ltd.,RIO,0.09,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,McEwen Inc.,MUX,0.07,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Collective Mining Ltd.,CNL,0.07,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDM,Sprott Gold Miners ETF,Valor Gold Corp.,VGC,0.01,2026-09-23,https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Minerals 260 Ltd.,MI6.AX,5.42,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Wesdome Gold Mines Ltd.,WDO,5.34,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Seabridge Gold Inc.,SA,4.93,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Turk Altin Isletmeleri AS,TRALT.IS,4.84,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,TR Anadolu Metal Madencilik Isletmeleri AS,TRMET.IS,4.75,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Kingsgate Consolidated Ltd.,KCN.AX,4.53,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,West African Resources Ltd.,WAF.AX,4.53,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Fortuna Mining Corp.,FSM,4.32,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Emerald Resources NL,EMR.AX,4.25,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Catalyst Metals Ltd.,CYL.AX,4.07,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Endeavour Silver Corp.,EXK,4.07,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Allied Gold Corp.,AAUC,4.05,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Ora Banda Mining Ltd.,OBM.AX,3.93,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Alkane Resources Ltd.,ALK.AX,3.76,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,DRDGOLD Ltd.,DRD,3.74,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Predictive Discovery Ltd.,PDI.AX,3.66,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Hycroft Mining Holding Corp.,HYMC,3.62,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,i-80 Gold Corp.,IAUX,3.36,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Tongguan Gold Group Ltd.,340.HK,3.18,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Perpetua Resources Corp.,PPTA,3.18,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Omai Gold Mines Corp.,OMG,2.99,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Mineros SA,MSA,1.67,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Orezone Gold Corp.,ORE,1.66,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Philex Mining Corp.,PX.PS,1.62,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Rio2 Ltd.,RIO,1.48,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Southern Cross Gold Consolidated Ltd.,SXGC,1.43,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Bellevue Gold Ltd.,BGL.AX,1.43,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,McEwen Inc.,MUX,1.35,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Resolute Mining Ltd.,RSG.AX,1.22,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Collective Mining Ltd.,CNL,1.17,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+SGDJ,Sprott Junior Gold Miners ETF,Firefinch Ltd.,FFX.AX,0.01,2026-09-23,https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/ (full list)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Franco-Nevada Corp,FNV,10.11,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Wheaton Precious Metals Corp,WPM,10.04,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Royal Gold Inc,RGLD,10.03,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,OR Royalties Inc,OR,4.13,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Triple Flag Precious Metals Corp,TFPM,4.04,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Fortuna Mining Corp,FSM,4.00,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Kinross Gold Corp,KGC,3.91,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Gold Fields Ltd,GFI,3.71,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,DPM Metals Inc,DPM,3.14,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,IAMGOLD Corp,IAG,3.08,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Torex Gold Resources Inc,TXG,3.07,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,K92 Mining Inc,KNT,3.07,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,McEwen Inc,MUX,3.04,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Coeur Mining Inc.,CDE,2.98,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,AngloGold Ashanti Plc,AU,2.98,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Harmony Gold Mining Co Ltd,HMY,2.90,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Integra Resources Corp,ITRG,2.79,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Gold Royalty Corp,GROY,2.70,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Alkane Resources Ltd,ALK.AX,2.02,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Compania de Minas Buenaventura S.A.A.,BVN,2.02,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Perseus Mining Ltd,PRU.AX,2.00,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Ora Banda Mining Ltd,OBM.AX,1.90,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Hochschild Mining PLC,HOC.L,1.90,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Genesis Minerals Ltd,GMD.AX,1.87,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Valterra Platinum Ltd,VALT,1.84,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,West African Resources Ltd,WAF.AX,1.81,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,China Gold International Resources Corp Ltd,2099.HK,1.75,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Resolute Mining Ltd,RSG.AX,1.64,2026-09-22,https://usglobaletfs.com/fund/u-s-global-go-gold-and-precious-metal-miners-etf/ (official holdings table)
+SLVP,iShares MSCI Global Silver Miners ETF,Hecla Mining Company,HL,14.42,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,"Industrias Penoles, S.A.B. de C.V.",PENOLES.MX,11.27,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,First Majestic Silver Corp.,AG,10.59,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Fresnillo plc,FRES.L,7.98,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Aya Gold & Silver Inc.,AYA,4.93,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Discovery Mining Ltd,DSV,4.76,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Newmont Corporation,NEM,4.70,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Wheaton Precious Metals Corp.,WPM,4.54,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Agnico Eagle Mines Limited,AEM,4.48,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Endeavour Silver Corp.,EXK,3.83,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Silvercorp Metals Inc.,SVM,3.57,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Kinross Gold Corporation,KGC,2.61,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,GoGold Resources Inc.,GGD,1.91,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,"Coeur Mining, Inc.",CDE,1.82,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Vizsla Silver Corp.,VZLA,1.58,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Pan American Silver Corp.,PAAS,1.57,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Avino Silver & Gold Mines Ltd.,ASM,1.36,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Eldorado Gold Corporation,EGO,1.24,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Harmony Gold Mining Company Limited,HMY,1.22,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,DPM Metals Inc.,DPM,1.21,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,SSR Mining Inc.,SSRM,1.11,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,China Gold International Resources Corp. Ltd.,2099.HK,1.05,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Lundin Gold Inc.,LUG,0.97,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,Highlander Silver Corp.,HSLV,0.94,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLVP,iShares MSCI Global Silver Miners ETF,New Pacific Metals Corp.,NEWP,0.88,2026-09-23,https://stockanalysis.com/etf/slvp/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),Amplify Junior Silver Miners ETF (the fund itself),SILJ,24.19,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),Hecla Mining Company,HL,6.80,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),First Majestic Silver Corp.,AG,6.31,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),"Coeur Mining, Inc.",CDE,6.00,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),Skeena Resources Limited,SKE,4.49,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),Endeavour Silver Corp.,EXK,4.08,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),Wheaton Precious Metals Corp.,WPM,4.04,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),Franco-Nevada Corporation,FNV,3.84,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),Pan American Silver Corp.,PAAS,3.54,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),McEwen Inc.,MUX,3.53,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),OR Royalties Inc.,OR,3.42,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),Perpetua Resources Corp.,PPTA,3.11,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),Seabridge Gold Inc.,SA,3.03,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),Compania de Minas Buenaventura S.A.A.,BVN,2.83,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),Triple Flag Precious Metals Corp.,TFPM,2.36,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),SSR Mining Inc.,SSRM,2.23,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),Hycroft Mining Holding Corporation,HYMC,1.63,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF (ex-YieldMax Target 12),"Royal Gold, Inc.",RGLD,1.58,2026-09-23,https://stockanalysis.com/etf/sljy/holdings/ (top 25)

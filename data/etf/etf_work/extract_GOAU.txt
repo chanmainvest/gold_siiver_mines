@@ -1,0 +1,1028 @@
+                                                    Prospectus
+                                                                                              December 30, 2025
+
+
+           U.S. Global ETFs
+           Exchange-Traded Funds (“ETF”)
+           U.S. Global GO GOLD and Precious Metal Miners ETF (NYSE Arca Ticker: GOAU)
+
+
+
+
+The U.S. Securities and Exchange Commission (“SEC”) has not approved or disapproved of these securities or passed upon
+the accuracy or adequacy of this Prospectus. Any representation to the contrary is a criminal offense.
+                                                    U.S. Global GO GOLD and Precious Metal Miners ETF
+                                                                                     TABLE OF CONTENTS
+
+U.S. Global GO GOLD and Precious Metal Miners ETF Summary ..................................................................................                                                     2
+Additional Information About the Fund ...............................................................................................................................                            8
+  Investment Objective.............................................................................................................................................................              8
+  Principal Investment Strategy ...............................................................................................................................................                  8
+  Manager of Managers Structure ............................................................................................................................................                     8
+  Principal Investment Risks ....................................................................................................................................................                8
+Portfolio Holdings Information ..............................................................................................................................................                   13
+Management .............................................................................................................................................................................        13
+  Investment Adviser ...............................................................................................................................................................            13
+  Portfolio Managers ................................................................................................................................................................           13
+How to Buy and Sell Shares ....................................................................................................................................................                 13
+  Book Entry ............................................................................................................................................................................       13
+  Frequent Purchases and Redemptions of Shares ...................................................................................................................                              14
+  Determination of Net Asset Value ........................................................................................................................................                     14
+  Fair Value Pricing .................................................................................................................................................................          14
+  Investments by Registered Investment Companies ...............................................................................................................                                14
+  Delivery of Shareholder Documents – Householding ...........................................................................................................                                  14
+Dividends, Distributions and Taxes .......................................................................................................................................                      14
+  Dividends and Distributions ..................................................................................................................................................                14
+  Taxes .....................................................................................................................................................................................   15
+  Taxes on Distributions ..........................................................................................................................................................             15
+  Taxes When Shares are Sold on the Exchange .....................................................................................................................                              16
+  Taxes on Purchases and Redemptions of Creation Units ......................................................................................................                                   16
+  Foreign Investments by the Fund ..........................................................................................................................................                    16
+Distribution...............................................................................................................................................................................     17
+Premium/Discount Information .............................................................................................................................................                      17
+Additional Notices ....................................................................................................................................................................         17
+Financial Highlights .................................................................................................................................................................          17
+
+
+
+
+                                                                                                      1
+U.S. GLOBAL GO GOLD AND PRECIOUS METAL MINERS ETF SUMMARY
+
+Investment Objective
+The U.S. Global GO GOLD and Precious Metal Miners ETF (the “Fund”) seeks total return.
+Fees and Expenses of the Fund
+The following table describes the fees and expenses you may pay if you buy, hold, and sell shares of the Fund (“Shares”). You may
+pay other fees, such as brokerage commissions and other fees to financial intermediaries, which are not reflected in the table
+and Example below.
+
+ Annual Fund Operating Expenses
+ (expenses that you pay each year as a percentage of the value of your investment)
+ Management Fees                                                                                                   0.60%
+ Distribution and/or Service (12b-1) Fees                                                                          None
+ Other Expenses                                                                                                    0.00%
+ Total Annual Fund Operating Expenses                                                                              0.60%
+
+Expense Example
+This Example is intended to help you compare the cost of investing in the Fund with the cost of investing in other funds. The Example
+assumes that you invest $10,000 in the Fund for the time periods indicated and then continue to hold or redeem all of your Shares at
+the end of those periods. The Example also assumes that your investment has a 5% return each year and that the Fund’s operating
+expenses remain the same. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+
+                                  1 Year              3 Years             5 Years             10 Years
+                                    $61                 $192                $335                $750
+
+Portfolio Turnover
+The Fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher
+portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when Shares are held in a taxable account.
+These costs, which are not reflected in annual fund operating expenses or in the Example, affect the Fund’s performance. For the fiscal
+year ended December 31, 2024, the Fund’s portfolio turnover rate was 116% of the average value of its portfolio.
+Principal Investment Strategy
+The Fund is an actively managed exchange-traded fund (“ETF”) that seeks to achieve its investment objective by investing in
+exchange-listed common stock (or American Depositary Receipts (“ADRs”)) of U.S. and international (including emerging markets)
+companies that earn at least 50 percent of their aggregate revenue from precious metals (“Precious Metal Companies”). Precious
+metals consist of gold, silver, platinum, and palladium. Under normal circumstances, the Fund will invest at least 80% of its net assets
+(plus borrowings for investment purposes) in Precious Metals Companies and at least 20% of its net assets (plus borrowings for
+investment purposes) in Precious Metals Companies that primarily derive their revenue from gold (“Gold Companies”). For purposes
+of the Fund’s 80% policy, the specific precious metals from which Precious Metals Companies derive their revenue may change over
+time. U.S. Global Investors, Inc., the Fund’s investment adviser (the “Adviser”), generally expects the Fund to be predominantly
+invested in Gold Companies.
+The Adviser selects the Fund’s holdings from an initial universe of investments that consists of common stocks or ADRs of Precious
+Metals Companies across the globe that earn at least 50 percent of their aggregate revenue from precious metals through active (i.e.,
+mining or production) or passive (i.e., owning royalties or production streams) means. The universe of Precious Metals Companies is
+screened by the Adviser for investibility (i.e., must be listed on a securities exchange) and liquidity (i.e., minimum average daily value
+traded). Precious Metals Companies that rely primarily on debt to finance their business are not included in the Fund by the Adviser.
+To qualify for inclusion in the Fund’s portfolio, Precious Metals Companies must have their common stock or a sponsored ADR listed
+on one of the following exchanges: Toronto Stock Exchange, TSX Venture, New York Stock Exchange (main market only), Nasdaq,
+London Stock Exchange (main market only), Hong Kong Stock Exchange, Johannesburg Stock Exchange, or Australian Securities
+Exchange. At the time of each portfolio rebalance conducted by the Adviser, the Fund invests at least 30% of its assets in Precious
+Metals Companies whose stock is listed on an exchange in the United States or Canada and that earn a majority of their revenue from
+gold and silver, and the top three such companies will each receive a 10% holdings allocation. In selecting Precious Metal Companies
+for inclusion in the Fund’s portfolio and in allocating Fund assets among such Precious Metal Companies, the Adviser considers, on at
+least a quarterly basis, fundamental factors such as free cash flow and momentum. The Adviser may re-allocate (buy or sell) Fund
+
+
+
+
+                                                                    2
+investments on a more frequent basis in response to market shifts and/or to adapt to changes in revenue momentum, relative value,
+macroeconomic sensitivity, and global trade policy. The Adviser intends to rebalance the Fund's portfolio on at least a quarterly basis,
+however, may do so more frequently in the Adviser’s discretion.
+The Fund will generally have significant exposure to investments in Canada, Australia, the United States, and South Africa.
+In addition, the Fund expects to have significant investment exposure (i.e., more than 25% of the Fund’s total assets) to securities
+issued by companies in the metals and mining industry. The extent of the Fund’s exposure to the metals and mining industry may vary
+over time.
+The Fund may include small-, mid-, and large-capitalization companies.
+Principal Investment Risks
+The principal risks of investing in the Fund are summarized below. The principal risks are presented in alphabetical order to facilitate
+finding particular risks and comparing them with other funds. Each risk summarized below is considered a “principal risk” of
+investing in the Fund, regardless of the order in which it appears. As with any investment, there is a risk that you could lose all or a
+portion of your investment in the Fund. Some or all of these risks may adversely affect the Fund’s net asset value per share (“NAV”),
+trading price, yield, total return and/or ability to meet its objectives. For more information about the risks of investing in the Fund, see
+the section in the Fund’s Prospectus titled “Additional Information About the Fund”.
+•   Currency Exchange Rate Risk. The Fund invests primarily in investments denominated in non-U.S. currencies or in securities
+    that provide exposure to such currencies. Changes in currency exchange rates and the relative value of non-U.S. currencies will
+    affect the value of the Fund’s investment and the value of your Shares. Currency exchange rates can be very volatile and can
+    change quickly and unpredictably. As a result, the value of an investment in the Fund may change quickly and without warning
+    and you may lose money.
+•   Depositary Receipt Risk. Depositary Receipts involve risks similar to those associated with investments in foreign securities,
+    such as changes in political or economic conditions of other countries and changes in the exchange rates of foreign currencies.
+    Depositary Receipts listed on U.S. exchanges are issued by banks or trust companies and entitle the holder to all dividends and
+    capital gains that are paid out on the underlying foreign shares (“Underlying Shares”). When the Fund invests in Depositary
+    Receipts as a substitute for an investment directly in the Underlying Shares, the Fund is exposed to the risk that the Depositary
+    Receipts may not provide a return that corresponds precisely with that of the Underlying Shares.
+•   Emerging Markets Risk. The Fund may invest in companies organized in emerging market nations. Investments in securities
+    and instruments traded in developing or emerging markets, or that provide exposure to such securities or markets, can involve
+    additional risks relating to political, economic, or regulatory conditions not associated with investments in U.S. securities and
+    instruments or investments in more developed international markets. Such conditions may impact the ability of the Fund to buy,
+    sell or otherwise transfer securities, adversely affect the trading market and price for Shares and cause the Fund to decline in
+    value. Less information may be available about companies in emerging markets than in developed markets because such
+    emerging markets companies may not be subject to accounting, auditing and financial reporting standards or to other regulatory
+    practices required by U.S. companies.
+•   Equity Market Risk. The equity securities held in the Fund’s portfolio may experience sudden, unpredictable drops in value or
+    long periods of decline in value. This may occur because of factors that affect securities markets generally or factors affecting
+    specific issuers, industries, or sectors in which the Fund invests. Common stocks are generally exposed to greater risk than other
+    types of securities, such as preferred stock and debt obligations, because common stockholders generally have inferior rights to
+    receive payment from issuers. In addition, local, regional or global events such as war, including Russia’s invasion of Ukraine,
+    acts of terrorism, spread of infectious diseases or other public health issues (such as the global pandemic caused by the COVID-19
+    virus), recessions, rising inflation, trade wars and tariffs, or other events could have a significant negative impact on the Fund and
+    its investments. Such events may affect certain geographic regions, countries, sectors and industries more significantly than
+    others. Such events could adversely affect the prices and liquidity of the Fund’s portfolio securities or other instruments and could
+    result in disruptions in the trading markets.
+•   ETF Risks. The Fund is an ETF, and, as a result of an ETF’s structure, it is exposed to the following risks:
+    ◦    Authorized Participants, Market Makers, and Liquidity Providers Concentration Risk. The Fund has a limited number of
+         financial institutions that may act as Authorized Participants (“APs”). In addition, there may be a limited number of market
+         makers and/or liquidity providers in the marketplace. To the extent either of the following events occur, Shares may trade at a
+         material discount to NAV and possibly face delisting: (i) APs exit the business or otherwise become unable to process
+         creation and/or redemption orders and no other APs step forward to perform these services, or (ii) market makers and/or
+         liquidity providers exit the business or significantly reduce their business activities and no other entities step forward to
+         perform their functions.
+
+
+
+                                                                     3
+    ◦   Costs of Buying or Selling Shares. Due to the costs of buying or selling Shares, including brokerage commissions imposed by
+        brokers and bid-ask spreads, frequent trading of Shares may significantly reduce investment results and an investment in
+        Shares may not be advisable for investors who anticipate regularly making small investments.
+    ◦   Shares May Trade at Prices Other Than NAV. As with all ETFs, Shares may be bought and sold in the secondary market at
+        market prices. Although it is expected that the market price of Shares will approximate the Fund’s NAV, there may be times
+        when the market price of Shares is more than the NAV intra-day (premium) or less than the NAV intra-day (discount) due to
+        supply and demand of Shares or during periods of market volatility. This risk is heightened in times of market volatility,
+        periods of steep market declines, and periods when there is limited trading activity for Shares in the secondary market, in
+        which case such premiums or discounts may be significant. Because securities held by the Fund may trade on foreign
+        exchanges that are closed when the Fund’s primary listing exchange is open, the Fund is likely to experience premiums and
+        discounts greater than those of domestic ETFs.
+    ◦   Trading. Although Shares are listed for trading on the NYSE Arca, Inc. (the “Exchange”) and may be traded on U.S.
+        exchanges other than the Exchange, there can be no assurance that Shares will trade with any volume, or at all, on any stock
+        exchange. There can be no assurance that an active trading market for such Shares will develop or be maintained. In stressed
+        market conditions, the liquidity of Shares may begin to mirror the liquidity of the Fund’s underlying portfolio holdings,
+        which can be significantly less liquid than Shares, and this could lead to differences between the market price of the Shares
+        and the underlying value of those Shares.
+•   Foreign Securities Risk. Investments in non-U.S. securities involve certain risks that may not be present with investments in U.S.
+    securities. For example, investments in non-U.S. securities may be subject to risk of loss due to foreign currency fluctuations or to
+    political or economic instability. There may be less information publicly available about a non-U.S. issuer than a U.S. issuer.
+    Investments in non-U.S. securities also may be subject to withholding or other taxes and may be subject to additional trading,
+    settlement, custodial, and operational risks. These and other factors can make investments in the Fund more volatile and
+    potentially less liquid than other types of investments.
+•   Geographic Investment Risk. To the extent the Fund invests a significant portion of its assets in the securities of companies of a
+    single country or region outside the United States or lists and trades its shares on a foreign exchange, it is more likely to be
+    impacted by events or conditions affecting that country or region.
+    ◦   Australia-Specific Risk. Because investments in the metals and mining industry may be geographically concentrated in
+        Australian companies or companies that have a significant presence in Australia, investment results could be dependent on
+        the financial condition of the Australian economy. Investments in Australian issuers may subject the Fund to regulatory,
+        political, currency, security, and economic risk specific to Australia. The Australian economy is heavily dependent on exports
+        from the agricultural and mining sectors. This makes the Australian economy susceptible to fluctuations in the commodity
+        markets. Australia is also dependent on trading with key trading partners.
+    ◦   Canada-Specific Risk. Because investments in the metals and mining industry may be geographically concentrated in
+        Canadian companies or companies that have a significant presence in Canada, investment results could be dependent on the
+        financial condition of the Canadian economy. The Canadian economy is reliant on the sale of natural resources and
+        commodities, which can pose risks such as the fluctuation of prices and the variability of demand for exportation of such
+        products. Changes in spending on Canadian products by the economies of other countries or changes in any of these
+        economies may cause a significant impact on the Canadian economy. In particular, the United States is Canada’s largest
+        trading partner, and the imposition of tariffs on Canadian goods by the United States may have a significant negative impact
+        on the Canadian economy, including its metals and mining industry.
+    ◦   South Africa-Specific Risk. South Africa’s economy exhibits characteristics of both a developed country and a developing
+        country and has historically experienced extremely uneven distribution of wealth and income and high rates of
+        unemployment. The securities markets in South Africa are subject to greater risks associated with market volatility, lower
+        market capitalization, lower trading volume, illiquidity, inflation, greater price fluctuations, uncertainty regarding the
+        existence of trading markets, governmental control and heavy regulation of labor and industry. In addition, South Africa’s
+        currency has at times been at risk of devaluation due to inadequate foreign currency reserve. While economic reforms have
+        been enacted in recent periods, there can be no assurance that these reforms will achieve the intended results. Furthermore,
+        adverse social and economic conditions in a neighboring country may have a significant adverse effect on South Africa.
+        Additionally, the agriculture and mining sectors of South Africa’s economy account for a large portion of its exports, and
+        thus the South African economy is susceptible to fluctuations in these commodity markets as well as the imposition of tariffs
+        by key trading partners. South Africa is located in a part of the world that has historically been prone to natural disasters, such
+        as droughts, and is economically sensitive to environmental events. Any such event may adversely impact South Africa’s
+        economy or business operations of companies in South Africa, causing an adverse impact on the value of the Fund.
+
+
+
+
+                                                                    4
+•   Gold and Precious Metals Risk. The Fund will be sensitive to changes in, and its performance will depend to a greater extent on,
+    the overall condition of the metals and mining industry. Competitive pressures may have a significant effect on the financial
+    condition of companies in such industry. Also, such companies are highly dependent on the price of certain precious metals.
+    These prices may fluctuate substantially over short periods of time, so the Fund’s Share price may be more volatile than other
+    types of investments. The prices of precious metals rise and fall in response to many factors, including: economic cycles; changes
+    in inflation or expectations about inflation in various countries; interest rates; currency fluctuations; metal sales by governments,
+    central banks, or international agencies; investment speculation; resource availability; fluctuations in industrial and commercial
+    supply and demand; government regulation of the metals and materials industries; and government prohibitions or restrictions on
+    the private ownership of certain precious and rare metals. The Fund measures the performance of equity securities of Precious
+    Metals Companies and does not measure the performance of direct investment in precious metals. Consequently, the Fund’s Share
+    price may not move in the same direction and to the same extent as the spot prices of precious metals.
+•   High Portfolio Turnover Risk. Because the Fund may “turn over” some or all of its positions as frequently as daily, the Fund
+    may incur high levels of transaction costs from commissions or mark-ups in the bid/offer spread. Higher portfolio turnover may
+    result in the Fund paying higher levels of transaction costs and generating greater tax liabilities for shareholders. Portfolio
+    turnover risk may cause the Fund’s performance to be less than you expect.
+•   Management Risk. The Fund is actively managed and may not meet its investment objective based on the Adviser’s success or
+    failure to implement investment strategies for the Fund.
+•   Market Capitalization Risk.
+    ◦   Large-Capitalization Investing Risk. The Fund may invest in the securities of large-capitalization companies. The securities
+        of large-capitalization companies may be relatively mature compared to smaller companies and therefore subject to slower
+        growth during times of economic expansion. Large-capitalization companies may also be unable to respond quickly to new
+        competitive challenges, such as changes in technology and consumer tastes.
+    ◦   Mid-Capitalization Investing Risk. The Fund may invest in the securities of mid-capitalization companies. As a result, the
+        Fund may be more volatile than funds that invest in larger, more established companies. The securities of mid-capitalization
+        companies generally trade in lower volumes and are subject to greater and more unpredictable price changes than large
+        capitalization stocks or the stock market as a whole, but they may also be subject to slower growth than small-capitalization
+        companies during times of economic expansion. Mid-capitalization companies may be particularly sensitive to changes in
+        interest rates, government regulation, borrowing costs, and earnings.
+    ◦   Small-Capitalization Investing Risk. The securities of small-capitalization companies may be more vulnerable to adverse
+        issuer, market, political, or economic developments than securities of larger-capitalization companies. The securities of
+        small-capitalization companies generally trade in lower volumes and are subject to greater and more unpredictable price
+        changes than larger capitalization stocks or the stock market as a whole. Small-capitalization companies also may be
+        particularly sensitive to changes in interest rates, government regulation, borrowing costs and earnings.
+•   Non-Diversification Risk. The Fund is considered to be non-diversified, which means that it may invest more of its assets in the
+    securities of a single issuer or a smaller number of issuers than if it were a diversified fund. As a result, the Fund may be more
+    exposed to the risks associated with and developments affecting an individual issuer or a smaller number of issuers than a fund
+    that invests more widely. This may increase the Fund’s volatility and cause the performance of a relatively smaller number of
+    issuers to have a greater impact on the Fund’s performance. However, the Fund intends to satisfy the diversification requirements
+    for qualifying as a RIC under Subchapter M of the Code.
+•   Securities Lending Risk. The Fund may engage in securities lending. There are certain risks associated with securities lending,
+    including the risk that the borrower may fail to return the securities on a timely basis or even the loss of rights in the collateral
+    deposited by the borrower, if the borrower should fail financially. The Fund could also lose money in the event of a decline in the
+    value of collateral provided for loaned securities or a decline in the value of any investments made with cash collateral. As a
+    result, the Fund may lose money.
+•   Significant Exposure Risk. The Fund is expected to have significant investment exposure (i.e., hold more than 25% of its total
+    assets) in securities issued by companies in the metals and mining industry. As a result, the value of the Fund’s shares may rise
+    and fall more than the value of shares of a fund that invests in securities of companies in a broader range of industries. In addition,
+    at times, the metals and mining industry may be out of favor and underperform other industries or groups of industries or the
+    market as a whole.
+•   Tax Risk. To qualify for the favorable tax treatment generally available to a regulated investment company (a “RIC”) within the
+    meaning of Subchapter M of the Internal Revenue Code of 1986, as amended (the “Code”), the Fund must satisfy, among other
+    requirements described in the SAI, certain diversification requirements. Given the concentration of the Fund’s investments in a
+
+
+
+
+                                                                    5
+    relatively small number of securities, it may not always be possible for the Fund to fully implement its investment strategy while
+    satisfying these diversification requirements. The Fund’s efforts to pursue its investment strategy may cause it inadvertently to fail
+    to satisfy the diversification requirements. If the Fund were to fail to satisfy the diversification requirements, it could be eligible
+    for relief provisions if the failure is due to reasonable cause and not willful neglect and if a penalty tax is paid with respect to each
+    failure to satisfy the applicable requirements. Additionally, relief is provided for certain de minimis failures of the diversification
+    requirements where the Fund corrects the failure within a specified period. If the Fund were to fail to qualify as a RIC for a tax
+    year, and the relief provisions are not available, it would be taxed in the same manner as an ordinary corporation, and distributions
+    to its shareholders would not be deductible by the Fund in computing its taxable income. In such case, its shareholders would be
+    taxed as if they received ordinary dividends, although corporate shareholders could be eligible for the dividends received
+    deduction (subject to certain limitations) and individuals may be able to benefit from the lower tax rates available to qualified
+    dividend income. In addition, the Fund could be required to recognize unrealized gains, pay substantial taxes and interest, and
+    make substantial distributions before requalifying as a RIC.
+Performance
+The following performance information indicates some of the risks of investing in the Fund. The bar chart shows the Fund’s
+performance for the calendar years ended December 31. The table illustrates how the Fund’s average annual returns for the 1-year, 5-
+year, and since inception periods compare with the S&P 500 Total Return Index, a broad measure of market performance, and the U.S.
+Global Go Gold and Precious Metal Miners Index, the Fund’s former underlying index. The Fund’s past performance, before and after
+taxes, does not necessarily indicate how it will perform in the future. Updated performance information is available on the Fund’s
+website at www.usglobaletfs.com.
+The Fund’s investment objective and strategies changed effective December 30, 2025. Fund performance prior to December 30, 2025
+reflects the Fund’s investment objective and strategies when it sought to provide returns that tracked the performance of the U.S.
+Global Go Gold and Precious Metal Miners Index.
+                                                     Calendar Year Total Returns
+
+           60%
+                                      53.37%
+
+
+           40%
+
+
+                                                      20.85%
+           20%
+                                                                                                                     13.66%
+                                                                                                     10.67%
+
+
+            0%
+
+
+                      -10.60%                                         -8.72%
+                                                                                     -11.67%
+          -20%
+                        2018            2019           2020              2021          2022            2023           2024
+
+The Fund’s year-to-date total return as of September 30, 2025 was 111.74%. During the period of time shown in the bar chart, the
+Fund’s highest quarterly return was 69.41% for the quarter ended June 30, 2020, and the lowest quarterly return was -31.04% for the
+quarter ended June 30, 2022.
+
+
+
+
+                                                                     6
+Average Annual Total Returns
+For the Periods Ended December 31, 2024
+
+                                                                                                                      Since Inception
+U.S. Global GO GOLD and Precious Metal Miners ETF                                       1 Year          5 Years         (6/27/2017)
+Return Before Taxes                                                                     13.66%           4.15%             8.11%
+Return After Taxes on Distributions                                                     13.23%           3.57%             7.70%
+Return After Taxes on Distributions and Sale of Fund Shares                              8.62%           3.19%             6.50%
+U.S. Global Go Gold and Precious Metal Miners Index*                                    14.93%           5.20%              9.45%
+(reflects no deduction for fees, expenses, or taxes)
+S&P 500 Total Return Index                                                              25.02%           14.53%            14.50%
+(reflects no deduction for fees, expenses, or taxes)
+* Prior to December 30, 2025, the Fund tracked the performance of the U.S. Global Go Gold and Precious Metal Miners Index.
+
+
+After-tax returns are calculated using the historical highest individual federal marginal income tax rates during the period covered by
+the table above and do not reflect the impact of state and local taxes. Actual after-tax returns depend on an investor’s tax situation and
+may differ from those shown. After-tax returns shown are not relevant to investors who hold their Shares through tax-deferred
+arrangements such as an individual retirement account (“IRA”) or other tax-advantaged accounts.
+Management
+Investment Adviser
+U.S. Global Investors, Inc. serves as investment adviser to the Fund.
+Portfolio Managers
+The Fund is managed by a team consisting of Frank E. Holmes and Ralph P. Aldis. Frank E. Holmes, Chief Executive Officer and
+Director for the Adviser, has been a portfolio manager of the Fund since its inception in June 2017. Ralph P. Aldis, CFA, a Portfolio
+Manager for the Adviser, has been a portfolio manager of the Fund since its inception in June 2017.
+Purchase and Sale of Shares
+Shares are listed on the Exchange, and individual Shares may only be bought and sold in the secondary market through brokers at
+market prices, rather than NAV. Because Shares trade at market prices rather than NAV, Shares may trade at a price greater than NAV
+(premium) or less than NAV (discount).
+The Fund issues and redeems Shares at NAV only in large blocks known as “Creation Units,” which only APs (typically, broker-
+dealers) may purchase or redeem. The Fund generally issues and redeems Creation Units in exchange for a portfolio of securities and/
+or a designated amount of U.S. cash.
+Investors may incur costs attributable to the difference between the highest price a buyer is willing to pay to purchase Shares (bid) and
+the lowest price a seller is willing to accept for Shares (ask) when buying or selling Shares in the secondary market (the “bid-ask
+spread”). Recent information about the Fund, including its NAV, market price, premiums and discounts, and bid-ask spreads is
+available on the Fund’s website at www.usglobaletfs.com.
+Tax Information
+Fund distributions are generally taxable as ordinary income, qualified dividend income, or capital gains (or a combination), unless
+your investment is in an IRA or other tax-advantaged account. Distributions on investments made through tax-deferred arrangements
+may be taxed later upon withdrawal of assets from those accounts.
+Financial Intermediary Compensation
+If you purchase Shares through a broker-dealer or other financial intermediary (such as a bank) (an “Intermediary”), the Adviser or its
+affiliates may pay Intermediaries for certain activities related to the Fund, including participation in activities that are designed to
+make Intermediaries more knowledgeable about exchange traded products, including the Fund, or for other activities, such as
+marketing, educational training or other initiatives related to the sale or promotion of Shares. These payments may create a conflict of
+interest by influencing the Intermediary and your salesperson to recommend the Fund over another investment. Any such
+arrangements do not result in increased Fund expenses. Ask your salesperson or visit the Intermediary’s website for more information.
+
+
+
+
+                                                                    7
+ADDITIONAL INFORMATION ABOUT THE FUND
+Investment Objective
+The Fund’s investment objective has been adopted as a non-fundamental investment policy and may be changed without shareholder
+approval upon written notice to shareholders.
+Temporary Defensive Positions. From time to time, the Fund may take temporary defensive positions that are inconsistent with its
+principal investment strategies in attempting to respond to adverse market, economic, political, or other conditions. In such instances,
+the Fund may hold up to 100% of its assets in cash; short-term U.S. government securities and government agency securities;
+investment grade money market instruments; money market mutual funds; investment grade fixed-income securities; repurchase
+agreements; commercial paper; cash equivalents; and ETFs that principally invest in the foregoing instruments. As a result of
+engaging in these temporary measures, the Fund may not achieve its investment objective.
+Principal Investment Strategy
+Each company included in the initial universe of investments from which the Adviser selects Fund holdings is scored based on
+multiple fundamental factors. The following definitions apply to the scoring criteria for Precious Metals Companies:
+    Gross Margin: A company’s sales revenue minus its cost of goods sold and depreciation, divided by sales revenue.
+    Operating-Cash-Flow-to-Enterprise-Value Ratio: A company’s cash from operations divided by its enterprise value.
+    Enterprise Value (EV): A company’s market capitalization of equity, plus debt, minority interest and preferred shares, less cash
+    and cash equivalents.
+Precious Metals Companies that earn revenue from precious metals through passive means may do so by owning royalties or
+production streams. Royalties are the right of a company to receive a percentage of the revenues generated from a mine’s production.
+Production streams are an arrangement where a company provides an upfront payment in exchange for the right to purchase all or a
+portion of certain metals produced from a mine and may specify a price for such metals in advance of production.
+Manager of Managers Structure
+The Fund and the Adviser have received exemptive relief from the SEC permitting the Adviser (subject to certain conditions and the
+approval of the Fund’s Board of Trustees) to select or change sub-advisers without obtaining shareholder approval. The relief also
+permits the Adviser to materially amend the terms of agreements with a sub-adviser (including an increase in the fee paid by the
+Adviser to the sub-adviser (and not paid by the Fund)) or to continue the employment of a sub-adviser after an event that would
+otherwise cause the automatic termination of services with Board approval, but without shareholder approval. Shareholders will be
+notified of any sub-adviser changes.
+Principal Investment Risks
+This section provides additional information regarding the principal risks described in the Fund Summary. As in the Fund Summary,
+the principal risks below are presented in alphabetical order to facilitate finding particular risks and comparing them with other funds.
+Each risk described below is considered a “principal risk” of investing in the Fund, regardless of the order in which it appears. Each of
+the factors below could have a negative impact on the Fund’s performance and trading prices.
+•   Currency Exchange Rate Risk. Changes in currency exchange rates and the relative value of non-U.S. currencies will affect the
+    value of the Fund’s investments and the value of your Shares. Because the Fund’s NAV is determined on the basis of U.S. dollars,
+    the U.S. dollar value of your investment in the Fund may go down if the value of the local currency of the non-U.S. markets in
+    which the Fund invest depreciates against the U.S. dollar. This is true even if the local currency value of securities in the Fund’s
+    holdings goes up. Conversely, the dollar value of your investment in the Fund may go up if the value of the local currency
+    appreciates against the U.S. dollar. The value of the U.S. dollar measured against other currencies is influenced by a variety of
+    factors. These factors include: national debt levels and trade deficits, changes in balances of payments and trade, domestic and
+    foreign interest and inflation rates, global or regional political, economic or financial events, monetary policies of governments,
+    actual or potential government intervention, and global energy prices. Political instability, the possibility of government
+    intervention and restrictive or opaque business and investment policies may also reduce the value of a country’s currency.
+    Government monetary policies and the buying or selling of currency by a country’s government may also influence exchange
+    rates. Currency exchange rates can be very volatile and can change quickly and unpredictably. As a result, the value of an
+    investment in the Fund may change quickly and without warning, and you may lose money.
+•   Depositary Receipt Risk. The Fund may hold the securities of non-U.S. companies in the form of ADRs and Global Depositary
+    Receipts (“GDRs”). ADRs are negotiable certificates issued by a U.S. financial institution that represent a specified number of
+    shares in a foreign stock and trade on a U.S. national securities exchange, such as the New York Stock Exchange (“NYSE”).
+    Sponsored ADRs are issued with the support of the issuer of the foreign stock underlying the ADRs and carry all of the rights of
+
+
+
+                                                                   8
+    common shares, including voting rights. GDRs are similar to ADRs, but may be issued in bearer form and are typically offered
+    for sale globally and held by a foreign branch of an international bank. The underlying issuers of certain depositary receipts,
+    particularly unsponsored or unregistered depositary receipts, are under no obligation to distribute shareholder communications to
+    the holders of such receipts, or to pass through to them any voting rights with respect to the deposited securities. Issuers of
+    unsponsored depositary receipts are not contractually obligated to disclose material information in the U.S. and, therefore, such
+    information may not correlate to the market value of the unsponsored depositary receipt. The underlying securities of the ADRs
+    and GDRs in the Fund’s portfolio are usually denominated or quoted in currencies other than the U.S. Dollar. As a result, changes
+    in foreign currency exchange rates may affect the value of the Fund’s portfolio. In addition, because the underlying securities of
+    ADRs and GDRs trade on foreign exchanges at times when the U.S. markets are not open for trading, the value of the securities
+    underlying the ADRs and GDRs may change materially at times when the U.S. markets are not open for trading, regardless of
+    whether there is an active U.S. market for the shares.
+•   Emerging Markets Risk. Investments in securities and instruments traded in developing or emerging markets, or that provide
+    exposure to such securities or markets, can involve additional risks relating to political, economic, or regulatory conditions not
+    associated with investments in U.S. securities and instruments. For example, developing and emerging markets may be subject to
+    (i) greater market volatility, (ii) lower trading volume and liquidity, (iii) greater social, political and economic uncertainty,
+    (iv) governmental controls on foreign investments and limitations on repatriation of invested capital, (v) lower disclosure,
+    corporate governance, auditing and financial reporting standards, (vi) fewer protections of property rights, (vii) restrictions on the
+    transfer of securities or currency, and (viii) settlement and trading practices that differ from those in U.S. markets. Each of these
+    factors may impact the ability of the Fund to buy, sell or otherwise transfer securities, adversely affect the trading market and
+    price for Shares and cause the Fund to decline in value.
+    ◦   Capital Controls and Sanctions Risk. Economic conditions, such as volatile currency exchange rates and interest rates,
+        political events, military action and other conditions may, without prior warning, lead to government intervention (including
+        intervention by the U.S. government with respect to foreign governments, economic sectors, foreign companies and related
+        securities and interests) and the imposition of capital controls and/or sanctions, which may also include retaliatory actions of
+        one government against another government, such as seizure of assets. Capital controls and/or sanctions include the
+        prohibition of, or restrictions on, the ability to transfer currency, securities or other assets. Levies may be placed on profits
+        repatriated by foreign entities (such as the Fund). Capital controls and/or sanctions may also impact the ability of the Fund to
+        buy, sell or otherwise transfer securities or currency, negatively impact the value and/or liquidity of such instruments,
+        adversely affect the trading market and price for Shares, and cause the Fund to decline in value.
+    ◦   Geopolitical Risk. Some countries and regions in which the Fund invest have experienced security concerns, war or threats of
+        war and aggression, terrorism, economic uncertainty, natural and environmental disasters and/or systemic market dislocations
+        that have led, and in the future may lead, to increased short-term market volatility and may have adverse long-term effects on
+        the U.S. and world economies and markets generally. Such geopolitical and other events may also disrupt securities markets
+        and, during such market disruptions, the Fund’s exposure to the other risks described herein will likely increase. Each of the
+        foregoing may negatively impact the Fund’s investments.
+•   Equity Market Risk. Common stocks are susceptible to general stock market fluctuations and to volatile increases and decreases
+    in value as market confidence in and perceptions of their issuers change. These investor perceptions are based on various and
+    unpredictable factors including: expectations regarding government, economic, monetary and fiscal policies; inflation and interest
+    rates; economic expansion or contraction; local, regional or global events such as acts of terrorism or war, including Russia’s
+    invasion of Ukraine; market volatility related to global trade policy and the imposition of tariffs; and global or regional political,
+    economic, public health, and banking crises. If you held common stock, or common stock equivalents, of any given issuer, you
+    would generally be exposed to greater risk than if you held preferred stocks and debt obligations of the issuer because common
+    stockholders, or holders of equivalent interests, generally have inferior rights to receive payments from issuers in comparison with
+    the rights of preferred stockholders, bondholders, and other creditors of such issuers.
+•   ETF Risks. The Fund is an ETF, and, as a result of an ETF’s structure, is exposed to the following risks:
+    ◦   Authorized Participants, Market Makers, and Liquidity Providers Concentration Risk. The Fund has a limited number of
+        financial institutions that may act as APs. In addition, there may be a limited number of market makers and/or liquidity
+        providers in the marketplace. To the extent either of the following events occur, Shares may trade at a material discount to
+        NAV and possibly face delisting: (i) APs exit the business or otherwise become unable to process creation and/or redemption
+        orders and no other APs step forward to perform these services, or (ii) market makers and/or liquidity providers exit the
+        business or significantly reduce their business activities and no other entities step forward to perform their functions.
+    ◦   Costs of Buying or Selling Shares. Investors buying or selling Shares in the secondary market will pay brokerage
+        commissions or other charges imposed by brokers, as determined by that broker. Brokerage commissions are often a fixed
+        amount and may be a significant proportional cost for investors seeking to buy or sell relatively small amounts of Shares. In
+
+
+
+                                                                    9
+        addition, secondary market investors will also incur the cost of the difference between the price at which an investor is
+        willing to buy Shares (the “bid” price) and the price at which an investor is willing to sell Shares (the “ask” price). This
+        difference in bid and ask prices is often referred to as the “spread” or “bid/ask spread.” The bid/ask spread varies over time
+        for Shares based on trading volume and market liquidity, and is generally lower if Shares have more trading volume and
+        market liquidity and higher if Shares have little trading volume and market liquidity. Further, a relatively small investor base
+        in the Fund, asset swings in the Fund and/or increased market volatility may cause increased bid/ask spreads. Due to the costs
+        of buying or selling Shares, including bid/ask spreads, frequent trading of Shares may significantly reduce investment results
+        and an investment in Shares may not be advisable for investors who anticipate regularly making small investments.
+    ◦   Shares May Trade at Prices Other Than NAV. As with all ETFs, Shares may be bought and sold in the secondary market at
+        market prices. Although it is expected that the market price of Shares will approximate the Fund’s NAV, there may be times
+        when the market price of Shares is more than the NAV intra-day (premium) or less than the NAV intra-day (discount) due to
+        supply and demand of Shares or during periods of market volatility. This risk is heightened in times of market volatility,
+        periods of steep market declines, and periods when there is limited trading activity for Shares in the secondary market, in
+        which case such premiums or discounts may be significant. Because securities held by the Fund may trade on foreign
+        exchanges that are closed when the Fund’s primary listing exchange is open, the Fund is likely to experience premiums and
+        discounts greater than those of domestic ETFs.
+    ◦   Trading. Although Shares are listed for trading on the Exchange and may be listed or traded on U.S. and non-U.S. stock
+        exchanges other than the Exchange, there can be no assurance that an active trading market for such Shares will develop or be
+        maintained. Trading in Shares may be halted due to market conditions or for reasons that, in the view of the Exchange, make
+        trading in Shares inadvisable. In addition, trading in Shares on the Exchange is subject to trading halts caused by
+        extraordinary market volatility pursuant to Exchange “circuit breaker” rules, which temporarily halt trading on the Exchange
+        when a decline in the S&P 500® Index during a single day reaches certain thresholds (e.g., 7%, 13%, and 20%). Additional
+        rules applicable to the Exchange may halt trading in Shares when extraordinary volatility causes sudden, significant swings in
+        the market price of Shares. There can be no assurance that Shares will trade with any volume, or at all, on any stock
+        exchange. In stressed market conditions, the liquidity of Shares may begin to mirror the liquidity of the Fund’s underlying
+        portfolio holdings, which can be significantly less liquid than Shares.
+•   Foreign Securities Risk. Investments in non-U.S. securities involve certain risks that may not be present with investments in U.S.
+    securities. For example, investments in non-U.S. securities may be subject to risk of loss due to foreign currency fluctuations or to
+    political or economic instability. There may be less information publicly available about a non-U.S. issuer than a U.S. issuer.
+    Non-U.S. issuers may be subject to different accounting, auditing, financial reporting and investor protection standards than U.S.
+    issuers. Investments in non-U.S. securities may be subject to withholding or other taxes and may be subject to additional trading,
+    settlement, custodial, and operational risks. With respect to certain countries, there is the possibility of government intervention
+    and expropriation or nationalization of assets. Because legal systems differ, there is also the possibility that it will be difficult to
+    obtain or enforce legal judgments in certain countries. Since foreign exchanges may be open on days when the Fund does not
+    price its Shares, the value of the securities in the Fund’s portfolio may change on days when shareholders will not be able to
+    purchase or sell the Fund’s Shares. Conversely, Shares may trade on days when foreign exchanges are closed. Each of these
+    factors can make investments in the Fund more volatile and potentially less liquid than other types of investments.
+•   Geographic Investment Risk. To the extent that the Fund invests a significant portion of its assets in the securities of companies
+    of a single country or region outside the United States or lists and trades its shares on a foreign exchange, it is more likely to be
+    impacted by events or conditions affecting that country or region. For example, political and economic conditions and changes in
+    regulatory, tax, or economic policy in a country could significantly affect the market in that country and in surrounding or related
+    countries and have a negative impact on the Fund’s performance. Currency developments or restrictions, political and social
+    instability, and changing economic conditions have resulted in significant market volatility.
+    ◦   Australia-Specific Risk. Because investments in the metals and mining industry may be geographically concentrated in
+        Australian companies or companies that have a significant presence in Australia, the Fund may be subject to regulatory,
+        political, currency, security, and economic risk specific to Australia. The Australian economy is heavily dependent on exports
+        from the agricultural and mining sectors. As a result, the Australian economy is susceptible to fluctuations in the commodity
+        markets. The Australian economy is also becoming increasingly dependent on its growing services industry. The Australian
+        economy is dependent on trading with key trading partners, including the United States, China, Japan, Singapore, and certain
+        European countries. Reduction in spending on Australian products and services, or changes in any of the economies, may
+        cause an adverse impact on the Australian economy. The agricultural and mining sectors of Australia’s economy account for
+        the majority of its exports. Australia is susceptible to fluctuations in the commodity markets and, in particular, in the price
+        and demand for agricultural products and natural resources. Any negative changes in these sectors could have an adverse
+        impact on the Australian economy. Additionally, Australia is located in a part of the world that has historically been prone to
+
+
+
+
+                                                                    10
+        natural disasters, such as hurricanes and droughts, and is economically sensitive to environmental events. Any such event
+        may adversely impact the Australian economy, causing an adverse impact on the value of the Fund’s Australian securities.
+    ◦   Canada-Specific Risk. Because investments in the metals and mining industry may be geographically concentrated in
+        Canadian companies or companies that have a significant presence in Canada, investment results could be dependent on the
+        financial condition of the Canadian economy. The Canadian economy is reliant on the sale of natural resources and
+        commodities, which can pose risks such as the fluctuation of prices and the variability of demand for exportation of such
+        products. Changes in spending on Canadian products by the economies of other countries or changes in any of these
+        economies may cause a significant impact on the Canadian economy. In particular, the United States is Canada’s largest
+        trading partner, and the imposition of tariffs on Canadian goods by the United States may have a significant negative impact
+        on the Canadian economy, including its metals and mining industry.
+    ◦   South Africa-Specific Risk. Because investments in the metals and mining industry may be geographically concentrated in
+        South African companies or companies that have a significant presence in South Africa, investment results could be
+        dependent on the financial condition of the South African economy. South Africa’s economy exhibits characteristics of both a
+        developed country and a developing country and has historically experienced extremely uneven distribution of wealth and
+        income and high rates of unemployment. The securities markets in South Africa are subject to greater risks associated with
+        market volatility, lower market capitalization, lower trading volume, illiquidity, inflation, greater price fluctuations,
+        uncertainty regarding the existence of trading markets, governmental control, and heavy regulation of labor and industry. In
+        addition, South Africa’s currency has at times been at risk of devaluation due to inadequate foreign currency reserve. While
+        economic reforms have been enacted in recent periods, there can be no assurance that these reforms will achieve the intended
+        results. Furthermore, adverse social and economic conditions in a neighboring country may have a significant adverse effect
+        on South Africa. Additionally, the agriculture and mining sectors of South Africa’s economy account for a large portion of its
+        exports, and thus the South African economy is susceptible to fluctuations in these commodity markets as well as the
+        imposition of tariffs by key trading partners. South Africa is located in a part of the world that has historically been prone to
+        natural disasters, such as droughts, and is economically sensitive to environmental events. Any such event may adversely
+        impact South Africa’s economy or business operations of companies in South Africa, causing an adverse impact on the value
+        of the Fund.
+•   Gold and Precious Metals Risk. The Fund will be sensitive to changes in, and its performance will depend to a greater extent on,
+    the overall condition of the metals and mining industry. Competitive pressures may have a significant effect on the financial
+    condition of companies in such industry. Also, such companies are highly dependent on the price of certain precious metals.
+    These prices may fluctuate substantially over short periods of time, so the Fund’s Share price may be more volatile than other
+    types of investments. The prices of precious metals rise and fall in response to many factors, including: economic cycles; changes
+    in inflation or expectations about inflation in various countries; interest rates; currency fluctuations; metal sales by governments,
+    central banks, or international agencies; investment speculation; resource availability; fluctuations in industrial and commercial
+    supply and demand; government regulation of the metals and materials industries; and government prohibitions or restrictions on
+    the private ownership of certain precious and rare metals. The Fund measures the performance of equity securities of Precious
+    Metals Companies and does not measure the performance of direct investment in precious metals. Consequently, the Fund’s Share
+    price may not move in the same direction and to the same extent as the spot prices of precious metals.
+    In times of stable economic growth, traditional equity and debt investments could offer greater appreciation potential, and the
+    value of precious metals may be adversely affected, which could in turn affect the Fund’s returns. The production and sale of
+    precious metals by governments, central banks, or other large holders can be affected by various economic, financial, social, and
+    political factors, which may be unpredictable and may have a significant impact on the supply and prices of precious metals.
+    Economic and political conditions in those countries that are the largest producers of precious metals may have a direct effect on
+    the production and marketing of such metals and on sales of central bank holdings. Some precious metals mining operation
+    companies may hedge their exposure to falls in precious metals prices by selling forward future production, which may result in
+    lower returns during periods when the price of precious metals increases. The precious metals industry can be significantly
+    affected by events relating to international political developments, the success of exploration projects, commodity prices, and tax
+    and government regulations. If a natural disaster or other event with a significant economic impact occurs in a region where the
+    companies in which the Fund invests operate, such disaster or event could negatively affect the profitability of such companies
+    and, in turn, the Fund’s investment in them.
+•   High Portfolio Turnover Risk. Because the Fund may “turn over” some or all of its positions as frequently as daily, the Fund
+    may incur high levels of transaction costs from commissions or mark-ups in the bid/offer spread. Higher portfolio turnover may
+    result in the Fund paying higher levels of transaction costs and generating greater tax liabilities for shareholders. Portfolio
+    turnover risk may cause the Fund’s performance to be less than you expect. While the turnover of certain derivative instruments is
+    not deemed “portfolio turnover” for accounting purposes, the economic impact to the Fund is similar to what could occur if the
+    Fund experienced high portfolio turnover (e.g., in excess of 100% per year).
+
+
+
+                                                                  11
+•   Management Risk. The Fund is actively managed and may not meet its investment objective based on the Adviser’s success or
+    failure to implement investment strategies for the Fund.
+•   Market Capitalization Risk
+    ◦   Large-Capitalization Investing Risk. The securities of large-capitalization companies may be relatively mature compared to
+        smaller companies and therefore subject to slower growth during times of economic expansion. Large-capitalization
+        companies may also be unable to respond quickly to new competitive challenges, such as changes in technology and
+        consumer tastes.
+    ◦   Mid-Capitalization Investing Risk. The securities of mid-capitalization companies may be more vulnerable to adverse issuer,
+        market, political, or economic developments than securities of large-capitalization companies, but they may also be subject to
+        slower growth than small-capitalization companies during times of economic expansion. The securities of mid-capitalization
+        companies generally trade in lower volumes and are subject to greater and more unpredictable price changes than large
+        capitalization stocks or the stock market as a whole. Mid-capitalization companies may be particularly sensitive to changes in
+        interest rates, government regulation, borrowing costs, and earnings.
+    ◦   Small-Capitalization Investing Risk. The securities of small-capitalization companies may be more vulnerable to adverse
+        issuer, market, political, or economic developments than securities of larger-capitalization companies. The securities of
+        small-capitalization companies generally trade in lower volumes and are subject to greater and more unpredictable price
+        changes than larger capitalization stocks or the stock market as a whole. Small-capitalization companies also may be
+        particularly sensitive to changes in interest rates, government regulation, borrowing costs and earnings.
+•   Non-Diversification Risk. The Fund is considered to be non-diversified, which means that it may invest more of its assets in the
+    securities of a single issuer or a smaller number of issuers than if it were a diversified fund. As a result, the Fund may be more
+    exposed to the risks associated with and developments affecting an individual issuer or a smaller number of issuers than a fund
+    that invests more widely. This may increase the Fund’s volatility and cause the performance of a relatively smaller number of
+    issuers to have a greater impact on the Fund’s performance. However, the Fund intends to satisfy the diversification requirements
+    for qualifying as a RIC under Subchapter M of the Code.
+•   Securities Lending Risk. The Fund may engage in securities lending. The Fund may lose money if the borrower of the loaned
+    securities delays returning in a timely manner or fails to return the loaned securities. Securities lending involves the risk that the
+    Fund could lose money in the event of a decline in the value of collateral provided for loaned securities. In addition, the Fund
+    bears the risk of loss in connection with its investment of the cash collateral it receives from a borrower. To the extent that the
+    value or return of the Fund’s investment of the cash collateral declines below the amount owed to the borrower, the Fund may
+    incur losses that exceed the amount it earned on lending the security.
+•   Significant Exposure Risk. The Fund is expected to have significant investment exposure (i.e., hold more than 25% of its total
+    assets) in securities issued by companies in the metals and mining industry. The Fund may be susceptible to an increased risk of
+    loss, including losses due to adverse occurrences affecting the Fund more than the market as a whole, to the extent that the Fund’s
+    investments have significant investment exposure to the securities of a particular issuer or issuers, country, group of countries,
+    region, market, industry, group of industries, sector or asset class. In addition, at times, the Fund may invest significantly in an
+    industry that is out of favor and underperforms other industries or groups of industries or the market as a whole.
+•   Tax Risk. To qualify for the favorable tax treatment generally available to a RIC within the meaning of Subchapter M of the
+    Code, the Fund must satisfy, among other requirements described in the SAI, certain diversification requirements. Given the
+    concentration of the Fund’s investments in a relatively small number of securities, it may not always be possible for the Fund to
+    fully implement its investment strategy while satisfying these diversification requirements. The Fund’s efforts to pursue its
+    investment strategy may cause it inadvertently to fail to satisfy the diversification requirements. If the Fund were to fail to satisfy
+    the diversification requirements, it could be eligible for relief provisions if the failure is due to reasonable cause and not willful
+    neglect and if a penalty tax is paid with respect to each failure to satisfy the applicable requirements. Additionally, relief is
+    provided for certain de minimis failures of the diversification requirements where the Fund corrects the failure within a specified
+    period. If the Fund were to fail to qualify as a RIC for a tax year, and the relief provisions are not available, it would be taxed in
+    the same manner as an ordinary corporation, and distributions to its shareholders would not be deductible by the Fund in
+    computing its taxable income. In such case, its shareholders would be taxed as if they received ordinary dividends, although
+    corporate shareholders could be eligible for the dividends received deduction (subject to certain limitations) and individuals may
+    be able to benefit from the lower tax rates available to qualified dividend income. In addition, the Fund could be required to
+    recognize unrealized gains, pay substantial taxes and interest, and make substantial distributions before requalifying as a RIC.
+
+
+
+
+                                                                   12
+PORTFOLIO HOLDINGS INFORMATION
+Information about the Fund’s daily portfolio holdings is available at www.usglobaletfs.com. A description of the Fund’s policies and
+procedures with respect to the disclosure of the Fund’s portfolio holdings is available in the Fund’s Statement of Additional
+Information (“SAI”).
+MANAGEMENT
+Investment Adviser
+U.S. Global Investors, Inc. (the “Adviser”) has managed various investment portfolios for clients since 1968, including other
+investment companies. The Adviser is a Texas corporation and is located at 7900 Callaghan Road, San Antonio, Texas 78229.
+The Adviser serves as the investment adviser and has overall responsibility for the general management and administration of the
+Fund. The Adviser also arranges for transfer agency, custody, fund administration, distribution and all other related services necessary
+for the Fund to operate.
+For the services it provides to the Fund, the Fund pays the Adviser a unified management fee, which is calculated daily and paid
+monthly, at an annual rate of 0.60% of the Fund’s average daily net assets. Under the investment advisory agreement, the Adviser has
+agreed to pay all expenses incurred by the Fund except for interest charges on any borrowings, taxes, brokerage commissions and
+other expenses incurred in placing orders for the purchase and sale of securities and other investment instruments, acquired fund fees
+and expenses, accrued deferred tax liability, extraordinary expenses, distribution fees and expenses paid by the Fund under any
+distribution plan adopted pursuant to Rule 12b-1 under the Investment Company Act of 1940, as amended (the “1940 Act”), and the
+unified management fee payable to the Adviser.
+A discussion regarding the basis for the Board of Trustees’ most recent approval of the Fund’s Advisory Agreement is available in the
+Fund’s Annual Report to Shareholders, dated December 31, 2024 which is included in the Fund’s most recent Form N-CSR filing.
+Portfolio Managers
+The Fund is managed by a team consisting of the following individuals, each of whom is equally responsible for the day-to-day
+management of the Fund’s portfolio. Frank E. Holmes, Chief Executive Officer and Director for the Adviser since 1989, has been a
+portfolio manager of the Fund since its inception in June 2017. Ralph P. Aldis, CFA, has been a Portfolio Manager for the Adviser
+since 2001 and a portfolio manager of the Fund since its inception in June 2017.
+The Fund’s SAI provides additional information about the portfolio managers’ compensation structure, other accounts managed by the
+portfolio managers, and the portfolio managers’ ownership of Shares of the Fund.
+HOW TO BUY AND SELL SHARES
+The Fund issues and redeems Shares at NAV only in Creation Units. Only APs may acquire Shares directly from the Fund, and only
+APs may tender their Shares for redemption directly to the Fund, at NAV. APs must be a member or participant of a clearing agency
+registered with the SEC and must execute a Participant Agreement that has been agreed to by the Distributor (defined below), and that
+has been accepted by the Fund’s transfer agent, with respect to purchases and redemptions of Creation Units. Once created, Shares
+trade in the secondary market in quantities less than a Creation Unit.
+Most investors buy and sell Shares in secondary market transactions through brokers. Shares are listed for trading on the secondary
+market on the Exchange and can be bought and sold throughout the trading day like other publicly traded securities.
+When buying or selling Shares through a broker, you will incur customary brokerage commissions and charges, and you may pay
+some or all of the spread between the bid and the offer price in the secondary market on each leg of a round trip (purchase and sale)
+transaction. In addition, because secondary market transactions occur at market prices, you may pay more than NAV when you buy
+Shares and receive less than NAV when you sell those Shares.
+Book Entry
+Shares are held in book-entry form, which means that no stock certificates are issued. The Depository Trust Company (“DTC”) or its
+nominee is the record owner of all outstanding Shares.
+Investors owning Shares are beneficial owners as shown on the records of DTC or its participants. DTC serves as the securities
+depository for all Shares. DTC’s participants include securities brokers and dealers, banks, trust companies, clearing corporations and
+other institutions that directly or indirectly maintain a custodial relationship with DTC. As a beneficial owner of Shares, you are not
+entitled to receive physical delivery of stock certificates or to have Shares registered in your name, and you are not considered a
+registered owner of Shares. Therefore, to exercise any right as an owner of Shares, you must rely upon the procedures of DTC and its
+participants. These procedures are the same as those that apply to any other securities that you hold in book entry or “street name”
+through your brokerage account.
+
+
+
+                                                                  13
+Frequent Purchases and Redemptions of Shares
+The Fund imposes no restrictions on the frequency of purchases and redemptions of Shares. In determining not to approve a written,
+established policy, the Board evaluated the risks of market timing activities by Fund shareholders. Purchases and redemptions by APs,
+who are the only parties that may purchase or redeem Shares directly with the Fund, are an essential part of the ETF process and help
+keep Share trading prices in line with NAV. As such, the Fund accommodates frequent purchases and redemptions by APs. However,
+the Board has also determined that frequent purchases and redemptions for cash may increase tracking error and portfolio transaction
+costs and may lead to the realization of capital gains. To minimize these potential consequences of frequent purchases and
+redemptions, the Fund employs fair value pricing and may impose transaction fees on purchases and redemptions of Creation Units to
+cover the custodial and other costs incurred by the Fund in effecting trades. In addition, the Fund and the Adviser reserve the right to
+reject any purchase order at any time.
+Determination of Net Asset Value
+The Fund’s NAV is calculated as of the scheduled close of regular trading on the New York Stock Exchange (“NYSE”), generally
+4:00 p.m. Eastern time, each day the NYSE is open for business. The NAV for the Fund is calculated by dividing the Fund’s net assets
+by its Shares outstanding.
+In calculating its NAV, the Fund generally values its assets on the basis of market quotations, last sale prices, or estimates of value
+furnished by a pricing service or brokers who make markets in such instruments. If such information is not available for a security
+held by the Fund or is determined to be unreliable, the security will be valued by the Adviser at fair value pursuant to procedures
+established by the Adviser and approved by the Board (as described below).
+Fair Value Pricing
+The Adviser has been designated by the Board as the valuation designee for the Fund pursuant to Rule 2a-5 under the 1940 Act. In its
+capacity as valuation designee, the Adviser has adopted procedures and methodologies to fair value Fund securities whose market
+prices are not “readily available” or are deemed to be unreliable. For example, such circumstances may arise when: (i) a security has
+been de-listed or has had its trading halted or suspended; (ii) a security’s primary pricing source is unable or unwilling to provide a
+price; (iii) a security’s primary trading market is closed during regular market hours; or (iv) a security’s value is materially affected by
+events occurring after the close of the security’s primary trading market. The Board has appointed the Adviser as the Fund’s valuation
+designee to perform all fair valuations of the Fund’s portfolio investments, subject to the Board’s oversight. Accordingly, the Adviser
+has established procedures for its fair valuation of the Fund’s portfolio investments. Generally, when fair valuing a security held by the
+Fund, the Adviser will take into account all reasonably available information that may be relevant to a particular valuation including,
+but not limited to, fundamental analytical data regarding the issuer, information relating to the issuer’s business, recent trades or offers
+of the security, general and/or specific market conditions and the specific facts giving rise to the need to fair value the security. Fair
+value determinations are made in good faith and in accordance with the fair value methodologies established by the Adviser. Due to
+the subjective and variable nature of determining the fair value of a security or other investment, there can be no assurance that the
+Adviser’s fair value will match or closely correlate to any market quotation that subsequently becomes available or the price quoted or
+published by other sources. In addition, the Fund may not be able to obtain the fair value assigned to the security upon the sale of such
+security.
+Investments by Registered Investment Companies
+Section 12(d)(1) of the 1940 Act restricts investments by registered investment companies in the securities of other investment
+companies, including Shares. Registered investment companies are permitted to invest in the Fund beyond the limits set forth in
+section 12(d)(1) subject to certain terms and conditions set forth in Rule 12d1-4 under the 1940 Act, including that such investment
+companies enter into an agreement with the Fund.
+Delivery of Shareholder Documents – Householding
+Householding is an option available to certain investors of the Fund. Householding is a method of delivery, based on the preference of
+the individual investor, in which a single copy of certain shareholder documents can be delivered to investors who share the same
+address, even if their accounts are registered under different names. Householding for the Fund is available through certain broker-
+dealers. If you are interested in enrolling in householding and receiving a single copy of prospectuses and other shareholder
+documents, please contact your broker-dealer. If you are currently enrolled in householding and wish to change your householding
+status, please contact your broker-dealer.
+DIVIDENDS, DISTRIBUTIONS AND TAXES
+Dividends and Distributions
+The Fund intends to pay out dividends, if any, and distribute any net realized capital gains to its shareholders at least annually. The
+Fund will declare and pay capital gain distributions, if any, in cash. Distributions in cash may be reinvested automatically in additional
+
+
+
+                                                                    14
+whole Shares only if the broker through whom you purchased Shares makes such option available. Your broker is responsible for
+distributing the income and capital gain distributions to you.
+Taxes
+The following discussion is a summary of certain important U.S. federal income tax considerations generally applicable to investments
+in the Fund. Your investment in the Fund may have other tax implications. Please consult your tax advisor about the tax consequences
+of an investment in Shares, including the possible application of foreign, state, and local tax laws. This summary does not apply to
+Shares held in an IRA or other tax-qualified plans, which are generally not subject to current tax. Transactions relating to Shares held
+in such accounts may, however, be taxable at some time in the future. This summary is based on current tax laws, which may change.
+The Fund has elected or intends to elect and intends to qualify each year for treatment as a RIC. If the Fund meets certain minimum
+distribution requirements, a RIC is not subject to tax at the fund level on income and gains from investments that are timely distributed
+to shareholders. However, the Fund’s failure to qualify as a RIC or to meet minimum distribution requirements would result (if certain
+relief provisions were not available) in fund-level taxation and, consequently, a reduction in income available for distribution to
+shareholders.
+Unless your investment in Shares is made through a tax-exempt entity or tax-advantaged account, such as an IRA, you need to be
+aware of the possible tax consequences when the Fund makes distributions, when you sell your Shares listed on the Exchange, and
+when you purchase or redeem Creation Units (APs only).
+Taxes on Distributions
+The Fund intends to distribute, at least annually, substantially all of its net investment income and net capital gains. For federal income
+tax purposes, distributions of investment income are generally taxable as ordinary income or qualified dividend income. Taxes on
+distributions of capital gains (if any) are determined by how long the Fund owned the investments that generated them, rather than
+how long a shareholder has owned his or her Shares. Sales of assets held by the Fund for more than one year generally result in long-
+term capital gains and losses, and sales of assets held by the Fund for one year or less generally result in short-term capital gains and
+losses. Distributions of the Fund’s net capital gain (the excess of net long-term capital gains over net short-term capital losses) that are
+reported by the Fund as capital gain dividends (“Capital Gain Dividends”) will be taxable as long-term capital gains, which for non-
+corporate shareholders are subject to tax at reduced rates of up to 20% (lower rates apply to individuals in lower tax brackets).
+Distributions of short-term capital gain will generally be taxable as ordinary income. Dividends and distributions are generally taxable
+to you whether you receive them in cash or reinvest them in additional Shares.
+Distributions reported by the Fund as “qualified dividend income” are generally taxed to non-corporate shareholders at rates
+applicable to long-term capital gains, provided holding period and other requirements are met. “Qualified dividend income” generally
+is income derived from dividends paid by U.S. corporations or certain foreign corporations that are either incorporated in a U.S.
+possession or eligible for tax benefits under certain U.S. income tax treaties. In addition, dividends that the Fund received in respect of
+stock of certain foreign corporations may be qualified dividend income if that stock is readily tradable on an established U.S. securities
+market. Dividends received by the Fund from an ETF or underlying fund taxable as a RIC may be treated as qualified dividend income
+generally only to the extent so reported by such ETF or underlying fund. Corporate shareholders may be entitled to a dividends
+received deduction for the portion of dividends they receive from the Fund that are attributable to dividends received by the Fund from
+U.S. corporations, subject to certain limitations. Certain of the Fund’s investment strategies may limit its ability to make distributions
+eligible for the reduced rates applicable to qualified dividend income.
+Shortly after the close of each calendar year, you will be informed of the amount and character of any distributions received from the
+Fund.
+U.S. individuals with income exceeding specified thresholds are subject to a 3.8% tax on all or a portion of their “net investment
+income,” which includes interest, dividends, and certain capital gains (generally including capital gains distributions and capital gains
+realized on the sale of Shares). This 3.8% tax also applies to all or a portion of the undistributed net investment income of certain
+shareholders that are estates and trusts.
+In general, your distributions are subject to federal income tax for the year in which they are paid. Certain distributions paid in
+January, however, may be treated as paid on December 31 of the prior year. Distributions are generally taxable even if they are paid
+from income or gains earned by the Fund before your investment (and thus were included in the Shares’ NAV when you purchased
+your Shares).
+You may wish to avoid investing in the Fund shortly before a dividend or other distribution, because such a distribution will generally
+be taxable even though it may economically represent a return of a portion of your investment.
+If the Fund’s distributions exceed its earnings and profits, all or a portion of the distributions made for a taxable year may be
+recharacterized as a return of capital to shareholders. A return of capital distribution will generally not be taxable, but will reduce each
+
+
+
+
+                                                                    15
+shareholder’s cost basis in Shares and result in a higher capital gain or lower capital loss when the Shares are sold. After a
+shareholder’s basis in Shares has been reduced to zero, distributions in excess of earnings and profits in respect of those Shares will be
+treated as gain from the sale of the Shares.
+If you are neither a resident nor a citizen of the United States or if you are a foreign entity, distributions (other than Capital Gain
+Dividends) paid to you by the Fund will generally be subject to a U.S. withholding tax at the rate of 30%, unless a lower treaty rate
+applies. Gains from the sale or other disposition of Shares by non-U.S. shareholders generally are not subject to U.S. taxation, unless
+you are a nonresident alien individual who is physically present in the U.S. for 183 days or more per year. The Fund may, under
+certain circumstances, report all or a portion of a dividend as an “interest-related dividend” or a “short-term capital gain dividend,”
+which would generally be exempt from this 30% U.S. withholding tax, provided certain other requirements are met. Different tax
+consequences may result if you are a foreign shareholder engaged in a trade or business within the United States or if a tax treaty
+applies.
+The Fund (or a financial intermediary, such as a broker, through which a shareholder owns Shares) generally is required to withhold
+and remit to the U.S. Treasury a percentage (currently 24%) of the taxable distributions and sale proceeds paid to any shareholder who
+fails to properly furnish a correct taxpayer identification number, who has underreported dividend or interest income, or who fails to
+certify that the shareholder is not subject to such withholding.
+Taxes When Shares are Sold on the Exchange
+Provided that a shareholder holds Shares as capital assets, any capital gain or loss realized upon a sale of Shares generally is treated as
+a long-term capital gain or loss if Shares have been held for more than one year and as a short-term capital gain or loss if Shares have
+been held for one year or less. However, any capital loss on a sale of Shares held for six months or less is treated as long-term capital
+loss to the extent of Capital Gain Dividends paid with respect to such Shares. Any loss realized on a sale will be disallowed to the
+extent Shares of the Fund are acquired, including through reinvestment of dividends, within a 61-day period beginning 30 days before
+and ending 30 days after the disposition of Shares. The ability to deduct capital losses may be limited.
+The cost basis of Shares of the Fund acquired by purchase will generally be based on the amount paid for the Shares and then may be
+subsequently adjusted for other applicable transactions as required by the Code. The difference between the selling price and the cost
+basis of Shares generally determines the amount of the capital gain or loss realized on the sale or exchange of Shares. Contact the
+broker through whom you purchased your Shares to obtain information with respect to the available cost basis reporting methods and
+elections for your account.
+Taxes on Purchases and Redemptions of Creation Units
+An AP having the U.S. dollar as its functional currency for U.S. federal income tax purposes who exchanges securities for Creation
+Units generally recognizes a gain or a loss. The gain or loss will be equal to the difference between the value of the Creation Units at
+the time of the exchange and the exchanging AP’s aggregate basis in the securities delivered, plus the amount of any cash paid for the
+Creation Units. An AP who exchanges Creation Units for securities will generally recognize a gain or loss equal to the difference
+between the exchanging AP’s basis in the Creation Units and the aggregate U.S. dollar market value of the securities received, plus
+any cash received for such Creation Units. The IRS may assert, however, that a loss that is realized upon an exchange of securities for
+Creation Units may not be currently deducted under the rules governing “wash sales” (for an AP who does not mark-to-market its
+holdings), or on the basis that there has been no significant change in economic position. APs exchanging securities should consult
+their own tax advisor with respect to whether the wash sales rule applies and when a loss might be deductible.
+The Fund may include a payment of cash in addition to, or in place of, the delivery of a basket of securities upon the redemption of
+Creation Units. The Fund may sell portfolio securities to obtain the cash needed to distribute redemption proceeds. This may cause the
+Fund to recognize investment income and/or capital gains or losses that it might not have recognized if it had completely satisfied the
+redemption in-kind. As a result, the Fund may be less tax efficient if it includes such a cash payment in the proceeds paid upon the
+redemption of Creation Units.
+Foreign Investments by the Fund
+Interest and other income received by the Fund with respect to foreign securities may give rise to withholding and other taxes imposed
+by foreign countries. Tax conventions between certain countries and the United States may reduce or eliminate such taxes. If as of the
+close of a taxable year more than 50% of the value of the Fund’s assets consists of certain foreign stock or securities, the Fund will be
+eligible to elect to “pass through” to investors the amount of foreign income and similar taxes (including withholding taxes) paid by
+the Fund during that taxable year. This means that investors would be considered to have received as additional income their
+respective Shares of such foreign taxes, but may be entitled to either a corresponding tax deduction in calculating taxable income, or,
+subject to certain limitations, a credit in calculating federal income tax. If the Fund does not so elect, the Fund will be entitled to claim
+a deduction for certain foreign taxes incurred by the Fund. The Fund (or a financial intermediary, such as a broker, through which a
+
+
+
+
+                                                                     16
+shareholder owns Shares) will notify you if it makes such an election and provide you with the information necessary to reflect foreign
+taxes paid on your income tax return.
+The foregoing discussion summarizes some of the possible consequences under current federal tax law of an investment in the Fund. It
+is not a substitute for personal tax advice. You also may be subject to state and local tax on Fund distributions and sales of Shares.
+Consult your personal tax advisor about the potential tax consequences of an investment in Shares under all applicable tax laws. For
+more information, please see the section entitled “Federal Income Taxes” in the SAI.
+DISTRIBUTION
+The Distributor, Quasar Distributors, LLC, a wholly-owned subsidiary of Foreside Financial Group, LLC (d/b/a ACA Group), is a
+broker-dealer registered with the SEC. The Distributor distributes Creation Units for the Fund on an agency basis and does not
+maintain a secondary market in Shares. The Distributor has no role in determining the policies of the Fund or the securities that are
+purchased or sold by the Fund. The Distributor’s principal address is 190 Middle Street, Suite 301, Portland, Maine 04101.
+The Board has adopted a Distribution and Service Plan (the “Plan”) pursuant to Rule 12b-1 under the 1940 Act. In accordance with the
+Plan, the Fund is authorized to pay an amount up to 0.25% of its average daily net assets each year for certain distribution-related
+activities and shareholder services.
+No Rule 12b-1 fees are currently paid by the Fund, and there are no plans to impose these fees. However, in the event Rule 12b-1 fees
+are charged in the future, because the fees are paid out of Fund assets, over time these fees will increase the cost of your investment
+and may cost you more than certain other types of sales charges.
+PREMIUM/DISCOUNT INFORMATION
+Information regarding how often Shares traded on the Exchange at a price above (i.e., at a premium) or below (i.e., at a discount) the
+NAV per Share is available, free of charge, on the Fund’s website at www.usglobaletfs.com.
+ADDITIONAL NOTICES
+Shares are not sponsored, endorsed, or promoted by the Exchange. The Exchange is not responsible for, nor has it participated in the
+determination of the timing, prices, or quantities of Shares to be issued, nor in the determination or calculation of the equation by
+which Shares are redeemable. The Exchange has no obligation or liability to owners of Shares in connection with the administration,
+marketing, or trading of Shares.
+Without limiting any of the foregoing, in no event shall the Exchange have any liability for any lost profits or indirect, punitive,
+special, or consequential damages even if notified of the possibility thereof.
+The Adviser and the Fund make no representation or warranty, express or implied, to the owners of Shares or any member of the
+public regarding the advisability of investing in securities generally or in the Fund particularly.
+FINANCIAL HIGHLIGHTS
+The financial highlights tables are intended to help you understand the Fund’s financial performance for the Fund’s five most recent
+fiscal years, including the Fund’s most recent, unaudited, semi-annual fiscal period. Certain information reflects financial results for a
+single Share. The total returns in the table represent the rate that an investor would have earned or lost on an investment in the Fund
+(assuming reinvestment of all dividends and distributions). This information (except for the information for the semi-annual fiscal
+period ended June 30, 2025) has been audited by Cohen & Company, Ltd., the Fund’s independent registered public accounting firm,
+whose report, along with the Fund’s financial statements, is included in the Fund’s Annual Financial Statements and Additional
+Information, which is available upon request and as part of the Fund’s most recent Form N-CSR, which can be located on the SEC’s
+website. The Fund’s most recent Semi-Annual Financial Statements and Additional Information, which is available upon request and
+as part of the Fund’s most recent Form N-CSRS, is also located on the SEC’s website.
+
+
+
+
+                                                                   17
+                                                             U.S. Global GO GOLD and Precious Metal Miners ETF
+
+
+FINANCIAL HIGHLIGHTS
+For a capital share outstanding throughout the period
+
+
+                                                   Period Ended
+                                                   June 30, 2025                                              Year Ended December 31,
+                                                    (Unaudited)              2024                2023                   2022                 2021                   2020
+PER SHARE DATA:
+Net asset value, beginning of
+period......................................... $        18.98           $     17.05    $          15.55            $     17.88          $     19.84            $     17.45
+
+
+INVESTMENT
+OPERATIONS:
+  Net investment income
+  (loss)(a) ....................................          0.06                  0.10                0.17                   0.23                 0.23                   0.07
+  Net realized and unrealized
+  gain (loss) on investments ......                      10.17                  2.23                1.50                  (2.32)               (1.96)                  3.54
+Total from investment
+operations .................................             10.23                  2.33                1.67                  (2.09)               (1.73)                  3.61
+
+
+LESS DISTRIBUTIONS
+FROM:
+  Net investment income ...........                         —                  (0.40)              (0.17)                 (0.24)               (0.08)                 (0.05)
+  Net realized gains ...................                    —                       —                   —                      —               (0.15)                 (1.18)
+Total distributions ...................                     —                  (0.40)              (0.17)                 (0.24)               (0.23)                 (1.23)
+                                                                   (b)                                        (b)                  (b)                    (b)
+ ETF transaction fees per share                           0.00                      —               0.00                   0.00                 0.00                   0.01
+
+Net asset value, end of period . $                       29.21           $     18.98    $          17.05            $     15.55          $     17.88            $     19.84
+
+
+Total return(c) .............................            53.96%                13.66%              10.67%                -11.67%               -8.72%                 20.85%
+
+
+SUPPLEMENTAL DATA
+AND RATIOS:
+Net assets, end of period (in
+thousands).................................. $         124,160           $    85,391    $         91,198            $    82,424          $    92,963            $   108,114
+Ratio of expenses to average
+net assets(d).................................            0.60%                 0.60%               0.60%                  0.60%                0.60%                  0.60%
+
+Ratio of net investment income
+(loss) to average net assets(d) .....                     0.53%                 0.50%               1.02%                  1.40%                1.20%                  0.37%
+Portfolio turnover rate(c)(e) .........                     62%                 116%                    79%                106%                     81%                130%
+
+      (a)    Net investment income per share has been calculated based on average shares outstanding during the periods.
+      (b)    Amount represents less than $0.005 per share.
+      (c)    Not annualized for periods less than one year.
+      (d)    Annualized for periods less than one year.
+      (e)    Portfolio turnover rate excludes in-kind transactions.
+
+
+
+
+                                                                                            18
+                                     U.S. Global GO GOLD and Precious Metal Miners ETF
+
+          Adviser    U.S. Global Investors, Inc.                           Distributor Quasar Distributors, LLC
+                     7900 Callaghan Road                                               190 Middle Street, Suite 301
+                     San Antonio, Texas 78229                                          Portland, Maine 04101
+        Custodian    U.S. Bank National Association                  Transfer Agent, U.S. Bancorp Fund Services, LLC
+                     1555 North Rivercenter Drive, Suite 302        Fund Accountant 615 East Michigan Street
+                     Milwaukee, Wisconsin 53212                    and Administrator Milwaukee, Wisconsin 53202
+   Legal Counsel     Morgan, Lewis & Bockius LLP                         Independent Cohen & Company, Ltd.
+                     1111 Pennsylvania Avenue NW                     Registered Public 1835 Market St., Suite 310
+                     Washington, DC 20004-2541                       Accounting Firm Philadelphia, Pennsylvania 19103
+
+Investors may find more information about the Fund in the following documents:
+Statement of Additional Information: The Fund’s SAI provides additional details about the investments and techniques of the Fund
+and certain other additional information. A current SAI dated December 30, 2025, as supplemented from time to time, is on file with
+the SEC and is herein incorporated by reference into this Prospectus. It is legally considered a part of this Prospectus.
+Annual/Semi-Annual Reports: Additional information about the Fund’s investments is available in the Fund’s annual and semi-
+annual reports to shareholders and in Form N-CSR. In the annual report, you will find a discussion of the market conditions and
+investment strategies that significantly affected the Fund’s performance. In Form N-CSR, you will find the Fund’s annual and semi-
+annual financial statements.
+You can obtain free copies of these documents, request other information or make general inquiries about the Fund by calling
+1-800-617-0004.
+Shareholder reports and other information about the Fund are also available:
+    •    Free of charge from the SEC’s EDGAR database on the SEC’s website at http://www.sec.gov; or
+    •    Free of charge from the Fund’s Internet website at www.usglobaletfs.com; or
+    •    For a fee, by e-mail request to publicinfo@sec.gov.
+
+
+                                                                                 (SEC Investment Company Act File No. 811-22668)
+
+
+
+
+                                                                 19
+
