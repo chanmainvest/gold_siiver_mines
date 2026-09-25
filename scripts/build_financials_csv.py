@@ -11,8 +11,8 @@ except Exception:
     PT = timezone.utc
 
 BASE = 'REPO'
-rows = json.load(open(os.path.join(REPO, 'data', 'webapp', 'companies.json')))['rows']
-prices = json.load(open(os.path.join(REPO, 'data', 'etf', 'prices_raw.json')))
+rows = json.load(open(os.path.join(BASE, 'webapp-data/companies.json')))['rows']
+prices = json.load(open(os.path.join(BASE, 'prices_raw.json')))
 fx = json.load(open(os.path.join(BASE, 'fx_raw.json')))
 fund = json.load(open(os.path.join(BASE, 'fundamentals_raw.json')))
 
@@ -49,6 +49,30 @@ PRICE_NOTES = {
 }
 
 out_rows = []
+
+# Documented manual corrections (parser misread statement currency or grabbed
+# wrong line; values blanked rather than left wrong)
+FUND_OVERRIDES = {
+    'MUX': {'currency': 'USD',
+            'note': 'currency corrected to USD (US 10-K filer; parser picked MXN from risk-factor prose)'},
+    'RSG': {'currency': 'AUD', 'net_income': None, 'total_debt': None,
+            'note': 'currency corrected to AUD; net income/debt blanked (parser grabbed retained-earnings and lease-note lines)'},
+    'BOL': {'currency': 'SEK', 'total_debt': None, 'cash': None,
+            'note': 'currency corrected to SEK (Swedish reporter); debt/cash blanked (unreliable line matches)'},
+    'HMMC': {'revenue': None, 'ebitda': None, 'net_income': None, 'total_debt': None, 'cash': None,
+             'shares_outstanding': None, 'currency': None,
+             'note': 'fundamentals blanked: report folder contains MD&A only, no financial statements'},
+    'PSAB': {'revenue': None, 'ebitda': None, 'net_income': None, 'total_debt': None, 'cash': None,
+             'shares_outstanding': None, 'currency': None,
+             'note': 'fundamentals blanked: Indonesian-format statements (dot thousand-separators), unreliable extraction'},
+    'SOSI': {'currency': None,
+             'note': 'statement currency not identified (parser guessed USD); USD figures blank'},
+    'KGH': {'total_debt': None,
+            'note': 'total debt blanked (borrowings-line extraction unreliable for KGHM)'},
+    'PAF': {'total_debt': None, 'cash': None,
+            'note': 'debt/cash blanked (statement units not labeled; figures likely in thousands but unverifiable)'},
+}
+
 for r in rows:
     stem = r['Tickers']
     ticker = stem.split(',')[0].strip()
@@ -83,6 +107,15 @@ for r in rows:
 
     # ---- fundamentals ----
     fcur = f.get('currency')
+    ov = FUND_OVERRIDES.get(stem) or FUND_OVERRIDES.get(ticker)
+    if ov:
+        for k in ('revenue','ebitda','net_income','total_debt','cash','shares_outstanding','currency'):
+            if k in ov:
+                if k == 'currency':
+                    fcur = ov[k]
+                else:
+                    f[k] = ov[k]
+        notes.append(ov['note'])
     frate, frate_src = usd_per_unit(fcur) if fcur else (None, None)
     def conv(v):
         if v is None or frate is None:

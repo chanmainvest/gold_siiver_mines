@@ -1,5 +1,3 @@
-import os
-REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 #!/usr/bin/env python3
 """Fetch latest prices from Yahoo Finance v8 chart endpoint for all 205 companies + FX pairs."""
 import json, re, time, urllib.request, urllib.parse, sys, os
@@ -60,7 +58,7 @@ def fetch(sym):
         return json.load(r)
 
 def main():
-    rows = json.load(open(os.path.join(REPO, 'data', 'webapp', 'companies.json')))['rows']
+    rows = json.load(open(os.path.join(BASE, 'webapp-data/companies.json')))['rows']
     syms = []
     for r in rows:
         syms.append((r['Tickers'].split(',')[0].strip(), r['Company'], yahoo_symbol(r)))
@@ -90,13 +88,13 @@ def main():
         except Exception as e:
             out[tick] = {'symbol': sym, 'company': comp, 'error': f'{type(e).__name__}: {e}'}
             if '429' in str(e):
-                json.dump(out, open(os.path.join(REPO, 'data', 'etf', 'prices_raw.json'), 'w'), indent=1)
+                json.dump(out, open(os.path.join(BASE, 'prices_raw.json'), 'w'), indent=1)
                 print(f'RATE LIMITED at {i}/{len(all_syms)}', flush=True)
                 return
         time.sleep(1)
         if (i + 1) % 25 == 0:
             print(f'{i+1}/{len(all_syms)} done', flush=True)
-    json.dump(out, open(os.path.join(REPO, 'data', 'etf', 'prices_raw.json'), 'w'), indent=1)
+    json.dump(out, open(os.path.join(BASE, 'prices_raw.json'), 'w'), indent=1)
     ok = sum(1 for v in out.values() if 'price' in v and v['price'])
     print(f'DONE: {ok}/{len(out)} with prices', flush=True)
 

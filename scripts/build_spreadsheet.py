@@ -1,21 +1,20 @@
-import os
-REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 #!/usr/bin/env python3
-"""Build miners-mine-data.xlsx from data/*.json and data/portfolio/*.json.
+"""Build miners-mine-data.xlsx from data/*.json, data/portfolio/*.json,
+etf_holdings.csv, etf_methodology.json and company_financials.csv.
 
 Sheets: Cover, Companies, Mines, Reserves & Resources, Cost Structure,
-Royalties & Streams, Mine Links.
+Royalties & Streams, Mine Links, ETF Holdings, ETF Methodology, Company Financials.
 All reads use .get() so files with missing/extra keys never break the build.
 """
-import json, glob, os, re
+import json, glob, os, re, csv
 from datetime import date
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment
 from openpyxl.utils import get_column_letter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DATA = os.path.join(REPO, "data", "companies")
-OUT = os.path.join(REPO, "miners-mine-data.xlsx")
+DATA = os.path.join(HERE, "data")
+OUT = os.path.join(os.path.expanduser("~"), "workspace", "your_files", "miners-mine-data.xlsx")
 
 # ODV.json is the pre-rename filing of the same company now covered by OGG.json
 # (renamed Osisko Development Corp. -> Osisko Gold Group Inc., July 14, 2026).
@@ -26,84 +25,67 @@ HDR_FONT = Font(bold=True, color="FFFFFF", size=11)
 TITLE_FONT = Font(bold=True, size=16, color="1F4E5F")
 SUB_FONT = Font(bold=True, size=12, color="1F4E5F")
 
-# ---------------- ETF membership (json filename -> ETFs) ----------------
-GDX = ["NEM.json","AEM.json","B.json","WPM.json","FNV.json","AU.json","KGC.json","GFI.json",
- "PAAS.json","NST.AX.json","CDE.json","RGLD.json","AGI.json","EQX.json","EVN.AX.json",
- "PENOLES.MX.json","HL.json","EDV.L.json","AG.json","IAG.json","2259.HK.json","FRES.L.json",
- "GMIN.json","DPM.json","LUG.json","EGO.json","BTG.json","BVN.json","SSRM.json","HMY.json",
- "OGC.json","DSV.json","AMMN.JK.json","PRU.AX.json","RMS.AX.json","MAU.json","OR.json",
- "KNT.json","1818.HK.json","ARTG.json","CMM.AX.json","ARIS.json","VAU.AX.json","CGAU.json",
- "GMD.AX.json","AYA.json","TXG.json","WDO.json","BRMS.JK.json","AUGO.json","GGP.AX.json",
- "SKE.json","FSM.json","RRL.AX.json","SA.json","HOC.L.json","WGX.AX.json","EXK.json","SVM.json"]
-GDXJ = ["CDE.json","AGI.json","EQX.json","EDV.L.json","IAG.json","PENOLES.MX.json","HL.json",
- "AG.json","GMIN.json","DPM.json","LUG.json","EGO.json","BTG.json","BVN.json","SSRM.json",
- "HMY.json","OGC.json","DSV.json","PRU.AX.json","RMS.AX.json","MAU.json","OR.json","KNT.json",
- "1818.HK.json","ARTG.json","CMM.AX.json","ARIS.json","VAU.AX.json","CGAU.json","GMD.AX.json",
- "AYA.json","TXG.json","WDO.json","BRMS.JK.json","AUGO.json","GGP.AX.json","PAF.L.json",
- "SKE.json","FSM.json","RRL.AX.json","3939.HK.json","SA.json","HOC.L.json","TFPM.json",
- "WGX.AX.json","EXK.json","SVM.json","EMR.AX.json","SXGC.json","AAUC.json","PDI.AX.json",
- "EMAS.JK.json","PPTA.json","NG.json","WAF.AX.json","SGD.json","ALK.AX.json","OBM.AX.json",
- "VZLA.json","USA.json","IAUX.json","RIO.json","GGD.json","ABRA.json","OMG.json","BGL.AX.json",
- "BNZ.json","RSG.AX.json","HMMC.json","MI6.AX.json","ASM.json","CYL.AX.json","TRALT.IS.json",
- "HYMC.json","NCX.json","KCN.AX.json","DRD.json","ELE.json","ORE.json","FF.json","LUNR.json",
- "340.HK.json","MUX.json","HSLV.json","6693.HK.json","DC.json","MSA.json","MTA.json",
- "TLG.json","LGD.json","SBM.AX.json","GROY.json","TCG.AX.json","TAU.json","ASE.json",
- "PNR.AX.json","TRMET.IS.json","BYN.json","CNL.json","TALA.json","OGG.json","NFGC.json",
- "FRS.AX.json","AUXX.json","MKO.json","ITRG.json","AMI.AX.json","BC8.AX.json","CTGO.json",
- "NEWP.json","TRX.json","APX.PS.json","VMET.json","GSKR.json","MNO.json","BTR.AX.json",
- "NMG.AX.json","SSMR.json","IDR.json","SMI.AX.json","MAI.json","GAU.json","VGZ.json",
- "HSTR.json","USL.AX.json","SLVR.json","VOXR.json","ARCI.JK.json","CNMC.SG.json","BRC.json",
- "CMCL.json","AUC.AX.json","NEXG.json","APM.json","SIND.json","JAG.json","GSVR.json",
- "USAU.json","WRLG.json","GLDG.json","ASL.AX.json","FDR.json","MEK.AX.json","LUCA.json",
- "AZY.AX.json","THM.json","8299.HK.json","SVRS.json","DTR.AX.json","VGC.json","FFX.AX.json",
- "PSAB.JK.json","G3GOLDFIELDS.json","FMR.json","NIX.json","VGCX.json"]
-SIL = ["WPM.json","PAAS.json","CDE.json","HL.json","PENOLES.MX.json","AG.json","SSRM.json",
- "OR.json","FRES.L.json","BVN.json","DSV.json","AYA.json","010130.KS.json","FSM.json",
- "EXK.json","SVM.json","HOC.L.json","TFPM.json","VZLA.json","ABRA.json","GGD.json",
- "USA.json","MUX.json","HYMC.json","ASM.json","AAG.json","APM.json","ASL.AX.json",
- "BRC.json","DV.json","GSVR.json","ITRG.json","NEWP.json","SCZ.json","SLVR.json",
- "SVL.AX.json","USL.AX.json","KCN.AX.json","TXG.json"]
-SILJ = ["CDE.json","AG.json","HL.json","WPM.json","SSRM.json","AYA.json","BOL.ST.json",
- "EXK.json","PPTA.json","BVN.json","HYMC.json","SVM.json","SA.json","PAAS.json","OR.json",
- "TFPM.json","FNV.json","SKE.json","VZLA.json","USA.json","RGLD.json","HOC.L.json",
- "ASM.json","ABRA.json","FRES.L.json","KGH.WA.json","TMQ.json","MUX.json","IAUX.json",
- "NEWP.json","TLG.json","WRN.json","PENOLES.MX.json","GGD.json","OM.json","FF.json",
- "SCZ.json","APM.json","PML.json","SVL.AX.json","SOSI.ST.json","SVRS.json","TUD.json",
- "MFRISCO.MX.json","GSVR.json","PZG.json","VOLCAN.json","AGMR.json","BMC.json","CKG.json",
- "AAG.json","SM.json","MKR.AX.json","CUU.json","FPC.json","BNKR.json","IPT.json"]
-GBUG = ["DPM.json","GMIN.json","DSV.json","IAG.json","EGO.json","MAU.json","CDE.json",
- "WDO.json","NEM.json","RMS.AX.json","WPM.json","AEM.json","EQX.json","OGC.json",
- "EMR.AX.json","GMD.AX.json","NST.AX.json","IAUX.json","AU.json","EVN.AX.json","KNT.json",
- "B.json","KGC.json","OBM.AX.json","TXG.json","VZLA.json","VALT.json","WGX.AX.json",
- "LUG.json","PPTA.json","EXK.json","MTA.json","WAF.AX.json","BVN.json","OR.json",
- "SSRM.json","AGI.json"]
+# ---------------- ETF membership (from etf_holdings.csv) ----------------
+ETF_ORDER = ["GDX","GDXJ","SIL","SILJ","GBUG","RING","AUAU","SGDM","SGDJ","GOAU","SLVP","SLJY"]
+ETF_INFO = {
+ "GDX":  ("VanEck Gold Miners ETF", "MarketVector Global Gold Miners Index",
+          "https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/ (official holdings table)", "09/24/2026",
+          "59 equities (65 holdings incl. cash lines)"),
+ "GDXJ": ("VanEck Junior Gold Miners ETF", "MVIS Global Junior Gold Miners Index",
+          "https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/ (official holdings table)", "09/24/2026",
+          "156 equity rows"),
+ "SIL":  ("Global X Silver Miners ETF", "Solactive Global Silver Miners Total Return Index",
+          "https://stockanalysis.com/etf/sil/holdings/ + Global X SIL annual report (schedule of investments, Oct 31, 2025)",
+          "09/23/2026", "25 identified (top 25; 42 total per stockanalysis)"),
+ "SILJ": ("Amplify Junior Silver Miners ETF", "Nasdaq Junior Silver Miners Index",
+          "https://stockanalysis.com/etf/silj/holdings/ + companiesmarketcap.com + cbonds.com",
+          "09/22/2026", "57 identified (71 total per stockanalysis)"),
+ "GBUG": ("Sprott Active Gold & Silver Miners ETF", "Actively managed (no index)",
+          "https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ + Sprott GBUG factsheet",
+          "09/24/2026", "38 identified (48 holdings incl. cash per marketbeat)"),
+ "RING": ("iShares MSCI Global Gold Miners ETF", "MSCI ACWI Select Gold Miners Investable Market Index",
+          "https://companiesmarketcap.com/ishares-msci-global-gold-miners-etf/holdings/ (ishares.com blocked 403)",
+          "09/22/2026", "40 equities"),
+ "AUAU": ("Global X Gold Miners ETF", "NYSE Arca Gold Miners Index (same index as GDX)",
+          "https://stockanalysis.com/etf/auau/holdings/ (top 25)", "09/24/2026",
+          "25 identified (117 total; launched 12/09/2025, not a Goldman Sachs product)"),
+ "SGDM": ("Sprott Gold Miners ETF", "Solactive Gold Miners Custom Factors Total Return Index",
+          "https://companiesmarketcap.com/sprott-gold-miners-etf/holdings/", "09/23/2026",
+          "48 equities"),
+ "SGDJ": ("Sprott Junior Gold Miners ETF", "Solactive Junior Gold Miners Custom Factors Index",
+          "https://companiesmarketcap.com/sprott-junior-gold-miners-etf/holdings/", "09/23/2026",
+          "31 equities"),
+ "GOAU": ("U.S. Global GO GOLD and Precious Metal Miners ETF", "Actively managed (former: U.S. Global GO GOLD Index)",
+          "https://www.usglobaletfs.com/fund/goau/ (official holdings table)", "09/22/2026",
+          "28 equities"),
+ "SLVP": ("iShares MSCI Global Silver and Metals Miners ETF", "MSCI ACWI Select Silver Miners Investable Market Index",
+          "https://stockanalysis.com/etf/slvp/holdings/ (top 25; ishares.com blocked 403)", "09/23/2026",
+          "25 identified (38 total)"),
+ "SLJY": ("Amplify SILJ Junior Silver Miners Covered Call ETF", "Actively managed covered-call on silver miners",
+          "https://stockanalysis.com/etf/sljy/holdings/ (top 25)", "09/23/2026",
+          "17 equities + SILJ itself (24.19%) + SLV calls/T-bills/cash"),
+}
 
-ETFS = {"GDX": GDX, "GDXJ": GDXJ, "SIL": SIL, "SILJ": SILJ, "GBUG": GBUG}
+def load_etf_holdings():
+    """Read etf_holdings.csv -> (membership {stem: [etfs]}, sheet rows)."""
+    member = {}
+    rows = []
+    with open(os.path.join(HERE, "etf_holdings.csv"), newline="") as f:
+        for r in csv.DictReader(f):
+            rows.append(r)
+            stem = r["company_ticker"]
+            # skip the SLJY row that is the SILJ fund itself, not a company
+            if stem == "SILJ" and r["etf_ticker"] == "SLJY":
+                continue
+            member.setdefault(stem, set()).add(r["etf_ticker"])
+    return member, rows
 
-# Royalty/streaming companies: their portfolio interests feed the
-# "Royalties & Streams" and "Mine Links" sheets. Their mine rows also
-# appear on the Mines sheet as underlying assets.
+ETF_MEMBER, ETF_HOLDING_ROWS = load_etf_holdings()
+
 ROYALTY_FILES = {"RGLD.json", "FNV.json", "WPM.json", "OR.json", "TFPM.json",
                  "SAND.json", "GROY.json", "MTA.json", "VOXR.json", "ELE.json",
                  "EMX.json", "OGN.json", "ALS.TO.json", "VMET.json",
                  "LUNR.json", "FISH.json"}
-ETF_INFO = {
- "GDX":  ("VanEck Gold Miners ETF", "MarketVector Global Gold Miners Index",
-          "https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/", "09/24/2026",
-          "59 equities (65 holdings incl. cash lines)"),
- "GDXJ": ("VanEck Junior Gold Miners ETF", "MVIS Global Junior Gold Miners Index",
-          "https://www.vaneck.com/us/en/investments/junior-gold-miners-etf-gdxj/", "09/24/2026",
-          "154 equities (161 holdings incl. cash lines)"),
- "SIL":  ("Global X Silver Miners ETF", "Solactive Global Silver Miners Total Return Index",
-          "https://stockanalysis.com/etf/sil/holdings/ + Global X SIL annual report (schedule of investments, Oct 31, 2025)",
-          "09/23/2026", "42 total per stockanalysis (top 25 listed); small-cap tail from Oct 2025 annual report"),
- "SILJ": ("Amplify Junior Silver Miners ETF", "Nasdaq Junior Silver Miners Index",
-          "https://stockanalysis.com/etf/silj/holdings/ + https://companiesmarketcap.com/amplify-junior-silver-miners-etf/holdings/ + https://cbonds.com/etf/10435/",
-          "09/22/2026", "71 total per stockanalysis (top 25 listed); full tail from cbonds/companiesmarketcap"),
- "GBUG": ("Sprott Active Gold & Silver Miners ETF", "Actively managed (no index)",
-          "https://www.marketbeat.com/stocks/NASDAQ/GBUG/holdings/ + Sprott GBUG factsheet",
-          "09/24/2026", "48 holdings incl. cash per marketbeat (top 25 listed); factsheet as of 12/31/2025"),
-}
 
 def load():
     recs = []
@@ -118,7 +100,8 @@ def load():
     return recs
 
 def etf_list(rec):
-    return ",".join(e for e, lst in ETFS.items() if rec["_file"] in lst)
+    stem = rec["_file"][:-5]
+    return ",".join(e for e in ETF_ORDER if e in ETF_MEMBER.get(stem, ()))
 
 # ---------------- Royalty/streaming portfolio interests ----------------
 RS_HEADERS = ["Royalty Company", "Ticker", "Asset / Mine", "Operator", "Country",
@@ -144,7 +127,7 @@ def _core_name(s):
 def load_interests():
     """Normalize data/portfolio/*.json (3 schema variants) into canonical dicts."""
     rows = []
-    for f in sorted(glob.glob(os.path.join(REPO, "data", "portfolio", "*.json"))):
+    for f in sorted(glob.glob(os.path.join(HERE, "data", "portfolio", "*.json"))):
         with open(f) as fh:
             d = json.load(fh)
         ticker = os.path.basename(f)[:-5]
@@ -247,20 +230,26 @@ def main():
     # ---------- Cover ----------
     ws = wb.active; ws.title = "Cover"
     ws["A1"] = "Gold & Silver Miners — Mine-Level Database"; ws["A1"].font = TITLE_FONT
-    ws["A2"] = f"Built {date.today().isoformat()} — all equity holdings of GDX, GDXJ, SIL, SILJ and GBUG"
+    ws["A2"] = f"Built {date.today().isoformat()} — all identifiable equity holdings of 12 precious-metals-mining ETFs, plus full royalty/streaming portfolios, company financials and ETF construction comparison"
     ws["A2"].font = SUB_FONT
     r = 4
     ws[f"A{r}"] = "Scope"; ws[f"A{r}"].font = SUB_FONT; r += 1
-    scope = ("Every equity holding of five precious-metals-mining ETFs: VanEck Gold Miners (GDX), "
+    scope = ("Every identifiable equity holding of TWELVE precious-metals-mining ETFs: VanEck Gold Miners (GDX), "
              "VanEck Junior Gold Miners (GDXJ), Global X Silver Miners (SIL), Amplify Junior Silver "
-             "Miners (SILJ), and Sprott Active Gold & Silver Miners (GBUG). Includes foreign-listed "
-             "holdings (ASX, HKEX, LSE, IDX, JSE, etc.), developers, explorers, royalty/streaming "
+             "Miners (SILJ), Sprott Active Gold & Silver Miners (GBUG), iShares MSCI Global Gold Miners (RING), "
+             "Global X Gold Miners (AUAU), Sprott Gold Miners (SGDM), Sprott Junior Gold Miners (SGDJ), "
+             "U.S. Global GO GOLD and Precious Metal Miners (GOAU), iShares MSCI Global Silver Miners (SLVP), "
+             "and Amplify SILJ Junior Silver Miners Covered Call (SLJY). Includes foreign-listed "
+             "holdings (ASX, HKEX, LSE, IDX, JSE, PSE, MOEX, etc.), developers, explorers, royalty/streaming "
              "companies, and a small number of non-miners held by the ETFs (Korea Zinc — smelter; "
              "Valterra Platinum — PGM producer), flagged as such. "
              "Separately, ALL US- and Canada-listed gold & silver royalty/streaming companies are "
              "covered with full portfolio detail (RGLD, FNV, WPM, OR, TFPM, SAND, GROY, MTA, VOXR, "
              "ELE, EMX, OGN, ALS, VMET, LUNR, FISH): see the 'Royalties & Streams' sheet for every "
-             "material interest and the 'Mine Links' sheet for the mine-to-holder relationship map.")
+             "material interest and the 'Mine Links' sheet for the mine-to-holder relationship map. "
+             "The 'ETF Holdings' sheet maps every ETF to its miners (with weights); 'ETF Methodology' "
+             "compares how the 12 ETFs are constructed from their prospectuses; 'Company Financials' "
+             "gives price, market cap, revenue, EBITDA, debt and cash per company.")
     ws[f"A{r}"] = scope; ws[f"A{r}"].alignment = Alignment(wrap_text=True); ws.merge_cells(f"A{r}:H{r}")
     r += 2
     ws[f"A{r}"] = "ETF holdings sources"; ws[f"A{r}"].font = SUB_FONT; r += 1
@@ -268,7 +257,7 @@ def main():
     for i, h in enumerate(hdr, 1):
         c = ws.cell(row=r, column=i, value=h); c.fill = HDR_FILL; c.font = HDR_FONT
     r += 1
-    for e in ["GDX", "GDXJ", "SIL", "SILJ", "GBUG"]:
+    for e in ETF_ORDER:
         name, idx, src, asof, size = ETF_INFO[e]
         for i, v in enumerate([e, name, idx, src, asof, size], 1):
             ws.cell(row=r, column=i, value=v)
@@ -289,12 +278,23 @@ def main():
         ("Royalty/stream interests extracted", len(interests)),
         ("Mine↔holder links (mine also in database)", f"{n_linked} of {len(links)}"),
         ("Royalty/streaming companies covered", len(ROYALTY_FILES)),
-        ("GDX holdings covered", f"{len(GDX)} / 59 equities"),
-        ("GDXJ holdings covered", f"{len(GDXJ)} / 154 equities"),
-        ("SIL holdings covered", f"{len(SIL)} identified of 42 total"),
-        ("SILJ holdings covered", f"{len(SILJ)} identified of 71 total"),
-        ("GBUG holdings covered", f"{len(GBUG)} identified equities (48 holdings incl. cash)"),
     ]
+    from collections import Counter as _Counter
+    _eq = _Counter(r["etf_ticker"] for r in ETF_HOLDING_ROWS
+                   if not (r["company_ticker"] == "SILJ" and r["etf_ticker"] == "SLJY"))
+    for e in ETF_ORDER:
+        stats.append((f"{e} equity holdings in file", _eq.get(e, 0)))
+    try:
+        _meth = json.load(open(os.path.join(HERE, "etf_methodology.json")))
+        stats.append(("ETFs in construction comparison", len(_meth)))
+    except Exception:
+        pass
+    try:
+        _fin_n = sum(1 for _ in open(os.path.join(HERE, "company_financials.csv"))) - 1
+        stats.append(("Companies with financials rows", _fin_n))
+    except Exception:
+        pass
+    stats.append(("ETF<->miner mapping rows", len(ETF_HOLDING_ROWS) - 1))  # minus SLJY/SILJ fund row
     for label, val in stats:
         ws.cell(row=r, column=1, value=label); ws.cell(row=r, column=2, value=val); r += 1
     r += 1
@@ -321,6 +321,42 @@ def main():
     ]
     for n in notes:
         ws[f"A{r}"] = "• " + n; ws[f"A{r}"].alignment = Alignment(wrap_text=True)
+        ws.merge_cells(f"A{r}:H{r}"); r += 1
+    r += 1
+    ws[f"A{r}"] = "How the sheets join (ETF -> miner -> mine -> royalty holder)"; ws[f"A{r}"].font = SUB_FONT; r += 1
+    joins = [
+        "ETF Holdings.company_ticker = Companies.Tickers / Mines.Company key: every ETF->miner pair (with weight %) joins to the company and its mines.",
+        "Mines (Company + Mine + Country) -> Mine Links (Mine + Country): each mine's royalty/stream holders and interest terms.",
+        "Mine Links.Holder Ticker -> Royalties & Streams.Ticker: the holder's full portfolio interest behind each link.",
+        "Royalties & Streams.Ticker -> Companies.Tickers: royalty/streaming companies' attributable production and revenue.",
+        "Company Financials.ticker = Companies.Tickers: price, market cap, revenue, EBITDA, debt, cash per company.",
+        "ETF Methodology: one row per ETF — join to ETF Holdings on ETF ticker for holdings + construction in one view.",
+    ]
+    for j in joins:
+        ws[f"A{r}"] = "• " + j; ws[f"A{r}"].alignment = Alignment(wrap_text=True)
+        ws.merge_cells(f"A{r}:H{r}"); r += 1
+    r += 1
+    ws[f"A{r}"] = "ETF construction comparison (summary — detail in 'ETF Methodology' sheet)"; ws[f"A{r}"].font = SUB_FONT; r += 1
+    comp = [
+        "Index vs active: 9 ETFs track an index (GDX/GDXJ: MarketVector; RING/SLVP: MSCI 25/50; SIL: Solactive silver; SILJ: Nasdaq junior silver (changed Jan 2026); SGDM/SGDJ: Solactive custom-factor; AUAU: NYSE Arca Gold Miners — the same index as GDX); 3 are actively managed (GBUG: Sprott discretionary value/contrarian; GOAU: U.S. Global quant multifactor incl. royalty/streaming companies; SLJY: Amplify covered-call writing on silver miners).",
+        "Selection: most require a minimum % of revenue from gold/silver mining (typically 50%) plus market-cap and liquidity screens; juniors (GDXJ, SGDJ, SILJ) target small/mid-cap explorers and developers.",
+        "Weighting: mostly modified market-cap with single-stock caps (e.g. GDX caps large names; SGDM single <= 18%, >4.5% names <= 50% aggregate; SGDJ single <= 9%; MSCI 25/50 for RING/SLVP); GOAU uses a multifactor quant score.",
+        "Rebalance: quarterly for most (GDX, GDXJ, SILJ, SGDM); semi-annual for RING/SLVP (May/Nov) and SGDJ (Mar/Sep).",
+        "Expense ratios range 0.35% (AUAU) to 0.90% (GBUG); AUM ranges from ~$7M (AUAU, launched Dec 2025) to ~$28.4B (GDX).",
+        "Corrections applied during research: AUAU is a Global X product (not Goldman Sachs); SLJY is an Amplify (not YieldMax) covered-call fund; GOAU dropped its index and is now actively managed; SILJ switched from MSCI to the Nasdaq index in Jan 2026.",
+    ]
+    for j in comp:
+        ws[f"A{r}"] = "• " + j; ws[f"A{r}"].alignment = Alignment(wrap_text=True)
+        ws.merge_cells(f"A{r}:H{r}"); r += 1
+    r += 1
+    ws[f"A{r}"] = "Company Financials — basis"; ws[f"A{r}"].font = SUB_FONT; r += 1
+    fin = [
+        "Prices are Yahoo Finance quotes observed 2026-09-25 (PSE:PX from stockanalysis.com; PLZL sanctioned — no quote), converted to USD.",
+        "Market cap = price x shares outstanding (computed where both available); fundamentals (revenue, EBITDA/operating income, net income, debt, cash) come from each company's latest annual-report financial statements, converted to USD at statement-date FX. Blank = undisclosed or unobtainable — nothing estimated.",
+        "ETF AUM and holdings weights are as of the dates in the ETF table above; holdings change daily.",
+    ]
+    for j in fin:
+        ws[f"A{r}"] = "• " + j; ws[f"A{r}"].alignment = Alignment(wrap_text=True)
         ws.merge_cells(f"A{r}:H{r}"); r += 1
     for col, w in zip("ABCDEFGH", [10, 34, 40, 60, 14, 34, 14, 14]):
         ws.column_dimensions[col].width = w
@@ -391,14 +427,53 @@ def main():
     add_sheet(wb, "Mine Links", ML_HEADERS, links,
               [30, 30, 16, 30, 12, 50, 14])
 
+    # ---------- ETF Holdings ----------
+    ehh = ["ETF", "ETF Name", "Company", "Company Ticker", "Weight %", "As Of", "Holdings Source"]
+    ehrows = [[r["etf_ticker"], r["etf_name"], r["company"], r["company_ticker"],
+               r["weight_pct"], r["as_of_date"], r["holdings_source"]]
+              for r in ETF_HOLDING_ROWS
+              if not (r["company_ticker"] == "SILJ" and r["etf_ticker"] == "SLJY")]
+    add_sheet(wb, "ETF Holdings", ehh, ehrows, [10, 44, 40, 14, 10, 12, 60])
+
+    # ---------- ETF Methodology ----------
+    try:
+        meth = json.load(open(os.path.join(HERE, "etf_methodology.json")))
+        mcols = ["ETF Ticker", "ETF Name", "Issuer", "Index Tracked", "Selection Criteria",
+                 "Weighting Scheme", "Rebalance Frequency", "Expense Ratio", "Inception Date",
+                 "AUM (USD)", "AUM As Of", "Num Holdings", "Notes"]
+        methrows = [[m.get(c) for c in mcols] for m in meth]
+    except Exception as e:
+        mcols, methrows = ["Note"], [[f"etf_methodology.json not loaded: {e}"]]
+    add_sheet(wb, "ETF Methodology", mcols, methrows,
+              [10, 40, 28, 40, 60, 50, 22, 16, 14, 16, 12, 12, 80])
+
+    # ---------- Company Financials ----------
+    fcols = ["ticker", "company", "price_usd", "price_as_of", "market_cap_usd",
+             "shares_outstanding", "revenue_usd", "ebitda_usd", "net_income_usd",
+             "total_debt_usd", "cash_usd", "net_debt_usd", "fiscal_year",
+             "financial_source", "notes"]
+    frows = []
+    with open(os.path.join(HERE, "company_financials.csv"), newline="") as f:
+        for r in csv.DictReader(f):
+            frows.append([r.get(c) for c in fcols])
+    fh = ["Ticker", "Company", "Price (USD)", "Price As Of", "Market Cap (USD)",
+          "Shares Outstanding", "Revenue (USD)", "EBITDA (USD)", "Net Income (USD)",
+          "Total Debt (USD)", "Cash (USD)", "Net Debt (USD)", "Fiscal Year",
+          "Financial Source", "Notes"]
+    add_sheet(wb, "Company Financials", fh, frows,
+              [12, 34, 12, 12, 16, 18, 16, 16, 16, 16, 14, 14, 10, 40, 70])
+
     wb.save(OUT)
     print("saved", OUT)
     print("companies:", len(recs), "| mines:", len(mrows), "| R&R:", len(rrows),
-          "| cost rows:", len(srows), "| interests:", len(rsrows), "| links:", len(links))
+          "| cost rows:", len(srows), "| interests:", len(rsrows), "| links:", len(links),
+          "| ETF holdings:", len(ehrows), "| methodology:", len(methrows), "| financials:", len(frows))
     # ETF coverage sanity check
-    have = {x["_file"] for x in recs}
-    for e, lst in ETFS.items():
-        missing = [t for t in lst if t not in have]
+    have = {x["_file"][:-5] for x in recs}
+    for e in ETF_ORDER:
+        want = {r["company_ticker"] for r in ETF_HOLDING_ROWS
+                if r["etf_ticker"] == e and not (r["company_ticker"] == "SILJ" and r["etf_ticker"] == "SLJY")}
+        missing = sorted(want - have)
         print(e, "missing:", missing if missing else "none")
 
 if __name__ == "__main__":

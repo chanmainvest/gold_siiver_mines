@@ -5,7 +5,7 @@ REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 import json, time, urllib.request, urllib.parse, os
 
 BASE = 'REPO'
-d = json.load(open(os.path.join(REPO, 'data', 'etf', 'prices_raw.json')))
+d = json.load(open(os.path.join(BASE, 'prices_raw.json')))
 
 # separate FX entries (keys are 3-letter currency codes) from company entries
 fx_keys = ['CAD','AUD','GBP','EUR','MXN','KRW','IDR','PHP','BRL','CLP','PEN','ZAR','TRY','SEK','PLN','HKD','SGD','CNY','JPY','CHF']
@@ -58,6 +58,6 @@ for tick, sym in REFETCH.items():
             break
     time.sleep(1)
 
-json.dump(d, open(os.path.join(REPO, 'data', 'etf', 'prices_raw.json'), 'w'), indent=1)
+json.dump(d, open(os.path.join(BASE, 'prices_raw.json'), 'w'), indent=1)
 ok = sum(1 for v in d.values() if v.get('price'))
 print(f'DONE: {ok}/{len(d)} with prices')

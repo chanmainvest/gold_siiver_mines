@@ -17,14 +17,16 @@ ETFs — built entirely from published annual reports.
 | Royalties & Streams | 660+ royalty/stream interests: asset, operator, interest type (NSR %, stream terms), attributable production |
 | Mine Links | Mine ↔ royalty/stream holder relationship map |
 | ETF Holdings | ETF-to-miner mapping with weights and as-of dates |
-| ETF Methodology | Prospectus-based comparison of how each ETF is constructed |
+| ETF Holdings | ETF-to-miner mapping (549 rows) with weights and as-of dates |
+| ETF Methodology | Prospectus-based comparison: index, selection rules, weighting/capping, rebalance, expense ratio |
 | Company Financials | Price, market cap, shares outstanding, revenue, EBITDA, debt, cash |
 | Cover | Methodology, sources, and caveats |
 
-Covered ETFs: **GDX, GDXJ, SIL, SILJ, GBUG** (+ RING, AUAU, SGDM, SGDJ, GOAU,
-SLVP in progress). Royalty/streamers: Royal Gold, Franco-Nevada, Wheaton,
-Osisko Gold Royalties, Triple Flag, Sandstorm, Gold Royalty, Metalla, Vox,
-Elemental Altus, EMX, Orogen, Altius, Versamet, Sailfish, LunR.
+Covered ETFs: **GDX, GDXJ, SIL, SILJ, GBUG, RING, AUAU, SGDM, SGDJ, GOAU, SLVP**
+(+ SLJY noted as Amplify's covered-call overlay on SILJ). Royalty/streamers:
+Royal Gold, Franco-Nevada, Wheaton, Osisko Gold Royalties, Triple Flag,
+Sandstorm, Gold Royalty, Metalla, Vox, Elemental Altus, EMX, Orogen, Altius,
+Versamet, Sailfish, LunR.
 
 **Nothing is estimated.** Blank = not disclosed by the company. Cost bases
 (per Au oz / per Ag oz / per GEO) and currency conversions are flagged per row.

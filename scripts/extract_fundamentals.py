@@ -228,7 +228,10 @@ def clean_line(s):
     s = re.sub(r'\b\d{1,2}[A-Z]\b', '', s)  # "5A", "21D" note refs
     s = re.sub(r'\b[A-Z]\.\d{1,2}\b', '', s)  # "C.1", "D.5" note refs
     s = re.sub(r'(["\')])\d{1,2}(?=\s)', r'\1', s)  # footnote digit after quote/paren: ("EBITDA")1
-    s = re.sub(r'(?<=\d) (?=\d{3}\b)', '', s)  # space thousand-separators: "10 495" -> "10495"
+    s = re.sub(r'\b(Company)\d{1,2}\b', r'\1', s, flags=re.I)  # "Company1 was"
+    s = re.sub(r'(\bEBITDA\b)\s+\d{1,2}\b', r'\1', s, flags=re.I)  # "Adjusted EBITDA 1 US$ million"
+    s = re.sub(r'\b\d{1,2},(?=\s+\d)', '', s)  # note ref "15," before figures
+    s = re.sub(r'(?<![\d,.])(\d{1,3}) (\d{3})\b', r'\1\2', s)  # space thousand-separators: "10 495" -> "10495" (not "1,028,737 849,951" or "226.6 141.2")
     s = re.sub(r'(?<=\s)[–—−-](?=\s*$)', '0', s)  # trailing dash -> nil -> 0
     s = re.sub(r'(?<=\s)[–—−-](?=\s)', '', s)  # mid-line dash -> column placeholder, drop
     # bare note-reference digits before the figures, e.g. "Sales revenue 2 5,558,774"
@@ -474,6 +477,13 @@ def _extract_one(text, src):
             v, e = pick(body, r'(revenues?|net sales|sales)( from (mining )?operations| of (gold|metals|concentrates))?\b',
                         r'deferred|receivable|hedg|stream|other (income|revenue)|finance|interest|recogniz|as revenue|revenue (was|of \$)|cost of sales', strip_parens=True, num_idx=ni4)
         # avoid "revenue" subtotal lines like "total other revenue": require it be the main revenue line
+        # magnitude words in the line itself (e.g. "$197.6 million" from MD&A prose)
+        if v is not None and e and units == 1:
+            el = str(e).lower()
+            if re.search(r'\bbillion\b', el):
+                v *= 1e9
+            elif re.search(r'\bmillion\b', el):
+                v *= 1e6
         out['revenue'] = v * units if v is not None else None
         ev['revenue'] = e
         v, e = pick(body, r'^\s*(net (income|earnings|profit)(\s*\(loss\))?|profit\s*(/+\s*\(loss\)|\(loss\))?\s+for the (year|period)|profit after (income )?tax|net (loss|income) attributable|net (loss|profit) for)',
@@ -591,7 +601,7 @@ def extract(folder):
     return best
 
 def main():
-    rows = json.load(open(os.path.join(REPO, 'data', 'webapp', 'companies.json')))['rows']
+    rows = json.load(open(os.path.join(BASE, 'webapp-data/companies.json')))['rows']
     folders = {f.lower(): f for f in os.listdir(REPORTS)}
     def find_folder(stem):
         first = stem.split(',')[0].strip().lower()
