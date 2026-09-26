@@ -13,8 +13,28 @@ from openpyxl.styles import Font, PatternFill, Alignment
 from openpyxl.utils import get_column_letter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DATA = os.path.join(HERE, "data")
-OUT = os.path.join(os.path.expanduser("~"), "workspace", "your_files", "miners-mine-data.xlsx")
+REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA = os.path.join(REPO, "data", "companies")
+OUT = os.path.join(REPO, "miners-mine-data.xlsx")
+
+# Mine coordinates: left-join data/mine_coordinates.csv onto the Mines sheet.
+# (In the GitHub repo layout DATA is <repo>/data/companies; the CSV lives at
+# <repo>/data/mine_coordinates.csv in both layouts.)
+import unicodedata as _uc
+def _normkey(s):
+    return ' '.join(_uc.normalize('NFKD', str(s or '')).strip().split()).lower()
+_coords_csv = (os.path.join(os.path.dirname(DATA), "mine_coordinates.csv")
+               if os.path.basename(DATA) == "companies"
+               else os.path.join(DATA, "mine_coordinates.csv"))
+COORDS = {}
+if os.path.exists(_coords_csv):
+    import csv as _csv
+    with open(_coords_csv, newline='') as _f:
+        for _r in _csv.DictReader(_f):
+            if _r.get('latitude') and _r.get('longitude'):
+                COORDS[(_normkey(_r.get('mine_name')), _normkey(_r.get('country')))] = \
+                    (_r['latitude'], _r['longitude'])
+print(f"loaded {len(COORDS)} mine coordinates from {_coords_csv}")
 
 # ODV.json is the pre-rename filing of the same company now covered by OGG.json
 # (renamed Osisko Development Corp. -> Osisko Gold Group Inc., July 14, 2026).
@@ -70,7 +90,7 @@ def load_etf_holdings():
     """Read etf_holdings.csv -> (membership {stem: [etfs]}, sheet rows)."""
     member = {}
     rows = []
-    with open(os.path.join(HERE, "etf_holdings.csv"), newline="") as f:
+    with open(os.path.join(REPO, "data", "etf", "etf_holdings.csv"), newline="") as f:
         for r in csv.DictReader(f):
             rows.append(r)
             stem = r["company_ticker"]
@@ -127,7 +147,7 @@ def _core_name(s):
 def load_interests():
     """Normalize data/portfolio/*.json (3 schema variants) into canonical dicts."""
     rows = []
-    for f in sorted(glob.glob(os.path.join(HERE, "data", "portfolio", "*.json"))):
+    for f in sorted(glob.glob(os.path.join(REPO, "data", "portfolio", "*.json"))):
         with open(f) as fh:
             d = json.load(fh)
         ticker = os.path.basename(f)[:-5]
@@ -285,12 +305,12 @@ def main():
     for e in ETF_ORDER:
         stats.append((f"{e} equity holdings in file", _eq.get(e, 0)))
     try:
-        _meth = json.load(open(os.path.join(HERE, "etf_methodology.json")))
+        _meth = json.load(open(os.path.join(REPO, "data", "etf", "etf_methodology.json")))
         stats.append(("ETFs in construction comparison", len(_meth)))
     except Exception:
         pass
     try:
-        _fin_n = sum(1 for _ in open(os.path.join(HERE, "company_financials.csv"))) - 1
+        _fin_n = sum(1 for _ in open(os.path.join(REPO, "data", "company_financials.csv"))) - 1
         stats.append(("Companies with financials rows", _fin_n))
     except Exception:
         pass
@@ -378,18 +398,20 @@ def main():
     mh = ["Company", "Mine", "Country", "Ownership %", "Status", "Mine Type", "Processing",
           "Gold (oz)", "Silver (oz)", "Byproduct", "Byproduct Qty", "Unit",
           "Head Grade Au (g/t)", "Head Grade Ag (g/t)", "Reserve Tonnes (Mt)",
-          "Reserve Au (oz)", "Reserve Ag (oz)", "Notes"]
+          "Reserve Au (oz)", "Reserve Ag (oz)", "Notes", "latitude", "longitude"]
     mrows = []
     for x in recs:
         for m in x.get("mines") or []:
+            _ck = (_normkey(m.get("mine")), _normkey(m.get("country")))
+            _lat, _lon = COORDS.get(_ck, ("", ""))
             mrows.append([x.get("company"), m.get("mine"), m.get("country"),
                           m.get("ownership_pct"), m.get("status"), m.get("mine_type"),
                           m.get("processing"), m.get("gold_oz"), m.get("silver_oz"),
                           m.get("byproduct"), m.get("byproduct_qty"), m.get("byproduct_unit"),
                           m.get("head_grade_au_gpt"), m.get("head_grade_ag_gpt"),
                           m.get("reserve_tonnes_mt"), m.get("reserve_au_oz"),
-                          m.get("reserve_ag_oz"), m.get("mine_notes")])
-    add_sheet(wb, "Mines", mh, mrows, [28, 28, 12, 10, 12, 16, 24, 14, 14, 14, 14, 10, 14, 14, 16, 16, 16, 60])
+                          m.get("reserve_ag_oz"), m.get("mine_notes"), _lat, _lon])
+    add_sheet(wb, "Mines", mh, mrows, [28, 28, 12, 10, 12, 16, 24, 14, 14, 14, 14, 10, 14, 14, 16, 16, 16, 60, 12, 12])
 
     # ---------- Reserves & Resources ----------
     rh = ["Company", "Mine", "Classification", "Tonnes (Mt)", "Au (g/t)", "Ag (g/t)",
@@ -437,7 +459,7 @@ def main():
 
     # ---------- ETF Methodology ----------
     try:
-        meth = json.load(open(os.path.join(HERE, "etf_methodology.json")))
+        meth = json.load(open(os.path.join(REPO, "data", "etf", "etf_methodology.json")))
         mcols = ["ETF Ticker", "ETF Name", "Issuer", "Index Tracked", "Selection Criteria",
                  "Weighting Scheme", "Rebalance Frequency", "Expense Ratio", "Inception Date",
                  "AUM (USD)", "AUM As Of", "Num Holdings", "Notes"]
@@ -453,7 +475,7 @@ def main():
              "total_debt_usd", "cash_usd", "net_debt_usd", "fiscal_year",
              "financial_source", "notes"]
     frows = []
-    with open(os.path.join(HERE, "company_financials.csv"), newline="") as f:
+    with open(os.path.join(REPO, "data", "company_financials.csv"), newline="") as f:
         for r in csv.DictReader(f):
             frows.append([r.get(c) for c in fcols])
     fh = ["Ticker", "Company", "Price (USD)", "Price As Of", "Market Cap (USD)",

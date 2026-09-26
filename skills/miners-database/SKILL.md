@@ -50,6 +50,18 @@ financials. Everything is derived from published annual reports — no estimates
    cash from the reports in `reports/`; `scripts/qa_fundamentals.py` sanity-checks.
 6. **Build the spreadsheet:** `python3 scripts/build_spreadsheet.py`
    → writes `miners-mine-data.xlsx` (needs `pip install openpyxl`).
+   `data/mine_coordinates.csv` is left-joined into the Mines sheet as
+   `latitude`/`longitude` columns (blank where no confident match — never
+   fabricated).
+6b. **Geocode new mines** (only needed when mines were added/renamed):
+   `python3 scripts/geocode_mines.py` queries OpenStreetMap Nominatim for each
+   unique (mine, country) pair from the Mines sheet and caches results in
+   `data/geocode_cache.json` (confidence: high/medium/low/none). It is
+   resumable — re-runs skip cached pairs. Then
+   `python3 scripts/write_coords_csv.py` regenerates
+   `data/mine_coordinates.csv` from the cache, and re-run step 6 to bake the
+   coordinates into the spreadsheet. Respect Nominatim's usage policy
+   (~1 req/sec; the script throttles itself).
 7. **Flatten for the web:** convert each sheet to `data/webapp/<sheet>.json`
    as `{"columns": [...], "rows": [...]}` (see `docs/BUILD_NOTES.md`).
 8. **Rebuild the site:** regenerate `index.html` from `data/webapp/`
