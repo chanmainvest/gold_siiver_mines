@@ -96,9 +96,10 @@
     @media(max-width:900px){.map-layout{grid-template-columns:240px minmax(0,1fr)}.map-result-list{grid-template-columns:repeat(2,minmax(0,1fr))}.map-legend{grid-template-columns:1fr}}
     @media(max-width:680px){.map-layout{grid-template-columns:1fr}.map-filters summary{padding:13px 15px}.map-filter-body{padding:0 15px 15px}.map-stage{height:max(480px,68vh)}.map-result-list{grid-template-columns:1fr}.map-legend{gap:9px}.size-legend{gap:12px}.leaflet-control-zoom{display:none}}
 
+    .subnav{display:flex;gap:2px;flex-wrap:wrap;margin:20px 0 -8px;border-bottom:1px solid var(--line)}.subnav[hidden]{display:none}.subtab{border:0;border-bottom:2px solid transparent;background:transparent;padding:9px 12px;color:var(--muted);font-weight:600;cursor:pointer}.subtab:hover{color:var(--ink);background:var(--surface-2)}.subtab.active{color:var(--ink);border-bottom-color:var(--accent)}.subtab-count{font:400 .7rem var(--mono);color:inherit;margin-left:4px}
     .metal-strip{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:10px 0 0}.metal-strip-label{font:500 .68rem var(--mono);text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-right:2px}.metal-badge{display:inline-flex;align-items:baseline;gap:6px;border:1px solid var(--line);background:var(--surface);border-radius:99px;padding:6px 10px;cursor:pointer;font-weight:600}.metal-badge:hover{border-color:var(--ink)}.metal-badge span{font:400 .7rem var(--mono);color:var(--muted)}
     .price-chart-section{margin-top:22px}.price-chart-section>h3{margin-bottom:10px}.price-chart{border-top:1px solid var(--line);padding-top:12px}.price-chart-empty{margin:0;color:var(--muted);font-size:.86rem}.price-chart-head{display:flex;justify-content:space-between;align-items:flex-start;gap:14px;flex-wrap:wrap}.price-chart-quote{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap}.price-chart-latest{font:600 1.15rem var(--mono)}.price-chart-change{font:500 .78rem var(--mono)}.price-chart-dates{width:100%;font-size:.78rem;color:var(--muted);margin-top:-3px}.price-range-controls{display:flex;gap:3px;flex-wrap:wrap}.price-range-button{border:1px solid transparent;background:transparent;border-radius:5px;padding:5px 7px;color:var(--muted);font:500 .69rem var(--mono);cursor:pointer}.price-range-button:hover{background:var(--surface-2);color:var(--ink)}.price-range-button.active{border-color:var(--line);background:var(--surface-2);color:var(--ink)}.price-canvas-wrap{position:relative;width:100%;margin-top:8px}.price-canvas{display:block;width:100%;height:240px;touch-action:none}.spot-note{margin:10px 0 0;color:var(--muted);font-size:.8rem}
-    @media(max-width:680px){.price-chart-head{display:block}.price-range-controls{margin-top:10px}.price-canvas{height:220px}.metal-strip{align-items:stretch}.metal-strip-label{width:100%}.metal-badge{justify-content:space-between}}
+    @media(max-width:680px){.tabs .tab:first-child{grid-column:auto}.subnav{margin-top:14px}.subtab{flex:1 1 auto}.price-chart-head{display:block}.price-range-controls{margin-top:10px}.price-canvas{height:220px}.metal-strip{align-items:stretch}.metal-strip-label{width:100%}.metal-badge{justify-content:space-between}}
   </style>
 </head>
 <body>
@@ -114,7 +115,8 @@
       </div>
     </header>
 
-    <nav class="nav-wrap" aria-label="Dataset views"><div class="tabs" id="tabs"></div></nav>
+    <nav class="nav-wrap" aria-label="Primary sections"><div class="tabs" id="tabs"></div></nav>
+    <nav class="subnav" id="subnav" aria-label="Section views" hidden></nav>
     <main id="app"></main>
 
     <footer><span>Source data: annual reports, regulatory filings and cited holdings sources.</span><span>Figures preserve each issuer’s reported basis and currency notes.</span></footer>
@@ -142,9 +144,17 @@ const YAHOO_TICKER = {"AbraSilver Resource Corp.":"ABRA.TO","Aftermath Silver Lt
     links:{label:'Mine links',primary:'Mine',columns:['Mine','Mine Operator (Owner)','Country','Royalty/Stream Holder','Holder Ticker','Interest Summary','Mine In Database']},
     etfMethodology:{label:'ETF methods',primary:'ETF Name',columns:['ETF Ticker','ETF Name','Issuer','Index Tracked','Weighting Scheme','Rebalance Frequency','Expense Ratio','AUM (USD)']}
   };
+  const NAV_GROUPS=[
+    {label:'Overview',defaultView:'overview',views:['overview']},
+    {label:'Explore',defaultView:'map',views:['map','chain']},
+    {label:'ETFs',defaultView:'etfHoldings',views:['etfHoldings','etfMethodology']},
+    {label:'Companies',defaultView:'companies',views:['companies','financials']},
+    {label:'Mines',defaultView:'mines',views:['mines','reserves','costs']},
+    {label:'Royalties',defaultView:'royalties',views:['royalties','links']}
+  ];
   const datasets={companies:DATA.companies.rows,mines:DATA.mines.rows,reserves:DATA.reserves.rows,costs:DATA.costs.rows,royalties:DATA.royalties.rows,links:DATA.links.rows,etfHoldings:DATA.etfHoldings.rows,etfMethodology:DATA.etfMethodology.rows,financials:DATA.financials.rows};
   const state={view:'overview',query:'',filters:{},sort:null,dir:1,page:1,pageSize:25,chainETF:'GDX',chainHolding:0,chainMine:0,mapMetric:'Reserve Au (oz)',mapFilters:{company:'',country:'All',etf:'All'},mapStatuses:null};
-  const app=document.getElementById('app'),tabs=document.getElementById('tabs'),drawer=document.getElementById('drawer'),backdrop=document.getElementById('backdrop');
+  const app=document.getElementById('app'),tabs=document.getElementById('tabs'),subnav=document.getElementById('subnav'),drawer=document.getElementById('drawer'),backdrop=document.getElementById('backdrop');
   const esc=v=>String(v??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
   const blank=v=>v===null||v===undefined||v==='';
   const disclosed=v=>blank(v)?'not disclosed':String(v);
@@ -226,7 +236,15 @@ const YAHOO_TICKER = {"AbraSilver Resource Corp.":"ABRA.TO","Aftermath Silver Lt
   function companyIndexForTicker(t){const x=canonTicker(t);return DATA.companies.rows.findIndex(c=>tickerTokens(c.Tickers).includes(x))}
   function financialForCompany(row){const tokens=tickerTokens(row?.Tickers);return DATA.financials.rows.find(f=>tokens.includes(canonTicker(f.Ticker)))||DATA.financials.rows.find(f=>f.Company===row?.Company)}
   function resetView(v){cleanupMap();state.view=v;state.page=1;state.sort=null;state.query='';state.filters={};render()}
-  function renderTabs(){tabs.innerHTML=Object.entries(VIEWS).map(([k,v])=>`<button class="tab ${state.view===k?'active':''}" data-view="${k}" aria-pressed="${state.view===k}">${v.label}${datasets[k]?` <span class="sub-cell" style="display:inline;color:inherit">${datasets[k].length.toLocaleString()}</span>`:''}</button>`).join('');tabs.querySelectorAll('button').forEach(b=>b.onclick=()=>resetView(b.dataset.view))}
+  function renderTabs(){
+    const active=NAV_GROUPS.find(g=>g.views.includes(state.view))||NAV_GROUPS[0];
+    tabs.innerHTML=NAV_GROUPS.map(g=>`<button class="tab ${g===active?'active':''}" data-view="${g.defaultView}" aria-pressed="${g===active}">${g.label}</button>`).join('');
+    tabs.querySelectorAll('button').forEach(b=>b.onclick=()=>resetView(b.dataset.view));
+    if(active.views.length===1){subnav.hidden=true;subnav.innerHTML='';return}
+    subnav.hidden=false;subnav.setAttribute('aria-label',`${active.label} views`);
+    subnav.innerHTML=active.views.map(k=>`<button class="subtab ${state.view===k?'active':''}" data-view="${k}" aria-pressed="${state.view===k}">${VIEWS[k].label}${datasets[k]?`<span class="subtab-count">${datasets[k].length.toLocaleString()}</span>`:''}</button>`).join('');
+    subnav.querySelectorAll('button').forEach(b=>b.onclick=()=>resetView(b.dataset.view))
+  }
   function render(){renderTabs();if(state.view==='overview')renderOverview();else if(state.view==='map')renderMap();else if(state.view==='chain')renderChain();else renderDataView()}
   function metalReferenceStrip(){
     const metals=[['GC=F','Gold'],['SI=F','Silver']],available=metals.map(([symbol,name])=>{const e=priceEntry(symbol);return e?{symbol,name,entry:e,latest:e.points[e.points.length-1][1]}:null}).filter(Boolean);
@@ -295,7 +313,7 @@ const YAHOO_TICKER = {"AbraSilver Resource Corp.":"ABRA.TO","Aftermath Silver Lt
   }
   function initMineMap(){
     const el=document.getElementById('mine-map');if(!window.L){renderPlainMap(mapFilteredRows(),'Interactive map library did not load; showing a geographic plot instead.');return}
-    try{mineMap=L.map(el,{renderer:L.canvas({padding:.5}),worldCopyJump:true,minZoom:1,zoomControl:true,preferCanvas:true}).setView([18,0],2);mapMarkers=L.layerGroup().addTo(mineMap);let loaded=false,errors=0;mapTiles=L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'}).on('load',()=>{loaded=true}).on('tileerror',()=>{errors++;if(errors>=4&&!loaded)showTileFallback()}).addTo(mineMap);mapTileTimer=setTimeout(()=>{if(!loaded)showTileFallback()},5000);mineMap.on('popupopen',e=>{const b=e.popup.getElement()?.querySelector('[data-map-open]');if(b)b.onclick=()=>openDetail('mines',Number(b.dataset.mapOpen))})}catch(err){cleanupMap();renderPlainMap(mapFilteredRows(),'Interactive map could not start; showing a geographic plot instead.')}
+    try{mineMap=L.map(el,{renderer:L.canvas({padding:.5}),worldCopyJump:true,minZoom:1,zoomControl:true,preferCanvas:true}).setView([18,0],2);mapMarkers=L.layerGroup().addTo(mineMap);let loaded=false,errors=0;mapTiles=L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',{subdomains:'abcd',maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'}).on('load',()=>{loaded=true}).on('tileerror',()=>{errors++;if(errors>=4&&!loaded)showTileFallback()}).addTo(mineMap);mapTileTimer=setTimeout(()=>{if(!loaded)showTileFallback()},5000);mineMap.on('popupopen',e=>{const b=e.popup.getElement()?.querySelector('[data-map-open]');if(b)b.onclick=()=>openDetail('mines',Number(b.dataset.mapOpen))})}catch(err){cleanupMap();renderPlainMap(mapFilteredRows(),'Interactive map could not start; showing a geographic plot instead.')}
   }
   function showTileFallback(){const notice=document.getElementById('map-notice');if(!notice||notice.dataset.shown)return;notice.dataset.shown='1';notice.hidden=false;notice.textContent='Map tiles are unavailable. Mine markers remain plotted on a geographic grid.';if(mineMap&&mapTiles){try{mineMap.removeLayer(mapTiles)}catch(e){}}}
   function renderPlainMap(rows,message){const el=document.getElementById('mine-map'),notice=document.getElementById('map-notice');if(notice){notice.hidden=false;notice.textContent=message}const max=Math.max(0,...rows.map(x=>mapMetricValue(x.r)));el.innerHTML=`<div class="plain-map">${rows.map(x=>{const r=x.r,rad=markerRadius(mapMetricValue(r),max),left=(Number(r.longitude)+180)/360*100,top=(90-Number(r.latitude))/180*100;return `<button class="plain-dot" data-map-open="${x.i}" title="${esc(r.Mine)} — ${esc(r.Company)}" aria-label="Open ${esc(r.Mine)} details" style="left:${left}%;top:${top}%;--r:${rad}px;background:${MAP_STATUS_COLORS[mapStatusGroup(r.Status)]}"></button>`}).join('')}</div>`;el.querySelectorAll('[data-map-open]').forEach(b=>b.onclick=()=>openDetail('mines',Number(b.dataset.mapOpen)))}
