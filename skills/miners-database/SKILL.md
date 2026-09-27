@@ -64,9 +64,23 @@ financials. Everything is derived from published annual reports — no estimates
    (~1 req/sec; the script throttles itself).
 7. **Flatten for the web:** convert each sheet to `data/webapp/<sheet>.json`
    as `{"columns": [...], "rows": [...]}` (see `docs/BUILD_NOTES.md`).
-8. **Rebuild the site:** regenerate `index.html` from `data/webapp/`
-   (the page embeds the JSON; keep it a single self-contained file so GitHub
-   Pages serves it with no backend). Then `git add -A && git commit`.
+8. **Rebuild the site:** `python3 scripts/build_website.py` regenerates
+   `index.html` from `data/webapp/*.json` plus the DuckDB price cache — it
+   surgically replaces the embedded `DATA`, `PRICE_HISTORY` and `YAHOO_TICKER`
+   blobs, leaving app code untouched. (Keep the page a single self-contained
+   file so GitHub Pages serves it with no backend.) Then `git add -A && git commit`.
+
+## Price history (charts)
+
+- `scripts/fetch_price_history.py` pulls ~5y of daily bars from Yahoo Finance
+  into the local cache `data/prices.duckdb` (tables: `tickers`, `prices`;
+  universe = all miners + 12 ETFs + gold/silver via COMEX futures `GC=F`/`SI=F`).
+  Re-runs are incremental with `--incremental`; already-fetched tickers are
+  never re-pulled. Also writes `data/ticker_map.json` (company → Yahoo symbol).
+- `scripts/prices_db.py` holds the schema and read/write helpers.
+- Nightly automation: `.github/workflows/nightly-prices.yml` and `Jenkinsfile`
+  both run the incremental fetch + `build_website.py` and push, so Pages
+  redeploys with fresh charts.
 
 ## Sheet join keys (for the ETF → miner → mine → royalty chain)
 

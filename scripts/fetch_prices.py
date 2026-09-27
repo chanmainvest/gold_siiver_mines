@@ -98,4 +98,5 @@ def main():
     ok = sum(1 for v in out.values() if 'price' in v and v['price'])
     print(f'DONE: {ok}/{len(out)} with prices', flush=True)
 
-main()
+if __name__ == '__main__':
+    main()
